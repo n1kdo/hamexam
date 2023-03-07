@@ -1,0 +1,1501 @@
+T1A:[01/11]Station control, frequency privileges authorized to the Technician-class control operator, term of licenses, grace periods and modifications of licenses.
+T1A01|D|What is the control point of an amateur station?
+The on/off switch of the transmitter
+The input/output port of a packet controller
+The variable frequency oscillator of a transmitter
+The location at which the control operator function is performed
+T1A02|B|What is the term for the location at which the control operator function is performed?
+The operating desk
+The control point
+The station location
+The manual control location
+T1A03|A|What must you do to renew or change your operator/primary station license?
+Properly fill out FCC Form 610 and send it to the FCC in Gettysburg, PA
+Properly fill out FCC Form 610 and send it to the nearest FCC field office
+Properly fill out FCC Form 610 and send it to the FCC in Washington, DC
+An amateur license never needs changing or renewing
+T1A04|A|What is the "grace period" during which the FCC will renew an expired 10-year license?
+2 years
+5 years
+10 years
+There is no grace period
+T1A05|C|Which of the following frequencies may a Technician operator who has passed a Morse code test use?
+7.1 - 7.2 MHz
+14.1 - 14.2 MHz
+21.1 - 21.2 MHz
+28.1 - 29.2 MHz
+T1A06|C|Which operator licenses authorize privileges on 52.525 MHz?
+Extra, Advanced only
+Extra, Advanced, General only
+Extra, Advanced, General, Technician only
+Extra, Advanced, General, Technician, Novice
+T1A07|B|Which operator licenses authorize privileges on 146.52 MHz?
+Extra, Advanced, General, Technician, Novice
+Extra, Advanced, General, Technician only
+Extra, Advanced, General only
+Extra, Advanced only
+T1A08|A|Which operator licenses authorize privileges on 223.50 MHz?
+Extra, Advanced, General, Technician, Novice
+Extra, Advanced, General, Technician only
+Extra, Advanced, General only
+Extra, Advanced only
+T1A09|B|Which operator licenses authorize privileges on 446.0 MHz?
+Extra, Advanced, General, Technician, Novice
+Extra, Advanced, General, Technician only
+Extra, Advanced, General only
+Extra, Advanced only
+T1A10|D|In addition to passing the Technician written examination (Elements 2 and 3A), what must you do before you are allowed to use amateur frequencies below 30 MHz?
+Nothing special is needed; all Technicians may use the HF bands at any time
+You must notify the FCC that you intend to operate on the HF bands
+You must attend a class to learn about HF communications
+You must pass a Morse code test (either Element 1A, 1B or 1C)
+T1A11|C|If you are a Technician licensee, what must you have to prove that you are authorized to use the Novice amateur frequencies below 30 MHz?
+A certificate from the FCC showing that you have notified them that you will be using the HF bands
+A certificate from an instructor showing that you have attended a class in HF communications
+Written proof of having passed a Morse code test
+No special proof is required before using the HF bands
+T1B:[01/11]Emission privileges for Technician-class control operator, frequency selection and sharing, transmitter power.
+T1B01|C|At what point in your station is transceiver power measured?
+At the power supply terminals inside the transmitter or amplifier
+At the final amplifier input terminals inside the transmitter or amplifier
+At the antenna terminals of the transmitter or amplifier
+On the antenna itself, after the feed line
+T1B02|D|What is the term for the average power supplied to an antenna transmission line during one RF cycle at the crest of the modulation envelope?
+Peak transmitter power
+Peak output power
+Average radio-frequency power
+Peak envelope power
+T1B03|B|What is the maximum transmitting power permitted an amateur station in beacon operation?
+10 watts PEP output
+100 watts PEP output
+500 watts PEP output
+1500 watts PEP output
+T1B04|C|If the FCC rules say that the amateur service is a secondary user of a frequency band, and another service is a primary user, what does this mean?
+Nothing special; all users of a frequency band have equal rights to operate
+Amateurs are only allowed to use the frequency band during emergencies
+Amateurs are allowed to use the frequency band only if they do not cause harmful interference to primary users
+Amateurs must increase transmitter power to overcome any interference caused by primary users
+T1B05|D|If you are using a frequency within a band assigned to the amateur service on a secondary basis, and a station assigned to the primary service on that band causes interference, what action should you take?
+Notify the FCC's regional Engineer in Charge of the interference
+Increase your transmitter's power to overcome the interference
+Attempt to contact the station and request that it stop the interference
+Change frequencies; you may be causing harmful interference to the other station, in violation of FCC rules
+T1B06|C|What rule applies if two amateur stations want to use the same frequency?
+The station operator with a lesser class of license must yield the frequency to a higher-class licensee
+The station operator with a lower power output must yield the frequency to the station with a higher power output
+Both station operators have an equal right to operate on the frequency
+Station operators in ITU Regions 1 and 3 must yield the frequency to stations in ITU Region 2
+T1B07|A|What emission type may always be used for station identification, regardless of the transmitting frequency?
+CW
+RTTY
+MCW
+Phone
+T1B08|B|On what frequencies within the 6-meter band may phone emissions be transmitted?
+50.0 - 54.0 MHz only
+50.1 - 54.0 MHz only
+51.0 - 54.0 MHz only
+52.0 - 54.0 MHz only
+T1B09|A|On what frequencies within the 2-meter band may image emissions be transmitted?
+144.1 - 148.0 MHz only
+146.0 - 148.0 MHz only
+144.0 - 148.0 MHz only
+146.0 - 147.0 MHz only
+T1B10|D|What is the maximum transmitting power permitted an amateur station on 146.52 MHz?
+200 watts PEP output
+500 watts ERP
+1000 watts DC input
+1500 watts PEP output
+T1B11|A|Which band may NOT be used by Earth stations for satellite communications?
+6 meters
+2 meters
+70 centimeters
+23 centimeters
+T1C:[01/11]Digital communications, station identification, ID with CSCE.
+T1C01|A|If you are a Novice licensee with a Certificate of Successful Completion of Examination (CSCE) for Technician privileges, how do you identify your station when transmitting on 146.34 MHz?
+You must give your call sign, followed by any suitable word that denotes the slant mark and the identifier "KT"
+You may not operate on 146.34 until your new license arrives
+No special form of identification is needed
+You must give your call sign and the location of the VE examination where you obtained the CSCE
+T1C02|C|What is the maximum frequency shift permitted for RTTY or data transmissions below 50 MHz?
+0.1 kHz
+0.5 kHz
+1 kHz
+5 kHz
+T1C03|D|What is the maximum frequency shift permitted for RTTY or data transmissions above 50 MHz?
+0.1 kHz or the sending speed, in bauds, whichever is greater
+0.5 kHz or the sending speed, in bauds, whichever is greater
+5 kHz or the sending speed, in bauds, whichever is greater
+The FCC rules do not specify a maximum frequency shift above 50 MHz
+T1C04|B|What is the maximum symbol rate permitted for packet transmissions on the 10-meter band?
+300 bauds
+1200 bauds
+19.6 kilobauds
+56 kilobauds
+T1C05|C|What is the maximum symbol rate permitted for packet transmissions on the 2-meter band?
+300 bauds
+1200 bauds
+19.6 kilobauds
+56 kilobauds
+T1C06|C|What is the maximum symbol rate permitted for RTTY or data transmissions between 28 and 50 MHz?
+56 kilobauds
+19.6 kilobauds
+1200 bauds
+300 bauds
+T1C07|B|What is the maximum symbol rate permitted for RTTY or data transmissions between 50 and 222 MHz?
+56 kilobauds
+19.6 kilobauds
+1200 bauds
+300 bauds
+T1C08|A|What is the maximum authorized bandwidth of RTTY, data or multiplexed emissions using an unspecified digital code within the frequency range of 50 to 222 MHz?
+20 kHz
+50 kHz
+The total bandwidth shall not exceed that of a single-sideband phone emission
+The total bandwidth shall not exceed 10 times that of a CW emission
+T1C09|D|What is the maximum symbol rate permitted for RTTY or data transmissions above 222 MHz?
+300 bauds
+1200 bauds
+19.6 kilobauds
+56 kilobauds
+T1C10|B|What is the maximum authorized bandwidth of RTTY, data or multiplexed emissions using an unspecified digital code within the frequency range of 222 to 450 MHz?
+50 kHz
+100 kHz
+150 kHz
+200 kHz
+T1C11|C|What is the maximum authorized bandwidth of RTTY, data or multiplexed emissions using an unspecified digital code within the 70-cm amateur band?
+300 kHz
+200 kHz
+100 kHz
+50 kHz
+T1D:[01/11]Correct language, Phonetics, Beacons and Radio Control of model craft and vehicles.
+T1D01|A|What is an amateur station called which transmits communications for the purpose of observation of propagation and reception?
+A beacon
+A repeater
+An auxiliary station
+A radio control station
+T1D02|B|What is the fastest code speed a repeater may use for automatic identification?
+13 words per minute
+20 words per minute
+25 words per minute
+There is no limitation
+T1D03|C|If you are using a language besides English to make a contact, what language must you use when identifying your station?
+The language being used for the contact
+The language being used for the contact, providing the US has a third-party communications agreement with that country 
+English
+Any language of a country which is a member of the International Telecommunication Union
+T1D04|C|What do the FCC rules suggest you use as an aid for correct station identification when using phone?
+A speech compressor
+Q signals
+A phonetic alphabet
+Unique words of your choice
+T1D05|B|What minimum class of amateur license must you hold to operate a beacon station?
+Novice
+Technician
+General
+Amateur Extra
+T1D06|A|If a repeater is causing harmful interference to another repeater and a frequency coordinator has recommended the operation of one station only, who is responsible for resolving the interference?
+The licensee of the unrecommended repeater
+Both repeater licensees
+The licensee of the recommended repeater
+The frequency coordinator
+T1D07|D|If a repeater is causing harmful interference to another amateur repeater and a frequency coordinator has recommended the operation of both stations, who is responsible for resolving the interference?
+The licensee of the repeater which has been recommended for the longest period of time
+The licensee of the repeater which has been recommended the most recently
+The frequency coordinator
+Both repeater licensees
+T1D08|A|If a repeater is causing harmful interference to another repeater and a frequency coordinator has NOT recommended either station, who is primarily responsible for resolving the interference?
+Both repeater licensees
+The licensee of the repeater which has been in operation for the longest period of time
+The licensee of the repeater which has been in operation for the shortest period of time
+The frequency coordinator
+T1D09|C|What minimum information must be on a label affixed to a transmitter used for telecommand (control) of model craft?
+Station call sign
+Station call sign and the station licensee's name
+Station call sign and the station licensee's name and address
+Station call sign and the station licensee's class of license
+T1D10|D|What are the station identification requirements for an amateur transmitter used for telecommand (control) of model craft?
+Once every ten minutes
+Once every ten minutes, and at the beginning and end of each transmission
+At the beginning and end of each transmission
+Station identification is not required if the transmitter is labeled with the station licensee's name, address and call sign
+T1D11|B|What is the maximum transmitter power an amateur station is allowed when used for telecommand (control) of model craft?
+One milliwatt
+One watt
+Two watts
+Three watts
+T1E:[01/11]Emergency communications; broadcasting; permissible one-way, satellite and third-party communication; indecent and profane language.
+T1E01|A|What is meant by the term broadcasting?
+Transmissions intended for reception by the general public, either direct or relayed
+Retransmission by automatic means of programs or signals from non-amateur stations
+One-way radio communications, regardless of purpose or content
+One-way or two-way radio communications between two or more stations
+T1E02|B|Which of the following one-way communications may not be transmitted in the amateur service?
+Telecommands to model craft
+Broadcasts intended for the general public
+Brief transmissions to make adjustments to the station
+Morse code practice
+T1E03|D|What kind of payment is allowed for third-party messages sent by an amateur station?
+Any amount agreed upon in advance
+Donation of equipment repairs
+Donation of amateur equipment
+No payment of any kind is allowed
+T1E04|B|When may you send obscene words from your amateur station?
+Only when they do not cause interference to other communications
+Never; obscene words are prohibited in amateur transmissions
+Only when they are not retransmitted through a repeater
+Any time, but there is an unwritten rule among amateurs that they should not be used on the air
+T1E05|D|When may you send indecent words from your amateur station?
+Only when they do not cause interference to other communications
+Only when they are not retransmitted through a repeater
+Any time, but there is an unwritten rule among amateurs that they should not be used on the air
+Never; indecent words are prohibited in amateur transmissions
+T1E06|C|When may you send profane words from your amateur station?
+Only when they do not cause interference to other communications
+Only when they are not retransmitted through a repeater
+Never; profane words are prohibited in amateur transmissions
+Any time, but there is an unwritten rule among amateurs that they should not be used on the air
+T1E07|C|If you wanted to use your amateur station to retransmit communications between a space shuttle and its associated Earth stations, what agency must first give its approval?
+The FCC in Washington, DC
+The office of your local FCC Engineer In Charge (EIC)
+The National Aeronautics and Space Administration
+The Department of Defense
+T1E08|D|When are third-party messages allowed to be sent to a foreign country?
+When sent by agreement of both control operators
+When the third party speaks to a relative
+They are not allowed under any circumstances
+When the US has a third-party agreement with the foreign country or the third party is qualified to be a control operator
+T1E09|A|If you let an unlicensed third party use your amateur station, what must you do at your station's control point?
+You must continuously monitor and supervise the third-party's participation
+You must monitor and supervise the communication only if contacts are made in countries which have no third-party communications agreement with the US
+You must monitor and supervise the communication only if contacts are made on frequencies below 30 MHz
+You must key the transmitter and make the station identification
+T1E10|A|If a disaster disrupts normal communication systems in an area where the amateur service is regulated by the FCC, what kinds of transmissions may stations make?
+Those which are necessary to meet essential communication needs and facilitate relief actions
+Those which allow a commercial business to continue to operate in the affected area
+Those for which material compensation has been paid to the amateur operator for delivery into the affected area
+Those which are to be used for program production or newsgathering for broadcasting purposes
+T1E11|C|What information is included in an FCC declaration of a temporary state of communication emergency?
+A list of organizations authorized to use radio communications in the affected area
+A list of amateur frequency bands to be used in the affected area
+Any special conditions and special rules to be observed during the emergency
+An operating schedule for authorized amateur emergency stations
+T2A:[01/18]Repeater operation, courteous operation.
+T2A01|B|How do you call another station on a repeater if you know the station's call sign?
+Say "break, break 79," then say the station's call sign
+Say the station's call sign, then identify your own station
+Say "CQ" three times, then say the station's call sign
+Wait for the station to call "CQ," then answer it
+T2A02|C|Why should you pause briefly between transmissions when using a repeater?
+To check the SWR of the repeater
+To reach for pencil and paper for third-party communications
+To listen for anyone wanting to break in
+To dial up the repeater's autopatch
+T2A03|A|Why should you keep transmissions short when using a repeater?
+A long transmission may prevent someone with an emergency from using the repeater
+To see if the receiving station operator is still awake
+To give any listening non-hams a chance to respond
+To keep long-distance charges down
+T2A04|D|What is the proper way to break into a conversation on a repeater?
+Wait for the end of a transmission and start calling the desired party
+Shout, "break, break!" to show that you're eager to join the conversation
+Turn on an amplifier and override whoever is talking
+Say your call sign during a break between transmissions
+T2A05|B|What is the purpose of repeater operation?
+To cut your power bill by using someone else's higher power system
+To help mobile and low-power stations extend their usable range
+To transmit signals for observing propagation and reception
+To make calls to stores more than 50 miles away
+T2A06|B|What causes a repeater to "time out"?
+The repeater's battery supply runs out
+Someone's transmission goes on longer than the repeater allows
+The repeater gets too hot and stops transmitting until its circuitry cools off
+Something is wrong with the repeater
+T2A07|D|During commuting rush hours, which type of repeater operation should be discouraged?
+Mobile stations
+Low-power stations
+Highway traffic information nets
+Third-party communications nets
+T2A08|B|What is a courtesy tone (used in repeater operations)?
+A sound used to identify the repeater
+A sound used to indicate when a transmission is complete
+A sound used to indicate that a message is waiting for someone
+A sound used to activate a receiver in case of severe weather
+T2A09|A|What is the meaning of: "Your signal is full quieting..."?
+Your signal is strong enough to overcome all receiver noise
+Your signal has no spurious sounds
+Your signal is not strong enough to be received
+Your signal is being received, but no audio is being heard
+T2A10|C|How should you give a signal report over a repeater?
+Say what your receiver's S-meter reads
+Always say: "Your signal report is five five..."
+Say the amount of signal quieting into the repeater
+Try to imitate the sound quality you are receiving
+T2A11|A|What is a repeater called which is available for anyone to use?
+An open repeater
+A closed repeater
+An autopatch repeater
+A private repeater
+T2A12|A|What is the usual input/output frequency separation for repeaters in the 2-meter band?
+600 kHz
+1.0 MHz
+1.6 MHz
+5.0 MHz
+T2A13|C|What is the usual input/output frequency separation for repeaters in the 1.25-meter band?
+600 kHz
+1.0 MHz
+1.6 MHz
+5.0 MHz
+T2A14|D|What is the usual input/output frequency separation for repeaters in the 70-centimeter band?
+600 kHz
+1.0 MHz
+1.6 MHz
+5.0 MHz
+T2A15|A|Why should local amateur communications use VHF and UHF frequencies instead of HF frequencies?
+To minimize interference on HF bands capable of long-distance communication
+Because greater output power is permitted on VHF and UHF
+Because HF transmissions are not propagated locally
+Because signals are louder on VHF and UHF frequencies
+T2A16|A|How might you join a closed repeater system?
+Contact the control operator and ask to join
+Use the repeater until told not to
+Use simplex on the repeater input until told not to
+Write the FCC and report the closed condition
+T2A17|B|How can on-the-air interference be minimized during a lengthy transmitter testing or loading-up procedure?
+Choose an unoccupied frequency
+Use a dummy load
+Use a non-resonant antenna
+Use a resonant antenna that requires no loading-up procedure
+T2A18|C|What is the proper way to ask someone their location when using a repeater?
+What is your QTH
+What is your 20
+Where are you
+Locations are not normally told by radio
+T2B:[01/11]Simplex operations, Q signals, RST signal reporting, repeater frequency coordination. 
+T2B01|C|Why should simplex be used where possible, instead of using a repeater?
+Signal range will be increased
+Long distance toll charges will be avoided
+The repeater will not be tied up unnecessarily
+Your antenna's effectiveness will be better tested
+T2B02|A|If you are talking to a station using a repeater, how would you find out if you could communicate using simplex instead?
+See if you can clearly receive the station on the repeater's input frequency
+See if you can clearly receive the station on a lower frequency band
+See if you can clearly receive a more distant repeater
+See if a third station can clearly receive both of you
+T2B03|C|If you are operating simplex on a repeater frequency, why would it be good amateur practice to change to another frequency?
+The repeater's output power may ruin your station's receiver
+There are more repeater operators than simplex operators
+Changing the repeater's frequency is not practical
+Changing the repeater's frequency requires the authorization of the FCC
+T2B04|D|What is a repeater frequency coordinator?
+Someone who organizes the assembly of a repeater station
+Someone who provides advice on what kind of repeater to buy
+The person whose call sign is used for a repeater's identification
+A person or group that recommends frequencies for repeater usage
+T2B05|C|What is the proper Q signal to use to see if a frequency is in use before transmitting on CW?
+QRV?
+QRU?
+QRL?
+QRZ?
+T2B06|A|What is one meaning of the Q signal "QSY"?
+Change frequency
+Send more slowly
+Send faster
+Use more power
+T2B07|B|What is one meaning of the Q signal "QSO"?
+A contact is confirmed
+A conversation is in progress
+A contact is ending
+A conversation is desired
+T2B08|B|What is the proper Q signal to use to ask if someone is calling you on CW?
+QSL?
+QRZ?
+QRL?
+QRT?
+T2B09|A|What is the meaning of: "Your signal report is five seven..."?
+Your signal is perfectly readable and moderately strong
+Your signal is perfectly readable, but weak
+Your signal is readable with considerable difficulty
+Your signal is perfectly readable with near pure tone
+T2B10|C|What is the meaning of: "Your signal report is three three..."?
+The contact is serial number thirty-three
+The station is located at latitude 33 degrees
+Your signal is readable with considerable difficulty and weak in strength
+Your signal is unreadable, very weak in strength
+T2B11|D|What is the meaning of: "Your signal report is five nine plus 20 dB..."?
+Your signal strength has increased by a factor of 100
+Repeat your transmission on a frequency 20 kHz higher
+The bandwidth of your signal is 20 decibels above linearity
+A relative signal-strength meter reading is 20 decibels greater than strength 9
+T2C:[01/12]Distress calling and emergency drills and communications - operations and equipment, Radio Amateur Civil Emergency Service (RACES)
+T2C01|A|What is the proper distress call to use when operating phone?
+Say "MAYDAY" several times
+Say "HELP" several times
+Say "EMERGENCY" several times
+Say "SOS" several times
+T2C02|D|What is the proper distress call to use when operating CW?
+MAYDAY
+QRRR
+QRZ
+SOS
+T2C03|A|What is the proper way to interrupt a repeater conversation to signal a distress call?
+Say "BREAK" twice, then your call sign
+Say "HELP" as many times as it takes to get someone to answer
+Say "SOS," then your call sign
+Say "EMERGENCY" three times
+T2C04|C|With what organization must you register before you can participate in RACES drills?
+A local Amateur Radio club
+A local racing organization
+The responsible civil defense organization
+The Federal Communications Commission
+T2C05|A|What is the maximum number of hours allowed per week for RACES drills?
+One
+Six, but not more than one hour per day
+Eight
+As many hours as you want
+T2C06|D|How must you identify messages sent during a RACES drill?
+As emergency messages
+As amateur traffic
+As official government messages
+As drill or test messages
+T2C07|B|What is one reason for using tactical call signs such as "command post" or "weather center" during an emergency?
+They keep the general public informed about what is going on
+They are more efficient and help coordinate public-service communications
+They are required by the FCC
+They increase goodwill between amateurs
+T2C08|D|What type of messages concerning a person's well-being are sent into or out of a disaster area?
+Routine traffic
+Tactical traffic
+Formal message traffic
+Health and Welfare traffic
+T2C09|B|What are messages called which are sent into or out of a disaster area concerning the immediate safety of human life?
+Tactical traffic
+Emergency traffic
+Formal message traffic
+Health and Welfare traffic
+T2C10|B|Why is it a good idea to have a way to operate your amateur station without using commercial AC power lines?
+So you may use your station while mobile
+So you may provide communications in an emergency
+So you may operate in contests where AC power is not allowed
+So you will comply with the FCC rules
+T2C11|C|What is the most important accessory to have for a hand-held radio in an emergency?
+An extra antenna
+A portable amplifier
+Several sets of charged batteries
+A microphone headset for hands-free operation
+T2C12|C|Which type of antenna would be a good choice as part of a portable HF amateur station that could be set up in case of an emergency?
+A three-element quad
+A three-element Yagi
+A dipole
+A parabolic dish
+T3A:[01/11]Ionosphere, ionospheric regions, solar radiation.
+T3A01|A|What is the ionosphere?
+An area of the outer atmosphere where enough ions and free electrons exist to propagate radio waves
+An area between two air masses of different temperature and humidity, along which radio waves can travel
+An ionized path in the atmosphere where lightning has struck 
+An area of the atmosphere where weather takes place
+T3A02|D|What is the name of the area that makes long-distance radio communications possible by bending radio waves?
+Troposphere
+Stratosphere
+Magnetosphere
+Ionosphere
+T3A03|A|What causes the ionosphere to form?
+Solar radiation ionizing the outer atmosphere
+Temperature changes ionizing the outer atmosphere
+Lightning ionizing the outer atmosphere
+Release of fluorocarbons into the atmosphere
+T3A04|C|What type of solar radiation is most responsible for ionization in the outer atmosphere?
+Thermal
+Ionized particle
+Ultraviolet
+Microwave
+T3A05|A|Which ionospheric region limits daytime radio communications on the 80-meter band to short distances?
+D region
+E region
+F1 region
+F2 region
+T3A06|B|Which ionospheric region is closest to the earth?
+The A region
+The D region
+The E region
+The F region
+T3A07|B|Which ionospheric region most affects sky-wave propagation on the 6-meter band?
+The D region
+The E region
+The F1 region
+The F2 region
+T3A08|A|Which region of the ionosphere is the least useful for long-distance radio-wave propagation?
+The D region
+The E region
+The F1 region
+The F2 region
+T3A09|D|Which region of the ionosphere is mainly responsible for long-distance sky-wave radio communications?
+D region
+E region
+F1 region
+F2 region
+T3A10|B|What two sub-regions of ionosphere exist only in the daytime?
+Troposphere and stratosphere
+F1 and F2
+Electrostatic and electromagnetic
+D and E
+T3A11|C|Which two daytime ionospheric regions combine into one region at night?
+E and F1
+D and E
+F1 and F2
+E1 and E2
+T3B:[01/11]Ionospheric absorption, causes and variation, maximum usable frequency.
+T3B01|D|Which region of the ionosphere is mainly responsible for absorbing radio signals during the daytime?
+The F2 region
+The F1 region
+The E region
+The D region
+T3B02|B|When does ionospheric absorption of radio signals occur?
+When tropospheric ducting occurs
+When long-wavelength signals enter the D region
+When signals travel to the F region
+When a temperature inversion occurs
+T3B03|A|What effect does the D region of the ionosphere have on lower-frequency HF signals in the daytime?
+It absorbs the signals
+It bends the radio waves out into space
+It refracts the radio waves back to earth
+It has little or no effect on 80-meter radio waves
+T3B04|B|What causes the ionosphere to absorb radio waves?
+The weather below the ionosphere
+The ionization of the D region
+The presence of ionized clouds in the E region
+The splitting of the F region
+T3B05|D|What is the condition of the ionosphere just before local sunrise?
+Atmospheric attenuation is at a maximum
+The D region is above the E region
+The E region is above the F region
+Ionization is at a minimum
+T3B06|C|When is the ionosphere most ionized?
+Dusk
+Midnight
+Midday
+Dawn
+T3B07|A|When is the ionosphere least ionized?
+Shortly before dawn
+Just after noon
+Just after dusk
+Shortly before midnight
+T3B08|B|When is the E region most ionized?
+Dawn
+Midday
+Dusk
+Midnight
+T3B09|A|What happens to signals higher in frequency than the critical frequency?
+They pass through the ionosphere
+They are absorbed by the ionosphere
+Their frequency is changed by the ionosphere to be below the maximum usable frequency
+They are reflected back to their source
+T3B10|C|What causes the maximum usable frequency to vary?
+The temperature of the ionosphere
+The speed of the winds in the upper atmosphere
+The amount of radiation received from the sun, mainly ultraviolet
+The type of weather just below the ionosphere
+T3B11|A|What does maximum usable frequency mean?
+The highest frequency signal that will reach its intended destination
+The lowest frequency signal that will reach its intended destination
+The highest frequency signal that is most absorbed by the ionosphere
+The lowest frequency signal that is most absorbed by the ionosphere
+T3C:[01/11]Propagation, including ionospheric, tropospheric, line-of-sight scatter propagation, and Maximum Usable Frequency.
+T3C01|C|What kind of propagation would best be used by two stations within each other's skip zone on a certain frequency?
+Ground-wave
+Sky-wave
+Scatter-mode
+Ducting
+T3C02|C|If you are receiving a weak and distorted signal from a distant station on a frequency close to the maximum usable frequency, what type of propagation is probably occurring?
+Ducting
+Line-of-sight
+Scatter
+Ground-wave
+T3C03|B|How are VHF signals propagated within the range of the visible horizon?
+By sky wave
+By direct wave
+By plane wave
+By geometric wave
+T3C04|C|Ducting occurs in which region of the atmosphere?
+F2
+Ectosphere
+Troposphere
+Stratosphere
+T3C05|A|What effect does tropospheric bending have on 2-meter radio waves?
+It lets you contact stations farther away
+It causes them to travel shorter distances
+It garbles the signal
+It reverses the sideband of the signal
+T3C06|D|What causes tropospheric ducting of radio waves?
+A very low pressure area
+An aurora to the north
+Lightning between the transmitting and receiving stations
+A temperature inversion
+T3C07|B|What causes VHF radio waves to be propagated several hundred miles over oceans?
+A polar air mass
+A widespread temperature inversion
+An overcast of cirriform clouds
+A high-pressure zone
+T3C08|D|In what frequency range does tropospheric ducting most often occur?
+SW
+MF
+HF
+VHF
+T3C09|D|In what frequency range does sky-wave propagation least often occur?
+LF
+MF
+HF
+VHF
+T3C10|A|What weather condition may cause tropospheric ducting?
+A stable high-pressure system
+An unstable low-pressure system
+A series of low-pressure waves
+Periods of heavy rainfall
+T3C11|D|What band conditions might indicate long-range skip on the 6-meter and 2-meter bands?
+Noise on the 80-meter band
+The absence of signals on the 10-meter band
+Very long-range skip on the 10-meter band
+Strong signals on the 10-meter band from stations about 500-600 miles away
+T4A:[01/15]Electrical wiring, including switch location, dangerous voltages and currents.
+T4A01|C|Where should the green wire in a three-wire AC line cord be connected in a power supply?
+To the fuse
+To the "hot" side of the power switch
+To the chassis
+To the white wire
+T4A02|D|Where should the black (or red) wire in a three-wire AC line cord be connected in a power supply?
+To the white wire
+To the green wire
+To the chassis
+To the fuse
+T4A03|B|Where should the white wire in a three-wire AC line cord be connected in a power supply?
+To the side of the power transformer's primary winding that has a fuse
+To the side of the power transformer's primary winding that does not have a fuse
+To the chassis
+To the black wire
+T4A04|D|What document is used by almost every US city as the basis for electrical safety requirements for power wiring and antennas?
+The Code of Federal Regulations
+The Proceedings of the IEEE
+The ITU Radio Regulations
+The National Electrical Code
+T4A05|C|What document would you use to see if you comply with standard electrical safety rules when building an amateur antenna?
+The Code of Federal Regulations
+The Proceedings of the IEEE
+The National Electrical Code
+The ITU Radio Regulations
+T4A06|D|Where should fuses be connected on a mobile transceiver's DC power cable?
+Between the red and black wires
+In series with just the black wire
+In series with just the red wire
+In series with both the red and black wires
+T4A07|B|Why is the retaining screw in one terminal of a wall outlet made of brass while the other one is silver colored?
+To prevent corrosion
+To indicate correct wiring polarity
+To better conduct current
+To reduce skin effect
+T4A08|A|How much electrical current flowing through the human body is usually fatal?
+As little as 1/10 of an ampere
+Approximately 10 amperes
+More than 20 amperes
+Current flow through the human body is never fatal
+T4A09|A|Which body organ can be fatally affected by a very small amount of electrical current?
+The heart
+The brain
+The liver
+The lungs
+T4A10|A|How much electrical current flowing through the human body is usually painful?
+As little as 1/500 of an ampere
+Approximately 10 amperes
+More than 20 amperes
+Current flow through the human body is never painful
+T4A11|A|What is the minimum voltage which is usually dangerous to humans?
+30 volts
+100 volts
+1000 volts
+2000 volts
+T4A12|C|Where should the main power switch for a high-voltage power supply be located?
+Inside the cabinet, to kill the power if the cabinet is opened
+On the back side of the cabinet, out of sight
+Anywhere that can be seen and reached easily
+A high-voltage power supply should not be switch-operated
+T4A13|B|What precaution should you take when leaning over a power amplifier?
+Take your shoes off
+Watch out for loose jewelry contacting high voltage
+Shield your face from the heat produced by the power supply
+Watch out for sharp edges which may snag your clothing
+T4A14|C|What is an important safety rule concerning the main electrical box in your home?
+Make sure the door cannot be opened easily
+Make sure something is placed in front of the door so no one will be able to get to it easily
+Make sure others in your home know where it is and how to shut off the electricity
+Warn others in your home never to touch the switches, even in an emergency
+T4A15|B|What should you do if you discover someone who is being burned by high voltage?
+Run from the area so you won't be burned too
+Turn off the power, call for emergency help and give CPR if needed
+Immediately drag the person away from the high voltage
+Wait for a few minutes to see if the person can get away from the high voltage on their own, then try to help
+T4B:[01/11]Meters, including volt, amp, multi, peak-reading, RF watt and placement, and ratings of fuses and switches.
+T4B01|B|How is a voltmeter usually connected to a circuit under test?
+In series with the circuit
+In parallel with the circuit
+In quadrature with the circuit
+In phase with the circuit
+T4B02|C|How can the range of a voltmeter be increased?
+By adding resistance in series with the circuit under test
+By adding resistance in parallel with the circuit under test
+By adding resistance in series with the meter, between the meter and the circuit under test
+By adding resistance in parallel with the meter, between the meter and the circuit under test
+T4B03|A|What happens inside a voltmeter when you switch it from a lower to a higher voltage range?
+Resistance is added in series with the meter
+Resistance is added in parallel with the meter
+Resistance is reduced in series with the meter
+Resistance is reduced in parallel with the meter
+T4B04|A|How is an ammeter usually connected to a circuit under test?
+In series with the circuit
+In parallel with the circuit
+In quadrature with the circuit
+In phase with the circuit
+T4B05|D|How can the range of an ammeter be increased?
+By adding resistance in series with the circuit under test
+By adding resistance in parallel with the circuit under test
+By adding resistance in series with the meter
+By adding resistance in parallel with the meter
+T4B06|D|What does a multimeter measure?
+SWR and power
+Resistance, capacitance and inductance
+Resistance and reactance
+Voltage, current and resistance
+T4B07|A|Where should an RF wattmeter be connected for the most accurate readings of transmitter output power?
+At the transmitter output connector
+At the antenna feed point
+One-half wavelength from the transmitter output
+One-half wavelength from the antenna feed point
+T4B08|B|At what line impedance do most RF wattmeters usually operate?
+25 ohms
+50 ohms
+100 ohms
+300 ohms
+T4B09|A|What does a directional wattmeter measure?
+Forward and reflected power
+The directional pattern of an antenna
+The energy used by a transmitter
+Thermal heating in a load resistor
+T4B10|B|If a directional RF wattmeter reads 90 watts forward power and 10 watts reflected power, what is the actual transmitter output power?
+10 watts
+80 watts
+90 watts
+100 watts
+T4B11|C|If a directional RF wattmeter reads 96 watts forward power and 4 watts reflected power, what is the actual transmitter output power?
+80 watts
+88 watts
+92 watts
+100 watts
+T4C:[01/11]Marker generator, crystal calibrator, signal generators and impedance-match indicator.
+T4C01|A|What is a marker generator?
+A high-stability oscillator that generates reference signals at exact frequency intervals
+A low-stability oscillator that "sweeps" through a range of frequencies
+A low-stability oscillator used to inject a signal into a circuit under test
+A high-stability oscillator which can produce a wide range of frequencies and amplitudes
+T4C02|A|How is a marker generator used?
+To calibrate the tuning dial on a receiver
+To calibrate the volume control on a receiver
+To test the amplitude linearity of a transmitter
+To test the frequency deviation of a transmitter
+T4C03|D|What device is used to inject a frequency calibration signal into a receiver?
+A calibrated voltmeter
+A calibrated oscilloscope
+A calibrated wavemeter
+A crystal calibrator
+T4C04|B|What frequency standard may be used to calibrate the tuning dial of a receiver?
+A calibrated voltmeter
+Signals from WWV and WWVH
+A deviation meter
+A sweep generator
+T4C05|C|How might you check the accuracy of your receiver's tuning dial?
+Tune to the frequency of a shortwave broadcasting station
+Tune to a popular amateur net frequency
+Tune to one of the frequencies of station WWV or WWVH
+Tune to another amateur station and ask what frequency the operator is using
+T4C06|C|What device produces a stable, low-level signal that can be set to a desired frequency?
+A wavemeter
+A reflectometer
+A signal generator
+An oscilloscope
+T4C07|B|What is an RF signal generator used for?
+Measuring RF signal amplitudes
+Aligning tuned circuits
+Adjusting transmitter impedance-matching networks
+Measuring transmission-line impedances
+T4C08|D|What device can measure an impedance mismatch in your antenna system?
+A field-strength meter
+An ammeter
+A wavemeter
+A reflectometer
+T4C09|A|Where should a reflectometer be connected for best accuracy when reading the impedance match between an antenna and its feed line?
+At the antenna feed point
+At the transmitter output connector
+At the midpoint of the feed line
+Anywhere along the feed line
+T4C10|A|If you use a 3-30 MHz RF power meter for VHF, how accurate will its readings be?
+They will not be accurate
+They will be accurate enough to get by
+If it properly calibrates to full scale in the set position, they may be accurate
+They will be accurate providing the readings are multiplied by 4.5
+T4C11|C|If you use a 3-30 MHz SWR meter for VHF, how accurate will its readings be?
+They will not be accurate
+They will be accurate enough to get by
+If it properly calibrates to full scale in the set position, they may be accurate
+They will be accurate providing the readings are multiplied by 4.5
+T4D:[01/16]Dummy antennas, S-meter, exposure of the human body to RF.
+T4D01|D|What device should be connected to a transmitter's output when you are making transmitter adjustments?
+A multimeter
+A reflectometer
+A receiver
+A dummy antenna
+T4D02|B|What is a dummy antenna?
+An nondirectional transmitting antenna
+A nonradiating load for a transmitter
+An antenna used as a reference for gain measurements
+A flexible antenna usually used on hand-held transceivers
+T4D03|C|What is the main component of a dummy antenna?
+A wire-wound resistor
+An iron-core coil
+A noninductive resistor
+An air-core coil
+T4D04|B|What device is used in place of an antenna during transmitter tests so that no signal is radiated?
+An antenna matcher
+A dummy antenna
+A low-pass filter
+A decoupling resistor
+T4D05|A|Why would you use a dummy antenna?
+For off-the-air transmitter testing
+To reduce output power
+To give comparative signal reports
+To allow antenna tuning without causing interference
+T4D06|A|What minimum rating should a dummy antenna have for use with a 100-watt single-sideband phone transmitter?
+100 watts continuous
+141 watts continuous
+175 watts continuous
+200 watts continuous
+T4D07|D|Why might a dummy antenna get warm when in use?
+Because it stores electric current
+Because it stores radio waves
+Because it absorbs static electricity
+Because it changes RF energy into heat
+T4D08|A|What is used to measure relative signal strength in a receiver?
+An S meter
+An RST meter
+A signal deviation meter
+An SSB meter
+T4D09|B|How can exposure to a large amount of RF energy affect body tissue?
+It causes radiation poisoning
+It heats the tissue
+It paralyzes the tissue
+It produces genetic changes in the tissue
+T4D10|A|Which body organ is the most likely to be damaged from the heating effects of RF radiation?
+Eyes
+Hands
+Heart
+Liver
+T4D11|D|What organization has published safety guidelines for the maximum limits of RF energy near the human body?
+The Institute of Electrical and Electronics Engineers (IEEE)
+The Federal Communications Commission (FCC)
+The Environmental Protection Agency (EPA)
+The American National Standards Institute (ANSI)
+T4D12|B|What is the purpose of the ANSI RF protection guide?
+It lists all RF frequency allocations for interference protection
+It gives RF exposure limits for the human body
+It sets transmitter power limits for interference protection
+It sets antenna height limits for aircraft protection
+T4D13|D|According to the ANSI RF protection guide, what frequencies cause us the greatest risk from RF energy?
+3 to 30 MHz
+300 to 3000 MHz
+Above 1500 MHz
+30 to 300 MHz
+T4D14|D|Why is the limit of exposure to RF the lowest in the frequency range of 30 MHz to 300 MHz, according to the ANSI RF protection guide?
+There are more transmitters operating in this range
+There are fewer transmitters operating in this range
+Most transmissions in this range are for a longer time
+The human body absorbs RF energy the most in this range
+T4D15|B|According to the ANSI RF protection guide, what is the maximum safe power output to the antenna of a hand-held VHF or UHF radio?
+125 milliwatts
+7 watts
+10 watts
+25 watts
+T4D16|C|After you have opened a VHF power amplifier to make internal tuning adjustments, what should you do before you turn the amplifier on?
+Remove all amplifier shielding to ensure maximum cooling
+Make sure that the power interlock switch is bypassed so you can test the amplifier
+Be certain all amplifier shielding is fastened in place
+Be certain no antenna is attached so that you will not cause any interference
+T5A:[01/11]Definition of resistance, inductance, and capacitance and unit of measurement, calculation of values in series and parallel.
+T5A01|D|What does resistance do in an electric circuit?
+It stores energy in a magnetic field
+It stores energy in an electric field
+It provides electrons by a chemical reaction
+It opposes the flow of electrons
+T5A02|D|What is the ability to store energy in a magnetic field called?
+Admittance
+Capacitance
+Resistance
+Inductance
+T5A03|C|What is the basic unit of inductance?
+The coulomb
+The farad
+The henry
+The ohm
+T5A04|C|What is a henry?
+The basic unit of admittance
+The basic unit of capacitance
+The basic unit of inductance
+The basic unit of resistance
+T5A05|D|What is the ability to store energy in an electric field called?
+Inductance
+Resistance
+Tolerance
+Capacitance
+T5A06|A|What is the basic unit of capacitance?
+The farad
+The ohm
+The volt
+The henry
+T5A07|B|What is a farad?
+The basic unit of resistance
+The basic unit of capacitance
+The basic unit of inductance
+The basic unit of admittance
+T5A08|B|If two equal-value inductors are connected in series, what is their total inductance?
+Half the value of one inductor
+Twice the value of one inductor
+The same as the value of either inductor
+The value of one inductor times the value of the other
+T5A09|A|If two equal-value inductors are connected in parallel, what is their total inductance?
+Half the value of one inductor
+Twice the value of one inductor
+The same as the value of either inductor
+The value of one inductor times the value of the other
+T5A10|C|If two equal-value capacitors are connected in series, what is their total capacitance?
+Twice the value of one capacitor
+The same as the value of either capacitor
+Half the value of either capacitor
+The value of one capacitor times the value of the other
+T5A11|A|If two equal-value capacitors are connected in parallel, what is their total capacitance?
+Twice the value of one capacitor
+Half the value of one capacitor
+The same as the value of either capacitor
+The value of one capacitor times the value of the other
+T5B:[01/11]Ohm's Law.
+T5B01|D|Ohm's Law describes the mathematical relationship between what three electrical quantities?
+Resistance, voltage and power
+Current, resistance and power
+Current, voltage and power
+Resistance, current and voltage
+T5B02|C|How is the current in a DC circuit calculated when the voltage and resistance are known?
+I = R x E [current equals resistance multiplied by voltage]
+I = R / E [current equals resistance divided by voltage]
+I = E / R [current equals voltage divided by resistance]
+I = P / E [current equals power divided by voltage]
+T5B03|B|How is the resistance in a DC circuit calculated when the voltage and current are known?
+R = I / E [resistance equals current divided by voltage]
+R = E / I [resistance equals voltage divided by current]
+R = I x E [resistance equals current multiplied by voltage]
+R = P / E [resistance equals power divided by voltage]
+T5B04|C|How is the voltage in a DC circuit calculated when the current and resistance are known?
+E = I / R [voltage equals current divided by resistance]
+E = R / I [voltage equals resistance divided by current]
+E = I x R [voltage equals current multiplied by resistance]
+E = P / I [voltage equals power divided by current]
+T5B05|D|If a 12-volt battery supplies 0.25 ampere to a circuit, what is the circuit's resistance?
+0.25 ohm
+3 ohm
+12 ohms
+48 ohms
+T5B06|D|If a 12-volt battery supplies 0.15 ampere to a circuit, what is the circuit's resistance?
+0.15 ohm
+1.8 ohm
+12 ohms
+80 ohms
+T5B07|B|If a 4800-ohm resistor is connected to 120 volts, how much current will flow through it?
+4 A
+25 mA
+25 A
+40 mA
+T5B08|D|If a 48000-ohm resistor is connected to 120 volts, how much current will flow through it?
+400 A
+40 A
+25 mA
+2.5 mA
+T5B09|A|If a 4800-ohm resistor is connected to 12 volts, how much current will flow through it?
+2.5 mA
+25 mA
+40 A
+400 A
+T5B10|A|If a 48000-ohm resistor is connected to 12 volts, how much current will flow through it?
+250 uA
+250 mA
+4000 mA
+4000 A
+T5B11|A|If you know the voltage and current supplied to a circuit, what formula would you use to calculate the circuit's resistance?
+Ohm's Law
+Tesla's Law
+Ampere's Law
+Kirchhoff's Law
+T6A:[01/11]Resistors, construction types, variable and fixed, color code, power ratings, schematic symbols.
+T6A01|B|Which of the following are common resistor types?
+Plastic and porcelain
+Film and wire-wound
+Electrolytic and metal-film
+Iron core and brass core
+T6A02|C|What does a variable resistor or potentiometer do?
+Its resistance changes when AC is applied to it
+It transforms a variable voltage into a constant voltage
+Its resistance changes when its slide or contact is moved
+Its resistance changes when it is heated
+T6A03|B|How do you find a resistor's tolerance rating?
+By using a voltmeter
+By reading the resistor's color code
+By using Thevenin's theorem for resistors
+By reading its Baudot code
+T6A04|A|What do the first three color bands on a resistor indicate?
+The value of the resistor in ohms
+The resistance tolerance in percent
+The power rating in watts
+The resistance material
+T6A05|B|What does the fourth color band on a resistor indicate?
+The value of the resistor in ohms
+The resistance tolerance in percent
+The power rating in watts
+The resistance material
+T6A06|A|Why do resistors sometimes get hot when in use?
+Some electrical energy passing through them is lost as heat
+Their reactance makes them heat up
+Hotter circuit components nearby heat them up
+They absorb magnetic energy which makes them hot
+T6A07|C|Why would a large size resistor be used instead of a smaller one of the same resistance?
+For better response time
+For a higher current gain
+For greater power dissipation
+For less impedance in the circuit
+T6A08|C|What are the possible values of a 100-ohm resistor with a 10% tolerance? 
+90 to 100 ohms
+10 to 100 ohms
+90 to 110 ohms
+80 to 120 ohms
+T6A09|B|How do you find a resistor's value?
+By using a voltmeter
+By using the resistor's color code
+By using Thevenin's theorem for resistors
+By using the Baudot code
+T6A10|A|Which tolerance rating would a high-quality resistor have?
+0.1%
+5%
+10%
+20%
+T6A11|D|Which tolerance rating would a low-quality resistor have?
+0.1%
+5%
+10%
+20%
+T6B:[01/14]Schematic symbols - inductors and capacitors, construction of variable and fixed, factors affecting inductance and capacitance, capacitor construction.
+T6B01|D|What is an inductor core?
+The place where a coil is tapped for resonance
+A tight coil of wire used in a transformer
+Insulating material placed between the wires of a transformer
+The place inside an inductor where its magnetic field is concentrated
+T6B02|C|What does an inductor do?
+It stores a charge electrostatically and opposes a change in voltage
+It stores a charge electrochemically and opposes a change in current
+It stores a charge electromagnetically and opposes a change in current
+It stores a charge electromechanically and opposes a change in voltage
+T6B03|D|What determines the inductance of a coil?
+The core material, the core diameter, the length of the coil and whether the coil is mounted horizontally or vertically
+The core diameter, the number of turns of wire used to wind the coil and the type of metal used for the wire
+The core material, the number of turns used to wind the core and the frequency of the current through the coil
+The core material, the core diameter, the length of the coil and the number of turns of wire used to wind the coil
+T6B04|A|As an iron core is inserted in a coil, what happens to the coil's inductance?
+It increases
+It decreases
+It stays the same
+It disappears
+T6B05|A|What can happen if you tune a ferrite-core coil with a metal tool?
+The metal tool can change the coil's inductance and cause you to tune the coil incorrectly
+The metal tool can become magnetized so much that you might not be able to remove it from the coil
+The metal tool can pick up enough magnetic energy to become very hot
+The metal tool can pick up enough magnetic energy to become a shock hazard
+T6B06|B|In Figure T6-1 which symbol represents an adjustable inductor?
+Symbol 1
+Symbol 2
+Symbol 3
+Symbol 4
+T6B07|D|In Figure T6-1 which symbol represents an iron-core inductor?
+Symbol 1
+Symbol 2
+Symbol 3
+Symbol 4
+T6B08|D|In Figure T6-1 which symbol represents an inductor wound over a toroidal core?
+Symbol 1
+Symbol 2
+Symbol 3
+Symbol 4
+T6B09|A|In Figure T6-1 which symbol represents an electrolytic capacitor?
+Symbol 1
+Symbol 2
+Symbol 3
+Symbol 4
+T6B10|C|In Figure T6-1 which symbol represents a variable capacitor?
+Symbol 1
+Symbol 2
+Symbol 3
+Symbol 4
+T6B11|C|What describes a capacitor?
+Two or more layers of silicon material with an insulating material between them
+The wire used in the winding and the core material
+Two or more conductive plates with an insulating material between them
+Two or more insulating plates with a conductive material between them
+T6B12|B|What does a capacitor do?
+It stores a charge electrochemically and opposes a change in current
+It stores a charge electrostatically and opposes a change in voltage
+It stores a charge electromagnetically and opposes a change in current
+It stores a charge electromechanically and opposes a change in voltage
+T6B13|A|What determines the capacitance of a capacitor?
+The material between the plates, the area of one side of one plate, the number of plates and the spacing between the plates
+The material between the plates, the number of plates and the size of the wires connected to the plates
+The number of plates, the spacing between the plates and whether the dielectric material is N type or P type
+The material between the plates, the area of one plate, the number of plates and the material used for the protective coating
+T6B14|B|As the plate area of a capacitor is increased, what happens to its capacitance?
+It decreases
+It increases
+It stays the same
+It disappears
+T7A:[01/11]Practical circuits.
+T7A01|C|Why do modern HF transmitters have a built-in low-pass filter in their RF output circuits?
+To reduce RF energy below a cutoff point
+To reduce low-frequency interference to other amateurs
+To reduce harmonic radiation
+To reduce fundamental radiation
+T7A02|A|What circuit blocks RF energy above and below a certain limit?
+A band-pass filter
+A high-pass filter
+An input filter
+A low-pass filter
+T7A03|A|What type of filter is used in the IF section of receivers to block energy outside a certain frequency range?
+A band-pass filter
+A high-pass filter
+An input filter
+A low-pass filter
+T7A04|C|What circuit is found in all types of receivers?
+An audio filter
+A beat-frequency oscillator
+A detector
+An RF amplifier
+T7A05|D|What circuit has a variable-frequency oscillator connected to a driver and a power amplifier?
+A packet-radio transmitter
+A crystal-controlled transmitter
+A single-sideband transmitter
+A VFO-controlled transmitter
+T7A06|B|What circuit combines signals from an IF amplifier stage and a beat-frequency oscillator (BFO), to produce an audio signal?
+An AGC circuit
+A detector circuit
+A power supply circuit
+A VFO circuit
+T7A07|D|What circuit uses a limiter and a frequency discriminator to produce an audio signal?
+A double-conversion receiver
+A variable-frequency oscillator
+A superheterodyne receiver
+An FM receiver
+T7A08|D|What circuit is pictured in Figure T7-1 if block 1 is a variable-frequency oscillator?
+A packet-radio transmitter
+A crystal-controlled transmitter
+A single-sideband transmitter
+A VFO-controlled transmitter
+T7A09|B|What is the unlabeled block in Figure T7-2?
+An AGC circuit
+A detector
+A power supply
+A VFO circuit
+T7A10|D|What circuit is pictured in Figure T7-3?
+A double-conversion receiver
+A variable-frequency oscillator
+A superheterodyne receiver
+An FM receiver
+T7A11|C|What is the unlabeled block in Figure T7-4?
+A band-pass filter
+A crystal oscillator
+A reactance modulator
+A rectifier modulator
+T8A:[01/11]Definition of modulation and emission types.
+T8A01|B|What is the name for unmodulated carrier wave emissions?
+Phone
+Test
+CW
+RTTY
+T8A02|C|What is the name for Morse code emissions produced by switching a transmitter's output on and off?
+Phone
+Test
+CW
+RTTY
+T8A03|B|What is RTTY?
+Amplitude-keyed telegraphy
+Frequency-shift-keyed telegraphy
+Frequency-modulated telephony
+Phase-modulated telephony
+T8A04|B|What is the name for packet-radio emissions?
+CW
+Data
+Phone
+RTTY
+T8A05|D|How is tone-modulated Morse code produced?
+By feeding a microphone's audio signal into an FM transmitter
+By feeding an on/off keyed audio tone into a CW transmitter
+By on/off keying of a carrier
+By feeding an on/off keyed audio tone into a transmitter
+T8A06|D|What is the name of the voice emission most used on VHF/UHF repeaters?
+Single-sideband phone
+Pulse-modulated phone
+Slow-scan phone
+Frequency-modulated phone
+T8A07|A|What is the name of the voice emission most used on amateur HF bands?
+Single-sideband phone
+Pulse-modulated phone
+Slow-scan phone
+Frequency-modulated phone
+T8A08|A|What is meant by the upper-sideband (USB)?
+The part of a single-sideband signal which is above the carrier frequency
+The part of a single-sideband signal which is below the carrier frequency
+Any frequency above 10 MHz
+The carrier frequency of a single-sideband signal
+T8A09|D|What emissions are produced by a transmitter using a reactance modulator?
+CW
+Test
+Single-sideband, suppressed-carrier phone
+Phase-modulated phone
+T8A10|C|What other emission does phase modulation most resemble?
+Amplitude modulation
+Pulse modulation
+Frequency modulation
+Single-sideband modulation
+T8A11|B|What is the name for emissions produced by an on/off keyed audio tone?
+RTTY
+MCW
+CW
+Phone
+T8B:[01/11]RF carrier, modulation, bandwidth and deviation.
+T8B01|A|What is another name for a constant-amplitude radio-frequency signal?
+An RF carrier
+An AF carrier
+A sideband carrier
+A subcarrier
+T8B02|A|What is modulation?
+Varying a radio wave in some way to send information
+Receiving audio information from a signal
+Increasing the power of a transmitter
+Suppressing the carrier in a single-sideband transmitter
+T8B03|A|What kind of emission would your FM transmitter produce if its microphone failed to work?
+An unmodulated carrier
+A phase-modulated carrier
+An amplitude-modulated carrier
+A frequency-modulated carrier
+T8B04|B|How would you modulate a 2-meter FM transceiver to produce packet-radio emissions?
+Connect a terminal-node controller to interrupt the transceiver's carrier wave
+Connect a terminal-node controller to the transceiver's microphone input
+Connect a keyboard to the transceiver's microphone input
+Connect a DTMF key pad to the transceiver's microphone input
+T8B05|C|Why is FM voice best for local VHF/UHF radio communications?
+The carrier is not detectable
+It is more resistant to distortion caused by reflected signals
+It has high-fidelity audio which can be understood even when the signal is somewhat weak
+Its RF carrier stays on frequency better than the AM modes
+T8B06|D|Why do many radio receivers have several IF filters of different bandwidths that can be selected by the operator?
+Because some frequency bands are wider than others
+Because different bandwidths help increase the receiver sensitivity
+Because different bandwidths improve S-meter readings
+Because some emission types need a wider bandwidth than others to be received properly
+T8B07|C|Which list of emission types is in order from the narrowest bandwidth to the widest bandwidth?
+RTTY, CW, SSB voice, FM voice
+CW, FM voice, RTTY, SSB voice
+CW, RTTY, SSB voice, FM voice
+CW, SSB voice, RTTY, FM voice
+T8B08|D|What is the usual bandwidth of a single-sideband amateur signal?
+1 kHz
+2 kHz
+Between 3 and 6 kHz
+Between 2 and 3 kHz
+T8B09|C|What is the usual bandwidth of a frequency-modulated amateur signal?
+Less than 5 kHz
+Between 5 and 10 kHz
+Between 10 and 20 kHz
+Greater than 20 kHz
+T8B10|B|What is the result of overdeviation in an FM transmitter?
+Increased transmitter power
+Out-of-channel emissions
+Increased transmitter range
+Poor carrier suppression
+T8B11|C|What causes splatter interference?
+Keying a transmitter too fast
+Signals from a transmitter's output circuit are being sent back to its input circuit
+Overmodulation of a transmitter
+The transmitting antenna is the wrong length
+T9A:[01/11]Parasitic beam and non-directional antennas.
+T9A01|C|What is a directional antenna?
+An antenna which sends and receives radio energy equally well in all directions
+An antenna that cannot send and receive radio energy by skywave or skip propagation
+An antenna which sends and receives radio energy mainly in one direction
+An antenna which sends and receives radio energy equally well in two opposite directions
+T9A02|A|How is a Yagi antenna constructed?
+Two or more straight, parallel elements are fixed in line with each other
+Two or more square or circular loops are fixed in line with each other
+Two or more square or circular loops are stacked inside each other
+A straight element is fixed in the center of three or more elements which angle toward the ground
+T9A03|C|What type of beam antenna uses two or more straight elements arranged in line with each other?
+A delta loop antenna
+A quad antenna
+A Yagi antenna
+A Zepp antenna
+T9A04|B|How many directly driven elements do most beam antennas have?
+None
+One
+Two
+Three
+T9A05|A|What is a parasitic beam antenna?
+An antenna where some elements obtain their radio energy by induction or radiation from a driven element
+An antenna where wave traps are used to magnetically couple the elements
+An antenna where all elements are driven by direct connection to the feed line
+An antenna where the driven element obtains its radio energy by induction or radiation from director elements
+T9A06|D|What are the parasitic elements of a Yagi antenna?
+The driven element and any reflectors
+The director and the driven element
+Only the reflectors (if any)
+Any directors or any reflectors
+T9A07|B|What is a cubical quad antenna?
+Four straight, parallel elements in line with each other, each approximately 1/2-electrical wavelength long
+Two or more parallel four-sided wire loops, each approximately one-electrical wavelength long
+A vertical conductor 1/4-electrical wavelength high, fed at the bottom
+A center-fed wire 1/2-electrical wavelength long
+T9A08|A|What is a delta loop antenna?
+A type of cubical quad antenna, except with triangular elements rather than square
+A large copper ring or wire loop, used in direction finding
+An antenna system made of three vertical antennas, arranged in a triangular shape
+An antenna made from several triangular coils of wire on an insulating form
+T9A09|D|What type of non-directional antenna is easy to make at home and works well outdoors?
+A Yagi
+A delta loop
+A cubical quad
+A ground plane
+T9A10|D|What type of antenna is made when a magnetic-base whip antenna is placed on the roof of a car?
+A Yagi
+A delta loop
+A cubical quad
+A ground plane
+T9A11|A|If a magnetic-base whip antenna is placed on the roof of a car, in what direction does it send out radio energy?
+It goes out equally well in all horizontal directions
+Most of it goes in one direction
+Most of it goes equally in two opposite directions
+Most of it is aimed high into the air
+T9B:[01/11]Polarization, impedance matching and SWR, feed lines, balanced vs unbalanced (including baluns).
+T9B01|B|What does horizontal wave polarization mean?
+The magnetic lines of force of a radio wave are parallel to the earth's surface
+The electric lines of force of a radio wave are parallel to the earth's surface
+The electric lines of force of a radio wave are perpendicular to the earth's surface
+The electric and magnetic lines of force of a radio wave are perpendicular to the earth's surface
+T9B02|C|What does vertical wave polarization mean?
+The electric lines of force of a radio wave are parallel to the earth's surface
+The magnetic lines of force of a radio wave are perpendicular to the earth's surface
+The electric lines of force of a radio wave are perpendicular to the earth's surface
+The electric and magnetic lines of force of a radio wave are parallel to the earth's surface
+T9B03|C|What electromagnetic-wave polarization does a Yagi antenna have when its elements are parallel to the earth's surface?
+Circular
+Helical
+Horizontal
+Vertical
+T9B04|D|What electromagnetic-wave polarization does a half-wavelength antenna have when it is perpendicular to the earth's surface?
+Circular
+Horizontal
+Parabolical
+Vertical
+T9B05|D|What electromagnetic-wave polarization does most man-made electrical noise have in the HF and VHF spectrum?
+Horizontal
+Left-hand circular
+Right-hand circular
+Vertical
+T9B06|D|What does standing-wave ratio mean?
+The ratio of maximum to minimum inductances on a feed line
+The ratio of maximum to minimum resistances on a feed line
+The ratio of maximum to minimum impedances on a feed line
+The ratio of maximum to minimum voltages on a feed line
+T9B07|A|What does forward power mean?
+The power traveling from the transmitter to the antenna
+The power radiated from the top of an antenna system
+The power produced during the positive half of an RF cycle
+The power used to drive a linear amplifier
+T9B08|B|What does reflected power mean?
+The power radiated down to the ground from an antenna
+The power returned to a transmitter from an antenna
+The power produced during the negative half of an RF cycle
+The power returned to an antenna by buildings and trees
+T9B09|C|What happens to radio energy when it is sent through a poor quality coaxial cable?
+It causes spurious emissions
+It is returned to the transmitter's chassis ground
+It is converted to heat in the cable
+It causes interference to other stations near the transmitting frequency
+T9B10|C|What is an unbalanced line?
+Feed line with neither conductor connected to ground
+Feed line with both conductors connected to ground
+Feed line with one conductor connected to ground
+Feed line with both conductors connected to each other
+T9B11|A|What device can be installed to feed a balanced antenna with an unbalanced feed line?
+A balun
+A loading coil
+A triaxial transformer
+A wavetrap
+T9C:[01/11]Line losses by line type, length and frequency, RF safety.
+T9C01|B|What common connector usually joins RG-213 coaxial cable to an HF transceiver?
+An F-type cable connector
+A PL-259 connector
+A banana plug connector
+A binding post connector
+T9C02|A|What common connector usually joins a hand-held transceiver to its antenna?
+A BNC connector
+A PL-259 connector
+An F-type cable connector
+A binding post connector
+T9C03|B|Which of these common connectors has the lowest loss at UHF?
+An F-type cable connector
+A type-N connector
+A BNC connector
+A PL-259 connector
+T9C04|A|If you install a 6-meter Yagi antenna on a tower 150 feet from your transmitter, which of the following feed lines is best?
+RG-213
+RG-58
+RG-59
+RG-174
+T9C05|C|If you have a transmitter and an antenna which are 50 feet apart, but are connected by 200 feet of RG-58 coaxial cable, what should be done to reduce feed line loss?
+Cut off the excess cable so the feed line is an even number of wavelengths long
+Cut off the excess cable so the feed line is an odd number of wavelengths long
+Cut off the excess cable
+Roll the excess cable into a coil which is as small as possible
+T9C06|B|As the length of a feed line is changed, what happens to signal loss?
+Signal loss is the same for any length of feed line
+Signal loss increases as length increases
+Signal loss decreases as length increases
+Signal loss is the least when the length is the same as the signal's wavelength
+T9C07|B|As the frequency of a signal is changed, what happens to signal loss in a feed line?
+Signal loss is the same for any frequency
+Signal loss increases with increasing frequency
+Signal loss increases with decreasing frequency
+Signal loss is the least when the signal's wavelength is the same as the feed line's length
+T9C08|D|If your antenna feed line gets hot when you are transmitting, what might this mean?
+You should transmit using less power
+The conductors in the feed line are not insulated very well
+The feed line is too long
+The SWR may be too high, or the feed line loss may be high
+T9C09|D|Why should you make sure that no one can touch an open-wire feed line while you are transmitting with it?
+Because contact might cause a short circuit and damage the transmitter
+Because contact might break the feed line
+Because contact might cause spurious emissions
+Because high-voltage radio energy might burn the person
+T9C10|C|For RF safety, what is the best thing to do with your transmitting antennas?
+Use vertical polarization
+Use horizontal polarization
+Mount the antennas where no one can come near them
+Mount the antenna close to the ground
+T9C11|A|Why should you regularly clean, tighten and re-solder all antenna connectors?
+To help keep their resistance at a minimum
+To keep them looking nice
+To keep them from getting stuck in place
+To increase their capacitance
+

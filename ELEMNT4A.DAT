@@ -1,0 +1,2956 @@
+A1A:[01/11]Advanced control operator frequency privileges; station identification; emissions standards
+A1A01|A|What are the frequency limits for Advanced class operators in the 75/80-meter band (ITU Region 2)? [97.301c]
+3525 - 3750 kHz and 3775 - 4000 kHz
+3500 - 3525 kHz and 3800 - 4000 kHz
+3500 - 3525 kHz and 3800 - 3890 kHz
+3525 - 3775 kHz and 3800 - 4000 kHz
+A1A02|B|What are the frequency limits for Advanced class operators in the 40-meter band (ITU Region 2)?  [97.301c]
+7000 - 7300 kHz
+7025 - 7300 kHz
+7025 - 7350 kHz
+7000 - 7025 kHz
+A1A03|D|What are the frequency limits for Advanced class operators in the 20-meter band?  [97.301c]
+14000 - 14150 kHz and 14175 - 14350 kHz
+14025 - 14175 kHz and 14200 - 14350 kHz
+14000 - 14025 kHz and 14200 - 14350 kHz
+14025 - 14150 kHz and 14175 - 14350 kHz
+A1A04|C|What are the frequency limits for Advanced class operators in the 15-meter band?  [97.301c]
+21000 - 21200 kHz and 21250 - 21450 kHz
+21000 - 21200 kHz and 21300 - 21450 kHz
+21025 - 21200 kHz and 21225 - 21450 kHz
+21025 - 21250 kHz and 21270 - 21450 kHz
+A1A05|B|If you are a Technician Plus licensee with a Certificate of Successful Completion of Examination (CSCE) for Advanced privileges, how do you identify your station when transmitting on 14.185 MHz?[97.119e3]
+Give your call sign followed by the name of the VEC who coordinated the exam session where you obtained the CSCE
+Give your call sign followed by the slant mark "/" followed by the identifier "AA"
+You may not use your new frequency privileges until your license arrives from the FCC
+Give your call sign followed by the word "Advanced"
+A1A06|B|How must an Advanced class operator using Amateur Extra frequencies identify during a contest, assuming the contest control operator holds an Amateur Extra class license?  [97.119a]
+With his or her own call sign
+With the control operator's call sign
+With his or her own call sign followed by the identifier "AE"
+With the control operator's call sign followed by his or her own call sign
+A1A07|D|How must an Advanced class operator using Advanced frequencies identify from a Technician Plus class operator's station?  [97.119d]
+With either his or her own call sign followed by the identifier "KT", or the Technician Plus call sign followed by the identifier "AA"
+With the Technician Plus call sign
+The Advanced class operator cannot use Advanced frequencies while operating the Technician Plus station
+With either his or her own call sign only, or the Technician Plus call sign followed by his or her own call sign
+A1A08|A|What is the maximum mean power permitted for any spurious emission from a transmitter or external RF power amplifier transmitting on a frequency below 30 MHz?  [97.307d]
+50 mW
+100 mW
+10 mW
+10 W
+A1A09|B|How much below the mean power of the fundamental emission must any spurious emissions from a station transmitter or external RF power amplifier transmitting on a frequency below 30 MHz be attenuated?  [97.307d]
+At least 10 dB
+At least 40 dB
+At least 50 dB
+At least 100 dB
+A1A10|C|How much below the mean power of the fundamental emission must any spurious emissions from a transmitter or external RF power amplifier transmitting on a frequency between 30 and 225 MHz be attenuated?  [97.307e]
+At least 10 dB
+At least 40 dB
+At least 60 dB
+At least 100 dB
+A1A11|D|What is the maximum mean power permitted for any spurious emission from a transmitter having a mean power of 25 W or less on frequencies between 30 and 225 MHz?  [97.307e]
+5  microwatts
+10 microwatts
+20 microwatts
+25 microwatts
+A1B:[01/15]Definition and operation of remote control and automatic control; control link
+A1B01|D|What is meant by a remotely controlled station?  [97.3a35]
+A station operated away from its regular home location
+Control of a station from a point located other than at the station transmitter
+A station operating under automatic control
+A station controlled indirectly through a control link
+A1B02|D|What is the term for the control of a station that is transmitting without the control operator being present at the control point?  [97.3a6]
+Simplex control
+Manual control
+Linear control
+Automatic control
+A1B03|A|Which kind of station operation may not be automatically controlled?  [97.201d,97.203d,97.205d]
+Control of a model craft
+Beacon operation
+Auxiliary operation
+Repeater operation
+A1B04|B|Which kind of station operation may be automatically controlled?  [97.205d]
+Stations without a control operator
+Stations in repeater operation
+Stations under remote control
+Stations controlling model craft
+A1B05|A|What is meant by automatic control of a station?  [97.3a6]
+The use of devices and procedures for control so that a control operator does not have to be present at a control point
+A station operating with its output power controlled automatically
+Remotely controlling a station such that a control operator does not have to be present at the control point at all times
+The use of a control link between a control point and a locally controlled station
+A1B06|B|How do the control operator responsibilities of a station under automatic control differ from one under local control?  [97.3a6]
+Under local control there is no control operator
+Under automatic control a control operator is not required to be present at a control point
+Under automatic control there is no control operator
+Under local control a control operator is not required to be present at a control point
+A1B07|C|What frequencies in the 10-meter band are available for repeater operation?  [97.205b, 97.301b,c,d]
+28.0 - 28.7 MHz
+29.0 - 29.7 MHz
+29.5 - 29.7 MHz
+28.5 - 29.7 MHz
+A1B08|D|What frequencies in the 6-meter band are available for repeater operation (ITU Region 2)?  [97.205b, 97.301a]
+51.00 - 52.00 MHz
+50.25 - 52.00 MHz
+52.00 - 53.00 MHz
+51.00 - 54.00 MHz
+A1B09|A|What frequencies in the 2-meter band are available for repeater operation (ITU Region 2)?  [97.205b, 97.301a]
+144.5 - 145.5 and 146 - 148 MHz
+144.5 - 148 MHz
+144 - 145.5 and 146 - 148 MHz
+144 - 148 MHz
+A1B10|B|What frequencies in the 1.25-meter band are available for repeater operation (ITU Region 2)?  [97.205b, 97.301a]
+220.25 - 225.00 MHz
+222.15 - 225.00 MHz
+221.00 - 225.00 MHz
+223.00 - 225.00 MHz
+A1B11|A|What frequencies in the 70-cm band are available for repeater operation (ITU Region 2)?  [97.205b, 97.301a]
+420 - 431, 433 - 435 and 438 - 450 MHz
+420 - 440 and 445 - 450 MHz
+420 - 435 and 438 - 450 MHz
+420 - 431, 435 - 438 and 439 - 450 MHz
+A1B12|C|What frequencies in the 23-cm band are available for repeater operation?  [97.301a]
+1270 - 1300 MHz
+1270 - 1295 MHz
+1240 - 1300 MHz
+Repeater operation is not permitted in the band
+A1B13|C|If the control link of a station under remote control malfunctions, how long may the station continue to transmit?  [97.213b]
+5 seconds
+10 minutes
+3 minutes
+5 minutes
+A1B14|C|What is a control link?  [97.3a35, 97.3a36, 97.213a]
+A device that automatically controls an unattended station
+An automatically operated link between two stations
+The means of control between a control point and a remotely controlled station
+A device that limits the time of a station's transmission
+A1B15|D|What is the term for apparatus to effect remote control between a control point and a remotely controlled station?  [97.3a35, 97.3a36, 97.213a]
+A tone link
+A wire control
+A remote control
+A control link
+A1C:[01/11]Type acceptance of external RF power amplifiers and external RF power amplifier kits
+A1C01|D|How many external RF amplifiers of a particular design capable of operation below 144 MHz may an unlicensed, non-amateur build or modify in one calendar year without obtaining a grant of FCC type acceptance?  [97.315a]
+1
+5
+10
+None
+A1C02|B|If an RF amplifier manufacturer was granted FCC type acceptance for one of its amplifier models for amateur use, what would this allow the manufacturer to market?  [97.315c]
+All current models of their equipment
+Only that particular amplifier model
+Any future amplifier models
+Both the current and any future amplifier models
+A1C03|A|Under what condition may an equipment dealer sell an external RF power amplifier capable of operation below 144 MHz if it has not been FCC type accepted?  [97.315b5]
+If it was purchased in used condition from an amateur operator and is sold to another amateur operator for use at that operator's station
+If it was assembled from a kit by the equipment dealer
+If it was imported from a manufacturer in a country that does not require type acceptance of RF power amplifiers
+If it was imported from a manufacturer in another country, and it was type accepted by that country's government
+A1C04|D|Which of the following is one of the standards that must be met by an external RF power amplifier if it is to qualify for a grant of FCC type acceptance?  [97.317a1]
+It must produce full legal output when driven by not more than 5 watts of mean RF input power
+It must be capable of external RF switching between its input and output networks
+It must exhibit a gain of 0 dB or less over its full output range
+It must satisfy the spurious emission standards when operated at its full output power
+A1C05|D|Which of the following is one of the standards that must be met by an external RF power amplifier if it is to qualify for a grant of FCC type acceptance?  [97.317a2]
+It must produce full legal output when driven by not more than 5 watts of mean RF input power
+It must be capable of external RF switching between its input and output networks
+It must exhibit a gain of 0 dB or less over its full output range
+It must satisfy the spurious emission standards when placed in the "standby" or "off" position, but is still connected to the transmitter
+A1C06|C|Which of the following is one of the standards that must be met by an external RF power amplifier if it is to qualify for a grant of FCC type acceptance?  [97.317b]
+It must produce full legal output when driven by not more than 5 watts of mean RF input power
+It must exhibit a gain of at least 20 dB for any input signal
+It must not be capable of operation on any frequency between 24 MHz and 35 MHz
+Any spurious emissions from the amplifier must be no more than 40 dB stronger than the desired output signal
+A1C07|B|Which of the following is one of the standards that must be met by an external RF power amplifier if it is to qualify for a grant of FCC type acceptance?  [97.317a3]
+It must have a time-delay circuit to prevent it from operating continuously for more than ten minutes
+It must satisfy the spurious emission standards when driven with at least 50 W mean RF power (unless a higher drive level is specified)
+It must not be capable of modification by an amateur operator without voiding the warranty
+It must exhibit no more than 6 dB of gain over its entire operating range
+A1C08|A|Which of the following would disqualify an external RF power amplifier from being granted FCC type acceptance?  [97.317c1]
+Any accessible wiring which, when altered, would permit operation of the amplifier in a manner contrary to FCC Rules
+Failure to include a schematic diagram and theory of operation manual that would permit an amateur to modify the amplifier
+The capability of being switched by the operator to any amateur frequency below 24 MHz
+Failure to produce 1500 watts of output power when driven by at least 50 watts of mean input power
+A1C09|C|Which of the following would disqualify an external RF power amplifier from being granted FCC type acceptance?  [97.317c8]
+Failure to include controls or adjustments that would permit the amplifier to operate on any frequency below 24 MHz
+Failure to produce 1500 watts of output power when driven by at least 50 watts of mean input power
+Any features designed to facilitate operation in a telecommunication service other than the Amateur Service
+The omission of a schematic diagram and theory of operation manual that would permit an amateur to modify the amplifier
+A1C10|D|Which of the following would disqualify an external RF power amplifier from being granted FCC type acceptance?  [97.317c3]
+The omission of a safety switch in the high-voltage power supply to turn off the power if the cabinet is opened
+Failure of the amplifier to exhibit more than 15 dB of gain over its entire operating range
+The omission of a time-delay circuit to prevent the amplifier from operating continuously for more than ten minutes
+The inclusion of instructions for operation or modification of the amplifier in a manner contrary to the FCC Rules
+A1C11|B|Which of the following would disqualify an external RF power amplifier from being granted FCC type acceptance?  [97.317b2]
+Failure to include a safety switch in the high-voltage power supply to turn off the power if the cabinet is opened
+The amplifier produces 3 dB of gain for input signals between 26 MHz and 28 MHz
+The inclusion of a schematic diagram and theory of operation manual that would permit an amateur to modify the amplifier
+The amplifier produces 1500 watts of output power when driven by at least 50 watts of mean input power
+A1D:[01/11]Definition and operation of spread spectrum; auxiliary station operation
+A1D01|C|What is the name for emissions using bandwidth-expansion modulation?  [97.3c8]
+RTTY
+Image
+Spread spectrum
+Pulse
+A1D02|C|What two spread spectrum techniques are permitted on the amateur bands?  [97.311c]
+Hybrid switching and direct frequency
+Frequency switching and linear frequency
+Frequency hopping and direct sequence
+Logarithmic feedback and binary sequence
+A1D03|C|What is the maximum transmitter power allowed for spread spectrum transmissions?  [97.311g]
+5 watts
+10 watts
+100 watts
+1500 watts
+A1D04|D|What is meant by auxiliary station operation?  [97.3a7]
+A station operated away from its home location
+Remote control of model craft
+A station controlled from a point located other than at the station transmitter
+Communications sent point-to-point within a system of cooperating amateur stations
+A1D05|A|What is one use for a station in auxiliary operation?  [97.3a6, 97.3a7, 97.3a35, 97.201, 97.205, 97.213a]
+Remote control of a station in repeater operation
+Remote control of model craft
+Passing of international third-party communications
+The retransmission of NOAA weather broadcasts
+A1D06|B|Auxiliary stations communicate with which other kind of amateur stations?  [97.3a7]
+Those registered with a civil defense organization
+Those within a system of cooperating amateur stations
+Those in space station operation
+Any kind not under manual control
+A1D07|C|On what amateur frequencies above 222.0 MHz (the 1.25-meter band) are auxiliary stations NOT allowed to operate?  [97.201b]
+222.00 - 223.00 MHz, 432 - 433 MHz and 436 - 438 MHz
+222.10 - 223.91 MHz, 431 - 432 MHz and 435 - 437 MHz
+222.00 - 222.15 MHz, 431 - 433 MHz and 435 - 438 MHz
+222.00 - 222.10 MHz, 430 - 432 MHz and 434 - 437 MHz
+A1D08|B|What class of amateur license must one hold to be the control operator of an auxiliary station?  [97.201a]
+Any class
+Technician, Technician Plus, General, Advanced or Amateur Extra
+General, Advanced or Amateur Extra
+Advanced or Amateur Extra
+A1D09|C|When an auxiliary station is identified in Morse code using an automatic keying device used only for identification, what is the maximum code speed permitted?  [97.119b1]
+13 words per minute
+30 words per minute
+20 words per minute
+There is no limitation
+A1D10|D|How often must an auxiliary station be identified?  [97.119a]
+At least once during each transmission
+Only at the end of a series of transmissions
+At the beginning of a series of transmissions
+At least once every ten minutes during and at the end of activity
+A1D11|A|When may an auxiliary station be identified using a digital code?  [97.119b3]
+Any time the digital code is used for at least part of the communication
+Any time
+Identification by digital code is not allowed
+No identification is needed for digital transmissions
+A1E:[01/11]"Line A"; National Radio Quiet Zone; business communications; restricted operation; antenna structure limitations
+A1E01|A[97.3a26]|Which of the following geographic descriptions approximately describes "Line A"?
+A line roughly parallel to, and south of, the US-Canadian border
+A line roughly parallel to, and west of, the US Atlantic coastline
+A line roughly parallel to, and north of, the US-Mexican border and Gulf coastline
+A line roughly parallel to, and east of, the US Pacific coastline
+A1E02|D|Amateur stations may not transmit in which frequency segment if they are located north of "Line A"?  [97.119b3]
+21.225-21.300 MHz
+53-54 MHz
+222-223 MHz
+420-430 MHz
+A1E03|C|What is the National Radio Quiet Zone?  [97.3a29]
+An area in Puerto Rico surrounding the Aricebo Radio Telescope
+An area in New Mexico surrounding the White Sands Test Area
+An Area in Maryland, West Virginia and Virginia surrounding the National Radio Astronomy Observatory
+An area in Florida surrounding Cape Canaveral
+A1E04|A|Which of the following agencies is protected from interference to its operations by the National Radio Quiet Zone?  [97.203e,97.205f]
+The National Radio Astronomy Observatory at Green Bank, WV
+NASA's Mission Control Center in Houston, TX
+The White Sands Test Area in White Sands, NM
+The space shuttle launch facilities in Cape Canaveral, FL
+A1E05|B|Which communication is NOT a prohibited transmission in the Amateur Service?  [97.203e,97.205f]
+Sending messages for hire or material compensation
+Calling a commercial tow truck service for a breakdown on the highway
+Calling your employer to see if you have any customers to contact
+Sending a false distress call as a "joke"
+A1E06|C|Under what conditions may you notify other amateurs of the availability of amateur station equipment for sale or trade over the airwaves?  [97.203e,97.205f]
+You are never allowed to sell or trade equipment on the air
+Only if this activity does not result in a profit for you
+Only if this activity is not conducted on a regular basis
+Only if the equipment is FCC type accepted and has a serial number
+A1E07|C|When may amateurs accept payment for using their own stations (other than a club station) to send messages?  [97.113a2]
+When employed by the FCC
+When passing emergency traffic
+Under no circumstances
+When passing international third-party communications
+A1E08|D|When may the control operator of a repeater accept payment for providing communication services to another party?  [97.113a2]
+When the repeater is operating under portable power
+When the repeater is operating under local control
+During Red Cross or other emergency service drills
+Under no circumstances
+A1E09|D|When may an amateur station send a message to a business?  [97.113a2]
+When the total money involved does not exceed $25
+When the control operator is employed by the FCC or another government agency
+When transmitting international third-party communications
+When neither the amateur nor his or her employer has a pecuniary interest in the communications
+A1E10|C|What must an amateur obtain before installing an antenna structure more than 200 feet high?  [97.15a]
+An environmental assessment
+A Special Temporary Authorization
+Prior FCC approval
+An effective radiated power statement
+A1E11|A|From what government agencies must you obtain permission if you wish to install an antenna structure that exceeds 200 feet above ground level?  [97.15d]
+The Federal Aviation Administration (FAA) and the Federal Communications Commission (FCC)
+The Environmental Protection Agency (EPA) and the Federal Communications Commission (FCC)
+The Federal Aviation Administration (FAA) and the Environmental Protection Agency (EPA)
+The Environmental Protection Agency (EPA) and National Aeronautics and Space Administration (NASA)
+A1F:[01/14]Volunteer examinations: when examination is required; exam credit; examination grading; Volunteer Examiner requirements; Volunteer Examiner conduct
+A1F01|B|What examination credit must be given to an applicant who holds an unexpired (or expired within the grace period) FCC-issued amateur operator license?  [97.15d]
+No credit
+Credit for the least elements required for the license
+Credit for only the telegraphy requirements of the license
+Credit for only the written element requirements of the license
+A1F02|B|What ability with international Morse code must an applicant demonstrate when taking an Element 1(A) telegraphy examination?  [97.15d]
+To send and receive text at not less than 13 WPM
+To send and receive text at not less than 5 WPM
+To send and receive text at not less than 20 WPM
+To send text at not less than 13 WPM
+A1F03|A|Besides all the letters of the alphabet, numerals 0-9 and the period, comma and question mark, what additional characters are used in telegraphy examinations?  [97.503a]
+The slant mark and prosigns AR, BT and SK
+The slant mark, open and closed parenthesis and prosigns AR, BT and SK
+The slant mark, dollar sign and prosigns AR, BT and SK
+No other characters
+A1F04|B|In a telegraphy examination, how many letters of the alphabet are counted as one word?  [97.507d]
+2
+5
+8
+10
+A1F05|C|What is the minimum age to be a Volunteer Examiner?  [97.509b2]
+16
+21
+18
+13
+A1F06|A|When may a person whose amateur operator or station license has ever been revoked or suspended be a Volunteer Examiner?  [97.509b4]
+Under no circumstances
+After 5 years have elapsed since the revocation or suspension
+After 3 years have elapsed since the revocation or suspension
+After review and subsequent approval by a VEC
+A1F07|B|When may an employee of a company engaged in the distribution of equipment used in connection with amateur station transmissions be a Volunteer Examiner?
+When the employee is employed in the Amateur Radio sales part of the company
+When the employee does not normally communicate with the manufacturing or distribution part of the company
+When the employee serves as a Volunteer Examiner for his or her customers
+When the employee does not normally communicate with the benefits and policies part of the company
+A1F08|A|Who may administer an examination for a Novice license?  [97.509a, b1, b2, b3i]
+Three accredited Volunteer Examiners at least 18 years old and holding at least a General class license
+Three amateur operators at least 18 years old and holding at least a General class license
+Any accredited Volunteer Examiner at least 21 years old and holding at least a General class license
+Two amateur operators at least 21 years old and holding at least a Technician class license
+A1F09|A|When may Volunteer Examiners be compensated for their services?  [97.509e]
+Under no circumstances
+When out-of-pocket expenses exceed $25
+When traveling over 25 miles to the test site
+When there are more than 20 applicants attending an examination session
+A1F10|C|What are the penalties that may result from fraudulently administering amateur examinations?  [97.509e]
+Suspension of amateur station license for a period not to exceed 3 months
+A monetary fine not to exceed $500 for each day the offense was committed
+Revocation of amateur station license and suspension of operator's license
+Restriction to administering only Novice class license examinations
+A1F11|D|What are the penalties that may result from administering examinations for money or other considerations?  [97.509e]
+Suspension of amateur station license for a period not to exceed 3 months
+A monetary fine not to exceed $500 for each day the offense was committed
+Restriction to administering only Novice class license examinations
+Revocation of amateur station license and suspension of operator's license
+A1F12|A|How soon must the administering Volunteer Examiners grade an applicant's completed examination element?  [97.509h]
+Immediately
+Within 48 hours
+Within 10 days
+Within 24 hours
+A1F13|B|After the successful administration of an examination, within how many days must the Volunteer Examiners submit the application to their coordinating VEC?  [97.509m]
+7
+10
+5
+30
+A1F14|C|After the successful administration of an examination, where must the Volunteer Examiners submit the application?  [97.509m]
+To the nearest FCC Field Office
+To the FCC in Washington, DC
+To the coordinating VEC
+To the FCC in Gettysburg, PA
+A2A:[01/12]Facsimile communications; slow-scan TV transmissions; spread-spectrum transmissions; HF digital communications (i.e., PacTOR, CLOVER, HF packet); automatic HF Forwarding
+A2A01|D|What is facsimile?
+The transmission of characters by radioteletype that form a picture when printed
+The transmission of still pictures by slow-scan television
+The transmission of video by amateur television
+The transmission of printed pictures for permanent display on paper
+A2A02|A|What is the modern standard scan rate for a facsimile picture transmitted by an amateur station?
+240 lines per minute
+50 lines per minute
+150 lines per second
+60 lines per second
+A2A03|B|What is the approximate transmission time per frame for a facsimile picture transmitted by an amateur station at 240 lpm?
+6 minutes
+3.3 minutes
+6 seconds
+1/60 second
+A2A04|B|What is the term for the transmission of printed pictures by radio?
+Television
+Facsimile
+Xerography
+ACSSB
+A2A05|C|In facsimile, what device converts variations in picture brightness and darkness into voltage variations?
+An LED
+A Hall-effect transistor
+A photodetector
+An optoisolator
+A2A06|D|What information is sent by slow-scan television transmissions?
+Baudot or ASCII characters that form a picture when printed
+Pictures for permanent display on paper
+Moving pictures
+Still pictures
+A2A07|C|How many lines are commonly used in each frame on an amateur slow-scan color television picture?
+30 or 60
+60 or 100
+128 or 256
+180 or 360
+A2A08|C|What is the audio frequency for black in an amateur slow-scan television picture?
+2300 Hz
+2000 Hz
+1500 Hz
+120 Hz
+A2A09|D|What is the audio frequency for white in an amateur slow-scan television picture?
+120 Hz
+1500 Hz
+2000 Hz
+2300 Hz
+A2A10|A|Why are received spread-spectrum signals so resistant to interference?
+Signals not using the spectrum-spreading algorithm are suppressed in the receiver
+The high power used by a spread-spectrum transmitter keeps its signal from being easily overpowered
+Th|e receiver is always equipped with a special digital signal processor (DSP|nterference filter
+If interference is detected by the receiver it will signal the transmitter to change frequencies
+A2A11|D|How does the spread-spectrum technique of frequency hopping (FH) work?
+If interference is detected by the receiver it will signal the transmitter to change frequencies
+If interference is detected by the receiver it will signal the transmitter to wait until the frequency is clear
+A pseudo-random binary bit stream is used to shift the phase of an RF carrier very rapidly in a particular sequence
+The frequency of an RF carrier is changed very rapidly according to a particular pseudo-random sequence
+A2A12|C|What is the most common data rate used for HF packet communications?
+48 bauds
+110 bauds
+300 bauds
+1200 bauds
+A3A:[01/11]Sporadic-E; auroral propagation; ground-wave propagation (distances and coverage, and frequency vs. distance in each of these topics)
+A3A01|C|What is a sporadic-E condition?
+Variations in E-region height caused by sunspot variations
+A brief decrease in VHF signal levels from meteor trails at E-region height
+Patches of dense ionization at E-region height
+Partial tropospheric ducting at E-region height
+A3A02|D|What is the term for the propagation condition in which scattered patches of relatively dense ionization develop seasonally at E-region heights?
+Auroral propagation
+Ducting
+Scatter
+Sporadic-E
+A3A03|A|In what region of the world is sporadic-E most prevalent?
+The equatorial regions
+The arctic regions
+The northern hemisphere
+The western hemisphere
+A3A04|B|On which amateur frequency band is the extended-distance propagation effect of sporadic-E most often observed?
+2 meters
+6 meters
+20 meters
+160 meters
+A3A05|D|What effect does auroral activity have upon radio communications?
+The readability of SSB signals increases
+FM communications are clearer
+CW signals have a clearer tone
+CW signals have a fluttery tone
+A3A06|C|What is the cause of auroral activity?
+A high sunspot level
+A low sunspot level
+The emission of charged particles from the sun
+Meteor showers concentrated in the northern latitudes
+A3A07|B|In the northern hemisphere, in which direction should a directional antenna be pointed to take maximum advantage of auroral propagation?
+South
+North
+East
+West
+A3A08|D|Where in the ionosphere does auroral activity occur?
+At F-region height
+In the equatorial band
+At D-region height
+At E-region height
+A3A09|A|Which emission modes are best for auroral propagation?
+CW and SSB
+SSB and FM
+FM and CW
+RTTY and AM
+A3A10|B|As the frequency of a signal is increased, how does its ground-wave propagation distance change?
+It increases
+It decreases
+It stays the same
+Radio waves don't propagate along the Earth's surface
+A3A11|A|What typical polarization does ground-wave propagation have?
+Vertical
+Horizontal
+Circular
+Elliptical
+A3B:[01/12]Selective fading; radio-path horizon; take-off angle over flat or sloping terrain; earth effects on propagation
+A3B01|B|What causes selective fading?
+Small changes in beam heading at the receiving station
+Phase differences between radio-wave components of the same transmission, as experienced at the receiving station
+Large changes in the height of the ionosphere at the receiving station ordinarily occurring shortly after either sunrise or sunset
+Time differences between the receiving and transmitting stations
+A3B02|C|What is the propagation effect called that causes selective fading between received wave components of the same transmission?
+Faraday rotation
+Diversity reception
+Phase differences
+Phase shift
+A3B03|B|Which emission modes suffer the most from selective fading?
+CW and SSB
+FM and double sideband AM
+SSB and AMTOR
+SSTV and CW
+A3B04|A|How does the bandwidth of a transmitted signal affect selective fading?
+It is more pronounced at wide bandwidths
+It is more pronounced at narrow bandwidths
+It is the same for both narrow and wide bandwidths
+The receiver bandwidth determines the selective fading effect
+A3B05|D|Why does the radio-path horizon distance exceed the geometric horizon?
+E-region skip
+D-region skip
+Auroral skip
+Radio waves may be bent
+A3B06|A|How much farther does the VHF/UHF radio-path horizon distance exceed the geometric horizon?
+By approximately 15% of the distance
+By approximately twice the distance
+By approximately one-half the distance
+By approximately four times the distance
+A3B07|B|For a 3-element Yagi antenna with horizontally mounted elements, how does the main lobe takeoff angle vary with height above flat ground?
+It increases with increasing height
+It decreases with increasing height
+It does not vary with height
+It depends on E-region height, not antenna height
+A3B08|B|For a 3-element Yagi antenna with horizontally mounted elements, how does the main lobe takeoff angle vary with a downward slope of the ground (moving away from the antenna)?
+It increases as the slope gets steeper
+It decreases as the slope gets steeper
+It does not depend on the ground slope
+It depends on F-region height, not ground slope
+A3B09|B|What is the name of the high-angle wave in HF propagation that travels for some distance within the F2 region?
+Oblique-angle ray
+Pedersen ray
+Ordinary ray
+Heaviside ray
+A3B10|B|Excluding enhanced propagation, what is the approximate range of normal VHF propagation?
+1000 miles
+500 miles
+1500 miles
+2000 miles
+A3B11|C|What effect is usually responsible for propagating a VHF signal over 500 miles?
+D-region absorption
+Faraday rotation
+Tropospheric ducting
+Moonbounce
+A3B12|A|What happens to an electromagnetic wave as it encounters air molecules and other particles?
+The wave loses kinetic energy
+The wave gains kinetic energy
+An aurora is created
+Nothing happens because the waves have no physical substance
+A4A:[01/11]Frequency measurement devices (i.e. frequency counter, oscilloscope Lissajous figures, dip meter); component mounting techniques (i.e. surface, dead bug {raised}, circuit board)
+A4A01|B|What is a frequency standard?
+A frequency chosen by a net control operator for net operations
+A device used to produce a highly accurate reference frequency
+A device for accurately measuring frequency to within 1 Hz
+A device used to generate wide-band random frequencies
+A4A02|A|What does a frequency counter do?
+It makes frequency measurements
+It produces a reference frequency
+It measures FM transmitter deviation
+It generates broad-band white noise
+A4A03|C|If a 100 Hz signal is fed to the horizontal input of an oscilloscope and a 150 Hz signal is fed to the vertical input, what type of Lissajous figure should be displayed on the screen?
+A looping pattern with 100 loops horizontally and 150 loops vertically
+A rectangular pattern 100 mm wide and 150 mm high
+A looping pattern with 2 loops horizontally and 3 loops vertically
+An oval pattern 100 mm wide and 150 mm high
+A4A04|C|What is a dip-meter?
+A field-strength meter
+An SWR meter
+A variable LC oscillator with metered feedback current
+A marker generator
+A4A05|D|What does a dip-meter do?
+It accurately indicates signal strength
+It measures frequency accurately
+It measures transmitter output power accurately
+It gives an indication of the resonant frequency of a circuit
+A4A06|B|How does a dip-meter function?
+Reflected waves at a specific frequency desensitize a detector coil
+Power coupled from an oscillator causes a decrease in metered current
+Power from a transmitter cancels feedback current
+Harmonics from an oscillator cause an increase in resonant circuit
+A4A07|D|What two ways could a dip-meter be used in an amateur station?
+To measure resonant frequency of antenna traps and to measure percentage of modulation
+To measure antenna resonance and to measure percentage of modulation
+To measure antenna resonance and to measure antenna impedance
+To measure resonant frequency of antenna traps and to measure a tuned circuit resonant frequency
+A4A08|B|What types of coupling occur between a dip-meter and a tuned circuit being checked?
+Resistive and inductive
+Inductive and capacitive
+Resistive and capacitive
+Strong field
+A4A09|A|For best accuracy, how tightly should a dip-meter be coupled with a tuned circuit being checked?
+As loosely as possible
+As tightly as possible
+First loosely, then tightly
+With a jumper wire between the meter and the circuit to be checked
+A4A10|B|What happens in a dip-meter when it is too tightly coupled with a tuned circuit being checked?
+Harmonics are generated
+A less accurate reading results
+Cross modulation occurs
+Intermodulation distortion occurs
+A4A11|D|What circuit construction technique uses leadless components mounted between circuit board pads?
+Raised mounting
+Integrated circuit mounting
+Hybrid device mounting
+Surface mounting
+A4B:[01/11]Meter performance limitations; oscilloscope performance limitations; frequency counter performance limitations
+A4B01|B|What factors limit the accuracy, frequency response and stability of a D'Arsonval-type meter?
+Calibration, coil impedance and meter size
+Calibration, mechanical tolerance and coil impedance
+Coil impedance, electromagnet voltage and movement mass
+Calibration, series resistance and electromagnet current
+A4B02|A|What factors limit the accuracy, frequency response and stability of an oscilloscope?
+Accuracy and linearity of the time base and the linearity and bandwidth of the deflection amplifiers
+Tube face voltage increments and deflection amplifier voltage
+Accuracy and linearity of the time base and tube face voltage increments
+Deflection amplifier output impedance and tube face frequency increments
+A4B03|D|How can the frequency response of an oscilloscope be improved?
+By using a triggered sweep and a crystal oscillator as the time base
+By using a crystal oscillator as the time base and increasing the vertical sweep rate
+By increasing the vertical sweep rate and the horizontal amplifier frequency response
+By increasing the horizontal sweep rate and the vertical amplifier frequency response
+A4B04|B|What factors limit the accuracy, frequency response and stability of a frequency counter?
+Number of digits in the readout, speed of the logic and time base stability
+Time base accuracy, speed of the logic and time base stability
+Time base accuracy, temperature coefficient of the logic and time base stability
+Number of digits in the readout, external frequency reference and temperature coefficient of the logic
+A4B05|C|How can the accuracy of a frequency counter be improved?
+By using slower digital logic
+By improving the accuracy of the frequency response
+By increasing the accuracy of the time base
+By using faster digital logic
+A4B06|C|If a frequency counter with a time base accuracy of +/- 1.0 ppm reads 146,520,000 Hz, what is the most the actual frequency being measured could differ from the reading?
+165.2 Hz
+14.652 kHz
+146.52 Hz
+1.4652 MHz
+A4B07|A|If a frequency counter with a time base accuracy of +/- 0.1 ppm reads 146,520,000 Hz, what is the most the actual frequency being measured could differ from the reading?
+14.652 Hz
+0.1 MHz
+1.4652 Hz
+1.4652 kHz
+A4B08|D|If a frequency counter with a time base accuracy of +/- 10 ppm reads 146,520,000 Hz, what is the most the actual frequency being measured could differ from the reading?
+146.52 Hz
+10 Hz
+146.52 kHz
+1465.20 Hz
+A4B09|D|If a frequency counter with a time base accuracy of +/- 1.0 ppm reads 432,100,000 Hz, what is the most the actual frequency being measured could differ from the reading?
+43.21 MHz
+10 Hz
+1.0 MHz
+432.1 Hz
+A4B10|A|If a frequency counter with a time base accuracy of +/- 0.1 ppm reads 432,100,000 Hz, what is the most the actual frequency being measured could differ from the reading?
+43.21 Hz
+0.1 MHz
+432.1 Hz
+0.2 MHz
+A4B11|C|If a frequency counter with a time base accuracy of +/- 10 ppm reads 432,100,000 Hz, what is the most the actual frequency being measured could differ from the reading?
+10 MHz
+10 Hz
+4321 Hz
+432.1 Hz
+A4C:[01/11]Receiver performance characteristics (i.e., phase noise, desensitization, capture effect, intercept point, noise floor, dynamic range {blocking and IMD}, image rejection, MDS, signal-to-noise-ratio)
+A4C01|D|What is the effect of excessive phase noise in a receiver local oscillator?
+It limits the receiver ability to receive strong signals
+It reduces the receiver sensitivity
+It decreases the receiver third-order intermodulation distortion dynamic range
+It allows strong signals on nearby frequencies to interfere with reception of weak signals
+A4C02|A|What is the term for the reduction in receiver sensitivity caused by a strong signal near the received frequency?
+Desensitization
+Quieting
+Cross-modulation interference
+Squelch gain rollback
+A4C03|B|What causes receiver desensitization?
+Audio gain adjusted too low
+Strong adjacent-channel signals
+Squelch gain adjusted too high
+Squelch gain adjusted too low
+A4C04|A|What is one way receiver desensitization can be reduced?
+Shield the receiver from the transmitter causing the problem
+Increase the transmitter audio gain
+Decrease the receiver squelch gain
+Increase the receiver bandwidth
+A4C05|C|What is the capture effect?
+All signals on a frequency are demodulated by an FM receiver
+All signals on a frequency are demodulated by an AM receiver
+The strongest signal received is the only demodulated signal
+The weakest signal received is the only demodulated signal
+A4C06|C|What is the term for the blocking of one FM-phone signal by another stronger FM-phone signal?
+Desensitization
+Cross-modulation interference
+Capture effect
+Frequency discrimination
+A4C07|A|With which emission type is capture effect most pronounced?
+FM
+SSB
+AM
+CW
+A4C08|D|What is meant by the noise floor of a receiver?
+The weakest signal that can be detected under noisy atmospheric conditions
+The amount of phase noise generated by the receiver local oscillator
+The minimum level of noise that will overload the receiver RF amplifier stage
+The weakest signal that can be detected above the receiver internal noise
+A4C09|B|What is the blocking dynamic range of a receiver that has an 8-dB noise figure and an IF bandwidth of 500 Hz if the blocking level (1-dB compression point) is -20 dBm?
+-119 dBm
+119 dB
+146 dB
+-146 dBm
+A4C10|D|What part of a superheterodyne receiver determines the image rejection ratio of the receiver?
+Product detector
+RF amplifier
+AGC loop
+IF filter
+A4C11|B|If you measured the MDS of a receiver, what would you be measuring?
+The meter display sensitivity (MDS), or the responsiveness of the receiver S-meter to all signals
+The minimum discernible signal (MDS), or the weakest signal that the receiver can detect
+The minimum distorting signal (MDS), or the strongest signal the receiver can detect without overloading
+The maximum detectable spectrum (MDS), or the lowest to highest frequency range of the receiver
+A4D:[01/11]Intermodulation and cross-modulation interference
+A4D01|D|If the signals of two transmitters mix together in one or both of their final amplifiers and unwanted signals at the sum and difference frequencies of the original signals are generated, what is this called?
+Amplifier desensitization
+Neutralization
+Adjacent channel interference
+Intermodulation interference
+A4D02|B|How does intermodulation interference between two repeater transmitters usually occur?
+When the signals from the transmitters are reflected out of phase from airplanes passing overhead
+When they are in close proximity and the signals mix in one or both of their final amplifiers
+When they are in close proximity and the signals cause feedback in one or both of their final amplifiers
+When the signals from the transmitters are reflected in phase from airplanes passing overhead
+A4D03|B|How can intermodulation interference between two repeater transmitters in close proximity often be reduced or eliminated?
+By using a Class C final amplifier with high driving power
+By installing a terminated circulator or ferrite isolator in the feed line to the transmitter and duplexer
+By installing a band-pass filter in the antenna feed line
+By installing a low-pass filter in the antenna feed line
+A4D04|D|What is cross-modulation interference?
+Interference between two transmitters of different modulation type
+Interference caused by audio rectification in the receiver preamp
+Harmonic distortion of the transmitted signal
+Modulation from an unwanted signal is heard in addition to the desired signal
+A4D05|B|What is the term used to refer to the condition where the signals from a very strong station are superimposed on other signals being received?
+Intermodulation distortion
+Cross-modulation interference
+Receiver quieting
+Capture effect
+A4D06|A|How can cross-modulation in a receiver be reduced?
+By installing a filter at the receiver
+By using a better antenna
+By increasing the receiver RF gain while decreasing the AF gain
+By adjusting the passband tuning
+A4D07|C|What is the result of cross-modulation?
+A decrease in modulation level of transmitted signals
+Receiver quieting
+The modulation of an unwanted signal is heard on the desired signal
+Inverted sidebands in the final stage of the amplifier
+A4D08|C|What causes intermodulation in an electronic circuit?
+Too little gain
+Lack of neutralization
+Nonlinear circuits or devices
+Positive feedback
+A4D09|A|If a receiver tuned to 146.70 MHz receives an intermodulation-product signal whenever a nearby transmitter transmits on 146.52 MHz, what are the two most likely frequencies for the other interfering signal?
+146.34 MHz and 146.61 MHz
+146.88 MHz and 146.34 MHz
+146.10 MHz and 147.30 MHz
+73.35 MHz and 239.40 MHz
+A4D10|D|If a television receiver suffers from cross modulation when a nearby amateur transmitter is operating at 14 MHz, which of the following cures might be effective?
+A low-pass filter attached to the output of the amateur transmitter
+A high-pass filter attached to the output of the amateur transmitter
+A low-pass filter attached to the input of the television receiver
+A high-pass filter attached to the input of the television receiver
+A4D11|B|Which of the following is an example of intermodulation distortion?
+Receiver blocking
+Splatter from an SSB transmitter
+Overdeviation of an FM transmitter
+Excessive 2nd-harmonic output from a transmitter
+A5A:[01/11]Characteristics of resonant circuits
+A5A01|A|What can cause the voltage across reactances in series to be larger than the voltage applied to them?
+Resonance
+Capacitance
+Conductance
+Resistance
+A5A02|C|What is resonance in an electrical circuit?
+The highest frequency that will pass current
+The lowest frequency that will pass current
+The frequency at which capacitive reactance equals inductive reactance
+The frequency at which power factor is at a minimum
+A5A03|B|What are the conditions for resonance to occur in an electrical circuit?
+The power factor is at a minimum
+Inductive and capacitive reactances are equal
+The square root of the sum of the capacitive and inductive reactance is equal to the resonant frequency
+The square root of the product of the capacitive and inductive
+A5A04|D|When the inductive reactance of an electrical circuit equals its capacitive reactance, what is this condition called?
+Reactive quiescence
+High Q
+Reactive equilibrium
+Resonance
+A5A05|D|What is the magnitude of the impedance of a series R-L-C circuit at resonance?
+High, as compared to the circuit resistance
+Approximately equal to capacitive reactance
+Approximately equal to inductive reactance
+Approximately equal to circuit resistance
+A5A06|A|What is the magnitude of the impedance of a circuit with a resistor, an inductor and a capacitor all in parallel, at resonance?
+Approximately equal to circuit resistance
+Approximately equal to inductive reactance
+Low, as compared to the circuit resistance
+Approximately equal to capacitive reactance
+A5A07|B|What is the magnitude of the current at the input of a series R-L-C circuit at resonance?
+It is at a minimum
+It is at a maximum
+It is DC
+It is zero
+A5A08|B|What is the magnitude of the circulating current within the components of a parallel L-C circuit at resonance?
+It is at a minimum
+It is at a maximum
+It is DC
+It is zero
+A5A09|A|What is the magnitude of the current at the input of a parallel R-L-C circuit at resonance?
+It is at a minimum
+It is at a maximum
+It is DC
+It is zero
+A5A10|C|What is the relationship between the current through a resonant circuit and the voltage across the circuit?
+The voltage leads the current by 90 degrees
+The current leads the voltage by 90 degrees
+The voltage and current are in phase
+The voltage and current are 180 degrees out of phase
+A5A11|C|What is the relationship between the current into (or out of) a parallel resonant circuit and the voltage across the circuit?
+The voltage leads the current by 90 degrees
+The current leads the voltage by 90 degrees
+The voltage and current are in phase
+The voltage and current are 180 degrees out of phase
+A5B:[01/11]Series resonance (capacitor and inductor to resonate at a specific frequency)
+A5B01|C|What is the resonant frequency of a series R-L-C circuit if R is 47 ohms, L is 50 microhenrys and C is 40 picofarads?
+79.6 MHz
+1.78 MHz
+3.56 MHz
+7.96 MHz
+A5B02|B|What is the resonant frequency of a series R-L-C circuit if R is 47 ohms, L is 40 microhenrys and C is 200 picofarads?
+1.99 kHz
+1.78 MHz
+1.99 MHz
+1.78 kHz
+A5B03|D|What is the resonant frequency of a series R-L-C circuit if R is 47 ohms, L is 50 microhenrys and C is 10 picofarads?
+3.18 MHz
+3.18 kHz
+7.12 kHz
+7.12 MHz
+A5B04|A|What is the resonant frequency of a series R-L-C circuit if R is 47 ohms, L is 25 microhenrys and C is 10 picofarads?
+10.1 MHz
+63.7 MHz
+10.1 kHz
+63.7 kHz
+A5B05|B|What is the resonant frequency of a series R-L-C circuit if R is 47 ohms, L is 3 microhenrys and C is 40 picofarads?
+13.1 MHz
+14.5 MHz
+14.5 kHz
+13.1 kHz
+A5B06|D|What is the resonant frequency of a series R-L-C circuit if R is 47 ohms, L is 4 microhenrys and C is 20 picofarads?
+19.9 kHz
+17.8 kHz
+19.9 MHz
+17.8 MHz
+A5B07|C|What is the resonant frequency of a series R-L-C circuit if R is 47 ohms,  L is 8 microhenrys and C is 7 picofarads?
+2.84 MHz
+28.4 MHz
+21.3 MHz
+2.13 MHz
+A5B08|A|What is the resonant frequency of a series R-L-C circuit if R is 47 ohms, L is 3 microhenrys and C is 15 picofarads?
+23.7 MHz
+23.7 kHz
+35.4 kHz
+35.4 MHz
+A5B09|B|What is the resonant frequency of a series R-L-C circuit if R is 47 ohms, L is 4 microhenrys and C is 8 picofarads?
+28.1 kHz
+28.1 MHz
+49.7 MHz
+49.7 kHz
+A5B10|D|What is the resonant frequency of a series R-L-C circuit if R is 47 ohms, L is 1 microhenry and C is 9 picofarads?
+17.7 MHz
+17.7 kHz
+53.1 kHz
+53.1 MHz
+A5B11|C|What is the value of capacitance (C) in a series R-L-C circuit if the circuit resonant frequency is 14.25 MHz and L is 2.84 microhenrys?
+2.2 microfarads
+254 microfarads
+44 picofarads
+3933 picofarads
+A5C:[01/11]Parallel resonnce (capacitor and inductor to resonate at a specific frequency)
+A5C01|A|What is the resonant frequency of a parallel R-L-C circuit if R is 4.7 kilohms, L is 1 microhenry and C is 10 picofarads?
+50.3 MHz
+15.9 MHz
+15.9 kHz
+50.3 kHz
+A5C02|B|What is the resonant frequency of a parallel R-L-C circuit if R is 4.7 kilohms, L is 2 microhenrys and C is 15 picofarads?
+29.1 kHz
+29.1 MHz
+5.31 MHz
+5.31 kHz
+A5C03|C|What is the resonant frequency of a parallel R-L-C circuit if R is 4.7 kilohms, L is 5 microhenrys and C is 9 picofarads?
+23.7 kHz
+3.54 kHz
+23.7 MHz
+3.54 MHz
+A5C04|D|What is the resonant frequency of a parallel R-L-C circuit if R is 4.7 kilohms, L is 2 microhenrys and C is 30 picofarads?
+2.65 kHz
+20.5 kHz
+2.65 MHz
+20.5 MHz
+A5C05|A|What is the resonant frequency of a parallel R-L-C circuit if R is 4.7 kilohms, L is 15 microhenrys and C is 5 picofarads?
+18.4 MHz
+2.12 MHz
+18.4 kHz
+2.12 kHz
+A5C06|B|What is the resonant frequency of a parallel R-L-C circuit if R is 4.7 kilohms, L is 3 microhenrys and C is 40 picofarads?
+1.33 kHz
+14.5 MHz
+1.33 MHz
+14.5 kHz
+A5C07|C|What is the resonant frequency of a parallel R-L-C circuit if R is 4.7 kilohms, L is 40 microhenrys and C is 6 picofarads?
+6.63 MHz
+6.63 kHz
+10.3 MHz
+10.3 kHz
+A5C08|D|What is the resonant frequency of a parallel R-L-C circuit if R is 4.7 kilohms, L is 10 microhenrys and C is 50 picofarads?
+3.18 MHz
+3.18 kHz
+7.12 kHz
+7.12 MHz
+A5C09|A|What is the resonant frequency of a parallel R-L-C circuit if R is 4.7 kilohms, L is 200 microhenrys and C is 10 picofarads?
+3.56 MHz
+7.96 kHz
+3.56 kHz
+7.96 MHz
+A5C10|B|What is the resonant frequency of a parallel R-L-C circuit if R is 4.7 kilohms, L is 90 microhenrys and C is 100 picofarads?
+1.77 MHz
+1.68 MHz
+1.77 kHz
+1.68 kHz
+A5C11|D|What is the value of inductance (L) in a parallel R-L-C circuit if the circuit resonant frequency is 14.25 MHz and C is 44 picofarads?
+253.8 millihenrys
+3.9 millihenrys
+0.353 microhenrys
+2.8 microhenrys
+A5D:[01/11]Skin effect; electrostatic and electromagnetic fields
+A5D01|A|What is the result of skin effect?
+As frequency increases, RF current flows in a thinner layer of the conductor, closer to the surface
+As frequency decreases, RF current flows in a thinner layer of the conductor, closer to the surface
+Thermal effects on the surface of the conductor increase the impedance
+Thermal effects on the surface of the conductor decrease the impedance
+A5D02|C|What effect causes most of an RF current to flow along the surface of a conductor?
+Layer effect
+Seeburg effect
+Skin effect
+Resonance effect
+A5D03|A|Where does almost all RF current flow in a conductor?
+Along the surface of the conductor
+In the center of the conductor
+In a magnetic field around the conductor
+In a magnetic field in the center of the conductor
+A5D04|D|Why does most of an RF current flow within a few thousandths of an inch of its conductor's surface?
+Because a conductor has AC resistance due to self-inductance
+Because the RF resistance of a conductor is much less than the DC resistance
+Because of the heating of the conductor's interior
+Because of skin effect
+A5D05|C|Why is the resistance of a conductor different for RF currents than for direct currents?
+Because the insulation conducts current at high frequencies
+Because of the Heisenburg Effect
+Because of skin effect
+Because conductors are non-linear devices
+A5D06|C|What device is used to store electrical energy in an electrostatic field?
+A battery
+A transformer
+A capacitor
+An inductor
+A5D07|B|What unit measures electrical energy stored in an electrostatic field?
+Coulomb
+Joule
+Watt
+Volt
+A5D08|B|What is a magnetic field?
+Current through the space around a permanent magnet
+The space around a conductor, through which a magnetic force acts
+The space between the plates of a charged capacitor, through which a magnetic force acts
+The force that drives current through a resistor
+A5D09|D|In what direction is the magnetic field oriented about a conductor in relation to the direction of electron flow?
+In the same direction as the current
+In a direction opposite to the current
+In all directions; omnidirectional
+In a direction determined by the left-hand rule
+A5D10|D|What determines the strength of a magnetic field around a conductor?
+The resistance divided by the current
+The ratio of the current to the resistance
+The diameter of the conductor
+The amount of current
+A5D11|B|What is the term for energy that is stored in an electromagnetic or electrostatic field?
+Amperes-joules
+Potential energy
+Joules-coulombs
+Kinetic energy
+A5E:[01/11]Half-power bandwidth
+A5E01|A|What is the half-power bandwidth of a parallel resonant circuit that has a resonant frequency of 1.8 MHz and a Q of 95?
+18.9 kHz
+1.89 kHz
+189 Hz
+58.7 kHz
+A5E02|D|What is the half-power bandwidth of a parallel resonant circuit that has a resonant frequency of 3.6 MHz and a Q of 218?
+58.7 kHz
+606 kHz
+47.3 kHz
+16.5 kHz
+A5E03|C|What is the half-power bandwidth of a parallel resonant circuit that has a resonant frequency of 7.1 MHz and a Q of 150?
+211 kHz
+16.5 kHz
+47.3 kHz
+21.1 kHz
+A5E04|D|What is the half-power bandwidth of a parallel resonant circuit that has a resonant frequency of 12.8 MHz and a Q of 218?
+21.1 kHz
+27.9 kHz
+17 kHz
+58.7 kHz
+A5E05|A|What is the half-power bandwidth of a parallel resonant circuit that has a resonant frequency of 14.25 MHz and a Q of 150?
+95 kHz
+10.5 kHz
+10.5 MHz
+17 kHz
+A5E06|D|What is the half-power bandwidth of a parallel resonant circuit that has a resonant frequency of 21.15 MHz and a Q of 95?
+4.49 kHz
+44.9 kHz
+22.3 kHz
+222.6 kHz
+A5E07|B|What is the half-power bandwidth of a parallel resonant circuit that has a resonant frequency of 10.1 MHz and a Q of 225?
+4.49 kHz
+44.9 kHz
+22.3 kHz
+223 kHz
+A5E08|A|What is the half-power bandwidth of a parallel resonant circuit that has a resonant frequency of 18.1 MHz and a Q of 195?
+92.8 kHz
+10.8 kHz
+22.3 kHz
+44.9 kHz
+A5E09|C|What is the half-power bandwidth of a parallel resonant circuit that has a resonant frequency of 3.7 MHz and a Q of 118?
+22.3 kHz
+76.2 kHz
+31.4 kHz
+10.8 kHz
+A5E10|C|What is the half-power bandwidth of a parallel resonant circuit that has a resonant frequency of 14.25 MHz and a Q of 187?
+22.3 kHz
+10.8 kHz
+76.2 kHz
+13.1 kHz
+A5E11|B|What term describes the frequency range over which the circuit response is no more than 3 dB below the peak response?
+Resonance
+Half-power bandwidth
+Circuit Q
+2:1 bandwidth
+A5F:[01/11]Circuit Q
+A5F01|A|What is the Q of a parallel R-L-C circuit if the resonant frequency is 14.128 MHz, L is 2.7 microhenrys and R is 18 kilohms?
+75.1
+7.51
+71.5
+0.013
+A5F02|B|What is the Q of a parallel R-L-C circuit if the resonant frequency is 14.128 MHz, L is 4.7 microhenrys and R is 18 kilohms?
+4.31
+43.1
+13.3
+0.023
+A5F03|C|What is the Q of a parallel R-L-C circuit if the resonant frequency is 4.468 MHz, L is 47 microhenrys and R is 180 ohms?
+0.00735
+7.35
+0.136
+13.3
+A5F04|D|What is the Q of a parallel R-L-C circuit if the resonant frequency is 14.225 MHz, L is 3.5 microhenrys and R is 10 kilohms?
+7.35
+0.0319
+71.5
+31.9
+A5F05|D|What is the Q of a parallel R-L-C circuit if the resonant frequency is 7.125 MHz, L is 8.2 microhenrys and R is 1 kilohm?
+36.8
+0.273
+0.368
+2.73
+A5F06|A|What is the Q of a parallel R-L-C circuit if the resonant frequency is 7.125 MHz, L is 10.1 microhenrys and R is 100 ohms?
+0.221
+4.52
+0.00452
+22.1
+A5F07|B|What is the Q of a parallel R-L-C circuit if the resonant frequency is 7.125 MHz, L is 12.6 microhenrys and R is 22 kilohms?
+22.1
+39
+25.6
+0.0256
+A5F08|B|What is the Q of a parallel R-L-C circuit if the resonant frequency is 3.625 MHz, L is 3 microhenrys and R is 2.2 kilohms?
+0.031
+32.2
+31.1
+25.6
+A5F09|D|What is the Q of a parallel R-L-C circuit if the resonant frequency is 3.625 MHz, L is 42 microhenrys and R is 220 ohms?
+23
+0.00435
+4.35
+0.23
+A5F10|A|What is the Q of a parallel R-L-C circuit if the resonant frequency is 3.625 MHz, L is 43 microhenrys and R is 1.8 kilohms?
+1.84
+0.543
+54.3
+23
+A5F11|C|Why is a resistor often included in a parallel resonant circuit?
+To increase the Q and decrease the skin effect
+To decrease the Q and increase the resonant frequency
+To decrease the Q and increase the bandwidth
+To increase the Q and decrease the bandwidth
+A5G:[01/11]Phase angle between voltage and current
+A5G01|A|What is the phase angle between the voltage across and the current through a series R-L-C circuit if XC is 25 ohms, R is 100 ohms, and XL is 100 ohms?
+36.9 degrees with the voltage leading the current
+53.1 degrees with the voltage lagging the current
+36.9 degrees with the voltage lagging the current
+53.1 degrees with the voltage leading the current
+A5G02|B|What is the phase angle between the voltage across and the current through a series R-L-C circuit if XC is 25 ohms, R is 100 ohms, and XL is 50 ohms?
+14 degrees with the voltage lagging the current
+14 degrees with the voltage leading the current
+76 degrees with the voltage lagging the current
+76 degrees with the voltage leading the current
+A5G03|C|What is the phase angle between the voltage across and the current through a series R-L-C circuit if XC is 500 ohms, R is 1 kilohm, and XL is 250 ohms?
+68.2 degrees with the voltage leading the current
+14.1 degrees with the voltage leading the current
+14.1 degrees with the voltage lagging the current
+68.2 degrees with the voltage lagging the current
+A5G04|B|What is the phase angle between the voltage across and the current through a series R-L-C circuit if XC is 75 ohms, R is 100 ohms, and XL is 100 ohms?
+76 degrees with the voltage leading the current
+14 degrees with the voltage leading the current
+14 degrees with the voltage lagging the current
+76 degrees with the voltage lagging the current
+A5G05|D|What is the phase angle between the voltage across and the current through a series R-L-C circuit if XC is 50 ohms, R is 100 ohms, and XL is 25 ohms?
+76 degrees with the voltage lagging the current
+14 degrees with the voltage leading the current
+76 degrees with the voltage leading the current
+14 degrees with the voltage lagging the current
+A5G06|C|What is the phase angle between the voltage across and the current through a series R-L-C circuit if XC is 75 ohms, R is 100 ohms, and XL is 50 ohms?
+76 degrees with the voltage lagging the current
+14 degrees with the voltage leading the current
+14 degrees with the voltage lagging the current
+76 degrees with the voltage leading the current
+A5G07|A|What is the phase angle between the voltage across and the current through a series R-L-C circuit if XC is 100 ohms, R is 100 ohms, and XL is 75 ohms?
+14 degrees with the voltage lagging the current
+14 degrees with the voltage leading the current
+76 degrees with the voltage leading the current
+76 degrees with the voltage lagging the current
+A5G08|D|What is the phase angle between the voltage across and the current through a series R-L-C circuit if XC is 250 ohms, R is 1 kilohm, and XL is 500 ohms?
+81.47 degrees with the voltage lagging the current
+81.47 degrees with the voltage leading the current
+14.04 degrees with the voltage lagging the current
+14.04 degrees with the voltage leading the current
+A5G09|D|What is the phase angle between the voltage across and the current through a series R-L-C circuit if XC is 50 ohms, R is 100 ohms, and XL is 75 ohms?
+76 degrees with the voltage leading the current
+76 degrees with the voltage lagging the current
+14 degrees with the voltage lagging the current
+14 degrees with the voltage leading the current
+A5G10|D|What is the relationship between the current through and the voltage across a capacitor?
+Voltage and current are in phase
+Voltage and current are 180 degrees out of phase
+Voltage leads current by 90 degrees
+Current leads voltage by 90 degrees
+A5G11|A|What is the relationship between the current through an inductor and the voltage across an inductor?
+Voltage leads current by 90 degrees
+Current leads voltage by 90 degrees
+Voltage and current are 180 degrees out of phase
+Voltage and current are in phase
+A5H:[01/11]Reactive power; power factor
+A5H01|A|What is reactive power?
+Wattless, nonproductive power
+Power consumed in wire resistance in an inductor
+Power lost because of capacitor leakage
+Power consumed in circuit Q
+A5H02|D|What is the term for an out-of-phase, nonproductive power associated with inductors and capacitors?
+Effective power
+True power
+Peak envelope power
+Reactive power
+A5H03|B|In a circuit that has both inductors and capacitors, what happens to reactive power?
+It is dissipated as heat in the circuit
+It goes back and forth between magnetic and electric fields, but is not dissipated
+It is dissipated as kinetic energy in the circuit
+It is dissipated in the formation of inductive and capacitive
+A5H04|A|In a circuit where the AC voltage and current are out of phase, how can the true power be determined?
+By multiplying the apparent power times the power factor
+By subtracting the apparent power from the power factor
+By dividing the apparent power by the power factor
+By multiplying the RMS voltage times the RMS current
+A5H05|C|What is the power factor of an R-L circuit having a 60 degree phase angle between the voltage and the current?
+1.414
+0.866
+0.5
+1.73
+A5H06|D|What is the power factor of an R-L circuit having a 45 degree phase angle between the voltage and the current?
+0.866
+1.0
+0.5
+0.707
+A5H07|C|What is the power factor of an R-L circuit having a 30 degree phase angle between the voltage and the current?
+1.73
+0.5
+0.866
+0.577
+A5H08|B|How many watts are consumed in a circuit having a power factor of 0.2 if the input is 100-V AC at 4 amperes?
+400 watts
+80 watts
+2000 watts
+50 watts
+A5H09|D|How many watts are consumed in a circuit having a power factor of 0.6 if the input is 200-V AC at 5 amperes?
+200 watts
+1000 watts
+1600 watts
+600 watts
+A5H10|B|How many watts are consumed in a circuit having a power factor of 0.71 if the apparent power is 500 watts?
+704 W
+355 W
+252 W
+1.42 mW
+A5H11|A|Why would the power used in a circuit be less than the product of the magnitudes of the AC voltage and current?
+Because there is a phase angle greater than zero between the current and voltage
+Because there are only resistances in the circuit
+Because there are no reactances in the circuit
+Because there is a phase angle equal to zero between the current and voltage
+A5I:[01/11]Effective radiated power, system gains and losses
+A5I01|B|What is the effective radiated power of a repeater station with 50 watts transmitter power output, 4-dB feed line loss, 2-dB duplexer loss, 1-dB circulator loss and 6-dBd antenna gain?
+199 watts
+39.7 watts
+45 watts
+62.9 watts
+A5I02|C|What is the effective radiated power of a repeater station with 50 watts transmitter power output, 5-dB feed line loss, 3-dB duplexer loss, 1-dB circulator loss and 7-dBd antenna gain?
+79.2 watts
+315 watts
+31.5 watts
+40.5 watts
+A5I03|D|What is the effective radiated power of a station with 75 watts transmitter power output, 4-dB feed line loss and 10-dBd antenna gain?
+600 watts
+75 watts
+150 watts
+299 watts
+A5I04|A|What is the effective radiated power of a repeater station with 75 watts transmitter power output, 5-dB feed line loss, 3-dB duplexer loss, 1-dB circulator loss and 6-dBd antenna gain?
+37.6 watts
+237 watts
+150 watts
+23.7 watts
+A5I05|D|What is the effective radiated power of a station with 100 watts transmitter power output, 1-dB feed line loss and 6-dBd antenna gain?
+350 watts
+500 watts
+20 watts
+316 watts
+A5I06|B|What is the effective radiated power of a repeater station with 100 watts transmitter power output, 5-dB feed line loss, 3-dB duplexer loss, 1-dB circulator loss and 10-dBd antenna gain?
+794 watts
+126 watts
+79.4 watts
+1260 watts
+A5I07|C|What is the effective radiated power of a repeater station with 120 watts transmitter power output, 5-dB feed line loss, 3-dB duplexer loss, 1-dB circulator loss and 6-dBd antenna gain?
+601 watts
+240 watts
+60 watts
+79 watts
+A5I08|D|What is the effective radiated power of a repeater station with 150 watts transmitter power output, 2-dB feed line loss, 2.2-dB duplexer loss and 7-dBd antenna gain?
+1977 watts
+78.7 watts
+420 watts
+286 watts
+A5I09|A|What is the effective radiated power of a repeater station with 200 watts transmitter power output, 4-dB feed line loss, 3.2-dB duplexer loss, 0.8-dB circulator loss and 10-dBd antenna gain?
+317 watts
+2000 watts
+126 watts
+300 watts
+A5I10|B|What is the effective radiated power of a repeater station with 200 watts transmitter power output, 2-dB feed line loss, 2.8-dB duplexer loss, 1.2-dB circulator loss and 7-dBd antenna gain?
+159 watts
+252 watts
+632 watts
+63.2 watts
+A5I11|C|What term describes station output (including the transmitter, antenna and everything in between), when considering transmitter power and system gains and losses?
+Power factor
+Half-power bandwidth
+Effective radiated power
+Apparent power
+A5J:[01/11]Replacement of voltage source and resistive voltage divider with equivalent voltage source and one resistor (Thevenin's Theorem)
+A5J01|B|In Figure A5-1, what values of V2 and R3 result in the same voltage and current as when V1 is 8 volts, R1 is 8 kilohms, and R2 is 8 kilohms?
+R3 = 4 kilohms and V2 = 8 volts
+R3 = 4 kilohms and V2 = 4 volts
+R3 = 16 kilohms and V2 = 8 volts
+R3 = 16 kilohms and V2 = 4 volts
+A5J02|C|In Figure A5-1, what values of V2 and R3 result in the same voltage and current as when V1 is 8 volts, R1 is 16 kilohms, and R2 is 8 kilohms?
+R3 = 24 kilohms and V2 = 5.33 volts
+R3 = 5.33 kilohms and V2 = 8 volts
+R3 = 5.33 kilohms and V2 = 2.67 volts
+R3 = 24 kilohms and V2 = 8 volts
+A5J03|A|In Figure A5-1, what values of V2 and R3 result in the same voltage and current as when V1 is 8 volts, R1 is 8 kilohms, and R2 is 16 kilohms?
+R3 = 5.33 kilohms and V2 = 5.33 volts
+R3 = 8 kilohms and V2 = 4 volts
+R3 = 24 kilohms and V2 = 8 volts
+R3 = 5.33 kilohms and V2 = 8 volts
+A5J04|D|In Figure A5-1, what values of V2 and R3 result in the same voltage and current as when V1 is 10 volts, R1 is 10 kilohms, and R2 is 10 kilohms?
+R3 = 10 kilohms and V2 = 5 volts
+R3 = 20 kilohms and V2 = 5 volts
+R3 = 20 kilohms and V2 = 10 volts
+R3 = 5 kilohms and V2 = 5 volts
+A5J05|C|In Figure A5-1, what values of V2 and R3 result in the same voltage and current as when V1 is 10 volts, R1 is 20 kilohms, and R2 is 10 kilohms?
+R3 = 30 kilohms and V2 = 10 volts
+R3 = 6.67 kilohms and V2 = 10 volts
+R3 = 6.67 kilohms and V2 = 3.33 volts
+R3 = 30 kilohms and V2 = 3.33 volts
+A5J06|A|In Figure A5-1, what values of V2 and R3 result in the same voltage and current as when V1 is 10 volts, R1 is 10 kilohms, and R2 is 20 kilohms?
+R3 = 6.67 kilohms and V2 = 6.67 volts
+R3 = 6.67 kilohms and V2 = 10 volts
+R3 = 30 kilohms and V2 = 6.67 volts
+R3 = 30 kilohms and V2 = 10 volts
+A5J07|B|In Figure A5-1, what values of V2 and R3 result in the same voltage and current as when V1 is 12 volts, R1 is 10 kilohms, and R2 is 10 kilohms?
+R3 = 20 kilohms and V2 = 12 volts
+R3 = 5 kilohms and V2 = 6 volts
+R3 = 5 kilohms and V2 = 12 volts
+R3 = 30 kilohms and V2 = 6 volts
+A5J08|B|In Figure A5-1, what values of V2 and R3 result in the same voltage and current as when V1 is 12 volts, R1 is 20 kilohms, and R2 is 10 kilohms?
+R3 = 30 kilohms and V2 = 4 volts
+R3 = 6.67 kilohms and V2 = 4 volts
+R3 = 30 kilohms and V2 = 12 volts
+R3 = 6.67 kilohms and V2 = 12 volts
+A5J09|C|In Figure A5-1, what values of V2 and R3 result in the same voltage and current as when V1 is 12 volts, R1 is 10 kilohms, and R2 is 20 kilohms?
+R3 = 6.67 kilohms and V2 = 12 volts
+R3 = 30 kilohms and V2 = 12 volts
+R3 = 6.67 kilohms and V2 = 8 volts
+R3 = 30 kilohms and V2 = 8 volts
+A5J10|A|In Figure A5-1, what values of V2 and R3 result in the same voltage and current as when V1 is 12 volts, R1 is 20 kilohms, and R2 is 20 kilohms?
+R3 = 10 kilohms and V2 = 6 volts
+R3 = 40 kilohms and V2 = 6 volts
+R3 = 40 kilohms and V2 = 12 volts
+R3 = 10 kilohms and V2 = 12 volts
+A5J11|D|What circuit principle describes the replacement of any complex two-terminal network of voltage sources and resistances with a single voltage source and a single resistor?
+Ohm's Law
+Kirchhoff's Law
+Laplace's Theorem
+Thevenin's Theorem
+A6A:[01/12]Semiconductor material: Germanium, Silicon, P-type, N-type
+A6A01|B|What two elements widely used in semiconductor devices exhibit both metallic and nonmetallic characteristics?
+Silicon and gold
+Silicon and germanium
+Galena and germanium
+Galena and bismuth
+A6A02|C|In what application is gallium arsenide used as a semiconductor material in preference to germanium or silicon?
+In bipolar transistors
+In high-power circuits
+At microwave frequencies
+At very low frequencies
+A6A03|C|What type of semiconductor material might be produced by adding some antimony atoms to germanium crystals?
+J-type
+MOS-type
+N-type
+P-type
+A6A04|B|What type of semiconductor material might be produced by adding some gallium atoms to silicon crystals?
+N-type
+P-type
+MOS-type
+J-type
+A6A05|A|What type of semiconductor material contains more free electrons than pure germanium or silicon crystals?
+N-type
+P-type
+Bipolar
+Insulated gate
+A6A06|A|What type of semiconductor material might be produced by adding some arsenic atoms to silicon crystals?
+N-type
+P-type
+MOS-type
+J-type
+A6A07|D|What type of semiconductor material might be produced by adding some indium atoms to germanium crystals?
+J-type
+MOS-type
+N-type
+P-type
+A6A08|B|What type of semiconductor material contains fewer free electrons than pure germanium or silicon crystals?
+N-type
+P-type
+Superconductor-type
+Bipolar-type
+A6A09|C|What are the majority charge carriers in P-type semiconductor material?
+Free neutrons
+Free protons
+Holes
+Free electrons
+A6A10|B|What are the majority charge carriers in N-type semiconductor material?
+Holes
+Free electrons
+Free protons
+Free neutrons
+A6A11|B|What is the name given to an impurity atom that provides excess electrons to a semiconductor crystal structure?
+Acceptor impurity
+Donor impurity
+P-type impurity
+Conductor impurity
+A6A12|C|What is the name given to an impurity atom that adds holes to a semiconductor crystal structure?
+Insulator impurity
+N-type impurity
+Acceptor impurity
+Donor impurity
+A6B:[01/16]Diodes: Zener, Tunnel, Varactor, Hot-carrier, Junction, Point contact, PIN and Light-emitting
+A6B01|B|What is the principal characteristic of a Zener diode?
+A constant current under conditions of varying voltage
+A constant voltage under conditions of varying current
+A negative resistance region
+An internal capacitance that varies with the applied voltage
+A6B02|D|In Figure A6-1, what is the schematic symbol for a Zener diode?
+7
+6
+4
+3
+A6B03|C|What is the principal characteristic of a tunnel diode?
+A high forward resistance
+A very high PIV
+A negative resistance region
+A high forward current rating
+A6B04|C|What special type of diode is capable of both amplification and oscillation?
+Point contact
+Zener
+Tunnel
+Junction
+A6B05|C|In Figure A6-1, what is the schematic symbol for a tunnel diode?
+8
+6
+2
+1
+A6B06|A|What type of semiconductor diode varies its internal capacitance as the voltage applied to its terminals varies?
+Varactor
+Tunnel
+Silicon-controlled rectifier
+Zener
+A6B07|D|In Figure A6-1, what is the schematic symbol for a varactor diode?
+8
+6
+2
+1
+A6B08|D|What is a common use of a hot-carrier diode?
+As balanced mixers in FM generation
+As a variable capacitance in an automatic frequency control circuit
+As a constant voltage reference in a power supply
+As VHF and UHF mixers and detectors
+A6B09|B|What limits the maximum forward current in a junction diode?
+Peak inverse voltage
+Junction temperature
+Forward voltage
+Back EMF
+A6B10|D|How are junction diodes rated?
+Maximum forward current and capacitance
+Maximum reverse current and PIV
+Maximum reverse current and capacitance
+Maximum forward current and PIV
+A6B11|A|Structurally, what are the two main categories of semiconductor diodes?
+Junction and point contact
+Electrolytic and junction
+Electrolytic and point contact
+Vacuum and point contact
+A6B12|C|What is a common use for point contact diodes?
+As a constant current source
+As a constant voltage source
+As an RF detector
+As a high voltage rectifier
+A6B13|D|In Figure A6-1, what is the schematic symbol for a semiconductor diode/rectifier?
+1
+2
+3
+4
+A6B14|C|What is one common use for PIN diodes?
+As a constant current source
+As a constant voltage source
+As an RF switch
+As a high voltage rectifier
+A6B15|B|In Figure A6-1, what is the schematic symbol for a light-emitting diode?
+1
+5
+6
+7
+A6B16|B|What type of bias is required for an LED to produce luminescence?
+Reverse bias
+Forward bias
+Zero bias
+Inductive bias
+A6C:[01/11]Toroids: Permeability, core material, selecting, winding
+A6C01|D|What material property determines the inductance of a toroidal inductor with a 10-turn winding?
+Core load current
+Core resistance
+Core reactivity
+Core permeability
+A6C02|B|By careful selection of core material, over what frequency range can toroidal cores produce useful inductors?
+From a few kHz to no more than several MHz
+From DC to at least 1000 MHz
+From DC to no more than 3000 kHz
+From a few hundred MHz to at least 1000 GHz
+A6C03|A|What materials are used to make ferromagnetic inductors and transformers?
+Ferrite and powdered-iron toroids
+Silicon-ferrite toroids and shellac
+Powdered-ferrite and silicon toroids
+Ferrite and silicon-epoxy toroids
+A6C04|B|What is one important reason for using powdered-iron toroids rather than ferrite toroids in an inductor?
+Powdered-iron toroids generally have greater initial permeabilities
+Powdered-iron toroids generally have better temperature stability
+Powdered-iron toroids generally require fewer turns to produce a given inductance value
+Powdered-iron toroids are easier to use with surface-mount
+A6C05|C|What is one important reason for using ferrite toroids rather than powdered-iron toroids in an inductor?
+Ferrite toroids generally have lower initial permeabilities
+Ferrite toroids generally have better temperature stability
+Ferrite toroids generally require fewer turns to produce a given inductance value
+Ferrite toroids are easier to use with surface-mount technology
+A6C06|B|What would be a good choice of toroid core material to make a common-mode choke (such as winding telephone wires or stereo speaker leads on a core) to cure an HF RFI problem?
+Type 61 mix ferrite (initial permeability of 125)
+Type 43 mix ferrite (initial permeability of 850)
+Type 6 mix powdered iron (initial permeability of 8)
+Type 12 mix powdered iron (initial permeability of 3)
+A6C07|C|What devices are commonly used as parasitic suppressors at the input and output terminals of VHF and UHF amplifiers?
+Electrolytic capacitors
+Butterworth filters
+Ferrite beads
+Steel-core toroids
+A6C08|A|What is a primary advantage of using a toroidal core instead of a linear core in an inductor?
+Toroidal cores contain most of the magnetic field within the core material
+Toroidal cores make it easier to couple the magnetic energy into other components
+Toroidal cores exhibit greater hysteresis
+Toroidal cores have lower Q characteristics
+A6C09|D|What is a bifilar-wound toroid?
+An inductor that has two cores taped together to double the inductance value
+An inductor wound on a core with two holes (binocular core)
+A transformer designed to provide a 2-to-1 impedance transformation
+An inductor that uses a pair of wires to place two windings on the core
+A6C10|C|How many turns will be required to produce a 1-mH inductor using a ferrite toroidal core that has an inductance index (A sub L) value of 523?
+2 turns
+4 turns
+43 turns
+229 turns
+A6C11|A|How many turns will be required to produce a 5-microhenry inductor using a powdered-iron toroidal core that has an inductance index (A sub L) value of 40?
+35 turns
+13 turns
+79 turns
+141 turns
+A6D:[01/13]Transistor types: NPN, PNP, Junction, Unijunction
+A6D01|B|What are the three terminals of a bipolar transistor?
+Cathode, plate and grid
+Base, collector and emitter
+Gate, source and sink
+Input, output and ground
+A6D02|C|What is the alpha of a bipolar transistor?
+The change of collector current with respect to base current
+The change of base current with respect to collector current
+The change of collector current with respect to emitter current
+The change of collector current with respect to gate current
+A6D03|A|What is the beta of a bipolar transistor?
+The change of collector current with respect to base current
+The change of base current with respect to emitter current
+The change of collector current with respect to emitter current
+The change of base current with respect to gate current
+A6D04|D|What is the alpha cutoff frequency of a bipolar transistor?
+The practical lower frequency limit of a transistor in common emitter configuration
+The practical upper frequency limit of a transistor in common emitter configuration
+The practical lower frequency limit of a transistor in common base configuration
+The practical upper frequency limit of a transistor in common base configuration
+A6D05|B|In Figure A6-2, what is the schematic symbol for an NPN transistor?
+1
+2
+4
+5
+A6D06|A|In Figure A6-2, what is the schematic symbol for a PNP transistor?
+1
+2
+4
+5
+A6D07|D|What term indicates the frequency at which a transistor grounded base current gain has decreased to 0.7 of the gain obtainable at 1 kHz?
+Corner frequency
+Alpha rejection frequency
+Beta cutoff frequency
+Alpha cutoff frequency
+A6D08|B|What does the beta cutoff of a bipolar transistor indicate?
+The frequency at which the grounded base current gain has decreased to 0.7 of that obtainable at 1 kHz
+The frequency at which the grounded emitter current gain has decreased to 0.7 of that obtainable at 1 kHz
+The frequency at which the grounded collector current gain has decreased to 0.7 of that obtainable at 1 kHz
+The frequency at which the grounded gate current gain has decreased
+A6D09|A|What is the transition region of a transistor?
+An area of low charge density around the P-N junction
+The area of maximum P-type charge
+The area of maximum N-type charge
+The point where wire leads are connected to the P- or N-type
+A6D10|A|What does it mean for a transistor to be fully saturated?
+The collector current is at its maximum value
+The collector current is at its minimum value
+The transistor alpha is at its maximum value
+The transistor beta is at its maximum value
+A6D11|C|What does it mean for a transistor to be cut off?
+There is no base current
+The transistor is at its operating point
+No current flows from emitter to collector
+Maximum current flows from emitter to collector
+A6D12|D|In Figure A6-2, what is the schematic symbol for a unijunction transistor?
+3
+4
+5
+6
+A6D13|C|What are the elements of a unijunction transistor?
+Gate, base 1 and base 2
+Gate, cathode and anode
+Base 1, base 2 and emitter
+Gate, source and sink
+A6E:[01/11]Silicon controlled rectifier (SCR); Triac; neon lamp
+A6E01|B|What are the three terminals of a silicon controlled rectifier (SCR)?
+Gate, source and sink
+Anode, cathode and gate
+Base, collector and emitter
+Gate, base 1 and base 2
+A6E02|A|What are the two stable operating conditions of a silicon controlled rectifier (SCR)?
+Conducting and nonconducting
+Oscillating and quiescent
+Forward conducting and reverse conducting
+NPN conduction and PNP conduction
+A6E03|A|When a silicon controlled rectifier (SCR) is triggered, to what other solid-state device are its electrical characteristics similar (as measured between its cathode and anode)?
+The junction diode
+The tunnel diode
+The hot-carrier diode
+The varactor diode
+A6E04|D|Under what operating conditions does a silicon controlled rectifier (SCR) exhibit electrical characteristics similar to a forward-biased silicon rectifier?
+During a switching transition
+When it is used as a detector
+When it is gated "off"
+When it is gated "on"
+A6E05|C|In Figure A6-3, what is the schematic symbol for a silicon controlled rectifier (SCR)?
+1
+2
+5
+6
+A6E06|B|What is the name of the device that is fabricated as two complementary silicon controlled rectifiers (SCRs) in parallel with a common gate terminal?
+Bilateral SCR
+TRIAC
+Unijunction transistor
+Field-effect transistor
+A6E07|B|What are the three terminals of a TRIAC?
+Emitter, base 1 and base 2
+Gate, anode 1 and anode 2
+Base, emitter and collector
+Gate, source and sink
+A6E08|A|In Figure A6-3, what is the schematic symbol for a TRIAC?
+1
+2
+3
+5
+A6E09|D|What will happen to a neon lamp in the presence of RF?
+It will glow only in the presence of very high frequency radio energy
+It will change color
+It will glow only in the presence of very low frequency radio energy
+It will glow
+A6E10|C|If an NE-2 neon bulb is to be used as a dial lamp with a 120 V AC line, what additional component must be connected to it?
+A 150-pF capacitor in parallel with the bulb
+A 10-mH inductor in series with the bulb
+A 150-kilohm resistor in series with the bulb
+A 10-kilohm resistor in parallel with the bulb
+A6E11|C|In Figure A6-3, what is the schematic symbol for a neon lamp?
+1
+2
+3
+4
+A6F:[01/11]Quartz crystal (frequency determining properties as used in oscillators and filters); monolithic amplifiers (MMICs)
+A6F01|B|For single-sideband phone emissions, what would be the bandwidth of a good crystal lattice band-pass filter?
+6 kHz at -6 dB
+2.1 kHz at -6 dB
+500 Hz at -6 dB
+15 kHz at -6 dB
+A6F02|C|For double-sideband phone emissions, what would be the bandwidth of a good crystal lattice band-pass filter?
+1 kHz at -6 dB
+500 Hz at -6 dB
+6 kHz at -6 dB
+15 kHz at -6 dB
+A6F03|D|What is a crystal lattice filter?
+A power supply filter made with interlaced quartz crystals
+An audio filter made with four quartz crystals that resonate at 1 kHz intervals
+A filter with wide bandwidth and shallow skirts made using quartz crystals
+A filter with narrow bandwidth and steep skirts made using quartz crystals
+A6F04|D|What technique is used to construct low-cost, high-performance crystal filters?
+Choose a center frequency that matches the available crystals
+Choose a crystal with the desired bandwidth and operating frequency to match a desired center frequency
+Measure crystal bandwidth to ensure at least 20% coupling
+Measure crystal frequencies and carefully select units with less than 10% frequency difference
+A6F05|A|Which factor helps determine the bandwidth and response shape of a crystal filter?
+The relative frequencies of the individual crystals
+The center frequency chosen for the filter
+The gain of the RF stage preceding the filter
+The amplitude of the signals passing through the filter
+A6F06|A|What is the piezoelectric effect?
+Physical deformation of a crystal by the application of a voltage
+Mechanical deformation of a crystal by the application of a magnetic field
+The generation of electrical energy by the application of light
+Reversed conduction states when a P-N junction is exposed to light
+A6F07|C|Which of the following devices would be most suitable for constructing a receive preamplifier for 1296 MHz?
+A 2N2222 bipolar transistor
+An MRF901 bipolar transistor
+An MSA-0135 monolithic microwave integrated circuit (MMIC)
+An MPF102 N-junction field-effect transistor (JFET)
+A6F08|A|Which device might be used to simplify the design and construction of a 3456-MHz receiver?
+An MSA-0735 monolithic microwave integrated circuit (MMIC).
+An MRF901 bipolar transistor
+An MGF1402 gallium arsenide field-effect transistor (GaAsFET)
+An MPF102 N-junction field-effect transistor (JFET)
+A6F09|D|What type of amplifier device consists of a small "pill sized" package with an input lead, an output lead and 2 ground leads?
+A gallium arsenide field-effect transistor (GaAsFET)
+An operational amplifier integrated circuit (OAIC)
+An indium arsenide integrated circuit (IAIC)
+A monolithic microwave integrated circuit (MMIC)
+A6F10|B|What typical construction technique do amateurs use when building an amplifier containing a monolithic microwave integrated circuit (MMIC)?
+Ground-plane "ugly" construction
+Microstrip construction
+Point-to-point construction
+Wave-soldering construction
+A6F11|A|How is the operating bias voltage supplied to a monolithic microwave integrated circuit (MMIC)?
+Through a resistor and RF choke connected to the amplifier output lead
+MMICs require no operating bias
+Through a capacitor and RF choke connected to the amplifier input lead
+Directly to the bias-voltage (VCC IN) lead
+A7A:[01/12]Amplifier circuits: Class A, Class AB, Class B, Class C, amplifier operating efficiency (i.e., DC input vs. PEP); transmitter final amplifiers
+A7A01|B|For what portion of a signal cycle does a Class A amplifier operate?
+Less than 180 degrees
+The entire cycle
+More than 180 degrees and less than 360 degrees
+Exactly 180 degrees
+A7A02|A|Which class of amplifier has the highest linearity and least distortion?
+Class A
+Class B
+Class C
+Class AB
+A7A03|A|For what portion of a signal cycle does a Class AB amplifier operate?
+More than 180 degrees but less than 360 degrees
+Exactly 180 degrees
+The entire cycle
+Less than 180 degrees
+A7A04|D|For what portion of a signal cycle does a Class B amplifier operate?
+The entire cycle
+Greater than 180 degrees and less than 360 degrees
+Less than 180 degrees
+180 degrees
+A7A05|A|For what portion of a signal cycle does a Class C amplifier operate?
+Less than 180 degrees
+Exactly 180 degrees
+The entire cycle
+More than 180 degrees but less than 360 degrees
+A7A06|C|Which class of amplifier provides the highest efficiency?
+Class A
+Class B
+Class C
+Class AB
+A7A07|A|Where on the load line should a solid-state power amplifier be operated for best efficiency and stability?
+Just below the saturation point
+Just above the saturation point
+At the saturation point
+At 1.414 times the saturation point
+A7A08|A|What is the formula for the efficiency of a power amplifier?
+Efficiency = (RF power out / DC power in) x 100%
+Efficiency = (RF power in / RF power out) x 100%
+Efficiency = (RF power in / DC power in) x 100%
+Efficiency = (DC power in / RF power in) x 100%
+A7A09|C|How can parasitic oscillations be eliminated from a power amplifier?
+By tuning for maximum SWR
+By tuning for maximum power output
+By neutralization
+By tuning the output
+A7A10|D|What is the procedure for tuning a vacuum-tube power amplifier having an output pi-network?
+Adjust the loading capacitor to maximum capacitance and then dip the plate current with the tuning capacitor
+Alternately increase the plate current with the tuning capacitor and dip the plate current with the loading capacitor
+Adjust the tuning capacitor to maximum capacitance and then dip the plate current with the loading capacitor
+Alternately increase the plate current with the loading capacitor and dip the plate current with the tuning capacitor
+A7A11|B|How can even-order harmonics be reduced or prevented in transmitter amplifiers?
+By using a push-push amplifier
+By using a push-pull amplifier
+By operating Class C
+By operating Class AB
+A7A12|D|What can occur when a nonlinear amplifier is used with a single-sideband phone transmitter?
+Reduced amplifier efficiency
+Increased intelligibility
+Sideband inversion
+Distortion
+A7B:[01/20]Amplifier circuits: tube, bipolar transistor, FET
+A7B01|C|How can a vacuum-tube power amplifier be neutralized?
+By increasing the grid drive
+By feeding back an in-phase component of the output to the input
+By feeding back an out-of-phase component of the output to the input
+By feeding back an out-of-phase component of the input to the output
+A7B02|B|What is the flywheel effect?
+The continued motion of a radio wave through space when the transmitter is turned off
+The back and forth oscillation of electrons in an LC circuit
+The use of a capacitor in a power supply to filter rectified AC
+The transmission of a radio signal to a distant station by several hops through the ionosphere
+A7B03|B|What tank-circuit Q is required to reduce harmonics to an acceptable level?
+Approximately 120
+Approximately 12
+Approximately 1200
+Approximately 1.2
+A7B04|C|What type of circuit is shown in Figure A7-1?
+Switching voltage regulator
+Linear voltage regulator
+Common emitter amplifier
+Emitter follower amplifier
+A7B05|B|In Figure A7-1, what is the purpose of R1 and R2?
+Load resistors
+Fixed bias
+Self bias
+Feedback
+A7B06|D|In Figure A7-1, what is the purpose of C1?
+Decoupling
+Output coupling
+Self bias
+Input coupling
+A7B07|D|In Figure A7-1, what is the purpose of C3?
+AC feedback
+Input coupling
+Power supply decoupling
+Emitter bypass
+A7B08|D|In Figure A7-1, what is the purpose of R3?
+Fixed bias
+Emitter bypass
+Output load resistor
+Self bias
+A7B09|B|What type of circuit is shown in Figure A7-2?
+High-gain amplifier
+Common-collector amplifier
+Linear voltage regulator
+Grounded-emitter amplifier
+A7B10|A|In Figure A7-2, what is the purpose of R?
+Emitter load
+Fixed bias
+Collector load
+Voltage regulation
+A7B11|D|In Figure A7-2, what is the purpose of C1?
+Input coupling
+Output coupling
+Emitter bypass
+Collector bypass
+A7B12|A|In Figure A7-2, what is the purpose of C2?
+Output coupling
+Emitter bypass
+Input coupling
+Hum filtering
+A7B13|C|What type of circuit is shown in Figure A7-3?
+Switching voltage regulator
+Grounded emitter amplifier
+Linear voltage regulator
+Emitter follower
+A7B14|B|What is the purpose of D1 in the circuit shown in Figure A7-3?
+Line voltage stabilization
+Voltage reference
+Peak clipping
+Hum filtering
+A7B15|C|What is the purpose of Q1 in the circuit shown in Figure A7-3?
+It increases the output ripple
+It provides a constant load for the voltage source
+It increases the current-handling capability
+It provides D1 with current
+A7B16|D|What is the purpose of C1 in the circuit shown in Figure A7-3?
+It resonates at the ripple frequency
+It provides fixed bias for Q1
+It decouples the output
+It filters the supply voltage
+A7B17|A|What is the purpose of C2 in the circuit shown in Figure A7-3?
+It bypasses hum around D1
+It is a brute force filter for the output
+To self resonate at the hum frequency
+To provide fixed DC bias for Q1
+A7B18|A|What is the purpose of C3 in the circuit shown in Figure A7-3?
+It prevents self-oscillation
+It provides brute force filtering of the output
+It provides fixed bias for Q1
+It clips the peaks of the ripple
+A7B19|C|What is the purpose of R1 in the circuit shown in Figure A7-3?
+It provides a constant load to the voltage source
+It couples hum to D1
+It supplies current to D1
+It bypasses hum around D1
+A7B20|D|What is the purpose of R2 in the circuit shown in Figure A7-3?
+It provides fixed bias for Q1
+It provides fixed bias for D1
+It decouples hum from D1
+It provides a constant minimum load for Q1
+A7C:[01/11]Impedance-matching networks: Pi, L, Pi-L
+A7C01|D|What is a pi-network?
+A network consisting entirely of four inductors or four capacitors
+A Power Incidence network
+An antenna matching network that is isolated from ground
+A network consisting of one inductor and two capacitors or two inductors and one capacitor
+A7C02|B|Which type of network offers the greater transformation ratio?
+L-network
+Pi-network
+Constant-K
+Constant-M
+A7C03|D|How are the capacitors and inductors of a pi-network arranged between the network's input and output?
+Two inductors are in series between the input and output and a capacitor is connected between the two inductors and ground
+Two capacitors are in series between the input and output and an inductor is connected between the two capacitors and ground
+An inductor is in parallel with the input, another inductor is in parallel with the output, and a capacitor is in series between the two
+A capacitor is in parallel with the input, another capacitor is in parallel with the output, and an inductor is in series between the two
+A7C04|B|What is an L-network?
+A network consisting entirely of four inductors
+A network consisting of an inductor and a capacitor
+A network used to generate a leading phase angle
+A network used to generate a lagging phase angle
+A7C05|A|Why is an L-network of limited utility in impedance matching?
+It matches a small impedance range
+It has limited power-handling capabilities
+It is thermally unstable
+It is prone to self resonance
+A7C06|B|What is a pi-L-network?
+A Phase Inverter Load network
+A network consisting of two inductors and two capacitors
+A network with only three discrete parts
+A matching network in which all components are isolated from ground
+A7C07|C|A T-network with series capacitors and a parallel (shunt) inductor has which of the following properties?
+It transforms impedances and is a low-pass filter
+It transforms reactances and is a low-pass filter
+It transforms impedances and is a high-pass filter
+It transforms reactances and is a high-pass filter
+A7C08|A|What advantage does a pi-L-network have over a pi-network for impedance matching between the final amplifier of a vacuum-tube type transmitter and a multiband antenna?
+Greater harmonic suppression
+Higher efficiency
+Lower losses
+Greater transformation range
+A7C09|C|Which type of network provides the greatest harmonic suppression?
+L-network
+Pi-network
+Pi-L-network
+Inverse-Pi network
+A7C10|C|Which three types of networks are most commonly used to match an amplifying device and a transmission line?
+M, pi and T
+T, M and Q
+L, pi and pi-L
+L, M and C
+A7C11|C|How does a network transform one impedance to another?
+It introduces negative resistance to cancel the resistive part of an impedance
+It introduces transconductance to cancel the reactive part of an impedance
+It cancels the reactive part of an impedance and changes the resistive part
+Network resistances substitute for load resistances
+A7D:[01/11]Filter circuits: constant K, M-derived, band-stop, notch, crystal lattice, Pi-section, T-section, L-section, Butterworth, Chebyshev, elliptical
+A7D01|A|What are the three general groupings of filters?
+High-pass, low-pass and band-pass
+Inductive, capacitive and resistive
+Audio, radio and capacitive
+Hartley, Colpitts and Pierce
+A7D02|B|What value capacitor would be required to tune a 20-microhenry inductor to resonate in the 80-meter band?
+150 picofarads
+100 picofarads
+200 picofarads
+100 microfarads
+A7D03|D|What value inductor would be required to tune a 100-picofarad capacitor to resonate in the 40-meter band?
+200 microhenrys
+150 microhenrys
+5 millihenrys
+5 microhenrys
+A7D04|A|What value capacitor would be required to tune a 2-microhenry inductor to resonate in the 20-meter band?
+64 picofarads
+6 picofarads
+12 picofarads
+88 microfarads
+A7D05|C|What value inductor would be required to tune a 15-picofarad capacitor to resonate in the 15-meter band?
+2 microhenrys
+30 microhenrys
+4 microhenrys
+15 microhenrys
+A7D06|A|What value capacitor would be required to tune a 100-microhenry inductor to resonate in the 160-meter band?
+78 picofarads
+25 picofarads
+405 picofarads
+40.5 microfarads
+A7D07|C|What are the distinguishing features of a Butterworth filter?
+The product of its series- and shunt-element impedances is a constant for all frequencies
+It only requires capacitors
+It has a maximally flat response over its passband
+It requires only inductors
+A7D08|B|What are the distinguishing features of a Chebyshev filter?
+It has a maximally flat response over its passband
+It allows ripple in the passband
+It only requires inductors
+The product of its series- and shunt-element impedances is a constant for all frequencies
+A7D09|D|Which filter type is described as having ripple in the passband and a sharp cutoff?
+A Butterworth filter
+An active LC filter
+A passive op-amp filter
+A Chebyshev filter
+A7D10|C|What are the distinguishing features of an elliptical filter?
+Gradual passband rolloff with minimal stop-band ripple
+Extremely flat response over its passband, with gradually rounded stop-band corners
+Extremely sharp cutoff, with one or more infinitely deep notches in the stop band
+Gradual passband rolloff with extreme stop-band ripple
+A7D11|B|Which filter type has an extremely sharp cutoff, with one or more infinitely deep notches in the stop band?
+Chebyshev
+Elliptical
+Butterworth
+Crystal lattice
+A7E:[01/11]Voltage-regulator circuits: discrete, integrated and switched mode
+A7E01|D|What is one characteristic of a linear electronic voltage regulator?
+It has a ramp voltage as its output
+The pass transistor switches from the "off" state to the "on" state
+The control device is switched on or off, with the duty cycle proportional to the line or load conditions
+The conduction of a control element is varied in direct proportion to the line voltage or load current
+A7E02|C|What is one characteristic of a switching electronic voltage regulator?
+The conduction of a control element is varied in direct proportion to the line voltage or load current
+It provides more than one output voltage
+The control device is switched on or off, with the duty cycle proportional to the line or load conditions
+It gives a ramp voltage at its output
+A7E03|A|What device is typically used as a stable reference voltage in a linear voltage regulator?
+A Zener diode
+A tunnel diode
+An SCR
+A varactor diode
+A7E04|B|What type of linear regulator is used in applications requiring efficient utilization of the primary power source?
+A constant current source
+A series regulator
+A shunt regulator
+A shunt current source
+A7E05|D|What type of linear voltage regulator is used in applications requiring a constant load on the unregulated voltage source?
+A constant current source
+A series regulator
+A shunt current source
+A shunt regulator
+A7E06|C|To obtain the best temperature stability, approximately what operating voltage should be used for the reference diode in a linear voltage regulator?
+2 volts
+3 volts
+6 volts
+10 volts
+A7E07|A|How is remote sensing accomplished in a linear voltage regulator?
+A feedback connection to an error amplifier is made directly to the load
+By wireless inductive loops
+A load connection is made outside the feedback loop
+An error amplifier compares the input voltage to the reference voltage
+A7E08|D|What is a three-terminal regulator?
+A regulator that supplies three voltages with variable current
+A regulator that supplies three voltages at a constant current
+A regulator containing three error amplifiers and sensing transistors
+A regulator containing a voltage reference, error amplifier, sensing resistors and transistors, and a pass element
+A7E09|B|What are the important characteristics of a three-terminal regulator?
+Maximum and minimum input voltage, minimum output current and voltage
+Maximum and minimum input voltage, maximum output current and voltage
+Maximum and minimum input voltage, minimum output current and maximum output voltage
+Maximum and minimum input voltage, minimum output voltage and maximum output current
+A7E10|A|What type of voltage regulator limits the voltage drop across its junction when a specified current passes through it in the reverse-breakdown direction?
+A Zener diode
+A three-terminal regulator
+A bipolar regulator
+A pass-transistor regulator
+A7E11|C|What type of voltage regulator contains a voltage reference, error amplifier, sensing resistors and transistors, and a pass element in one package?
+A switching regulator
+A Zener regulator
+A three-terminal regulator
+An op-amp regulator
+A7F:[01/11]Oscillators: types, applications, stability
+A7F01|D|What are three major oscillator circuits often used in Amateur Radio equipment?
+Taft, Pierce and negative feedback
+Colpitts, Hartley and Taft
+Taft, Hartley and Pierce
+Colpitts, Hartley and Pierce
+A7F02|C|What condition must exist for a circuit to oscillate?
+It must have a gain of less than 1
+It must be neutralized
+It must have positive feedback sufficient to overcome losses
+It must have negative feedback sufficient to cancel the input
+A7F03|A|How is the positive feedback coupled to the input in a Hartley oscillator?
+Through a tapped coil
+Through a capacitive divider
+Through link coupling
+Through a neutralizing capacitor
+A7F04|C|How is the positive feedback coupled to the input in a Colpitts oscillator?
+Through a tapped coil
+Through link coupling
+Through a capacitive divider
+Through a neutralizing capacitor
+A7F05|D|How is the positive feedback coupled to the input in a Pierce oscillator?
+Through a tapped coil
+Through link coupling
+Through a neutralizing capacitor
+Through capacitive coupling
+A7F06|D|Which of the three major oscillator circuits used in Amateur Radio equipment uses a quartz crystal?
+Negative feedback
+Hartley
+Colpitts
+Pierce
+A7F07|B|What is the major advantage of a Pierce oscillator?
+It is easy to neutralize
+It doesn't require an LC tank circuit
+It can be tuned over a wide range
+It has a high output power
+A7F08|B|Which type of oscillator circuits are commonly used in a VFO?
+Pierce and Zener
+Colpitts and Hartley
+Armstrong and deForest
+Negative feedback and Balanced feedback
+A7F09|C|Why is the Colpitts oscillator circuit commonly used in a VFO?
+The frequency is a linear function of the load impedance
+It can be used with or without crystal lock-in
+It is stable
+It has high output power
+A7F10|A|What component is often used to control an oscillator frequency by varying a control voltage?
+A varactor diode
+A piezoelectric crystal
+A Zener diode
+A Pierce crystal
+A7F11|B|Why must a very stable reference oscillator be used as part of a phase-locked loop (PLL) frequency synthesizer?
+Any amplitude variations in the reference oscillator signal will prevent the loop from locking to the desired signal
+Any phase variations in the reference oscillator signal will produce phase noise in the synthesizer output
+Any phase variations in the reference oscillator signal will produce harmonic distortion in the modulating signal
+Any amplitude variations in the reference oscillator signal will prevent the loop from changing frequency
+A7G:[01/11]Modulators: Reactance, Phase, Balanced
+A7G01|D|What is meant by modulation?
+The squelching of a signal until a critical signal-to-noise ratio is reached
+Carrier rejection through phase nulling
+A linear amplification mode
+A mixing process whereby information is imposed upon a carrier
+A7G02|B|How is an F3E FM-phone emission produced?
+With a balanced modulator on the audio amplifier
+With a reactance modulator on the oscillator
+With a reactance modulator on the final amplifier
+With a balanced modulator on the oscillator
+A7G03|C|How does a reactance modulator work?
+It acts as a variable resistance or capacitance to produce FM signals
+It acts as a variable resistance or capacitance to produce AM signals
+It acts as a variable inductance or capacitance to produce FM signals
+It acts as a variable inductance or capacitance to produce AM signals
+A7G04|B|What type of circuit varies the tuning of an oscillator circuit to produce FM signals?
+A balanced modulator
+A reactance modulator
+A double balanced mixer
+An audio modulator
+A7G05|C|How does a phase modulator work?
+It varies the tuning of a microphone preamplifier to produce FM signals
+It varies the tuning of an amplifier tank circuit to produce AM signals
+It varies the tuning of an amplifier tank circuit to produce FM signals
+It varies the tuning of a microphone preamplifier to produce AM signals
+A7G06|C|What type of circuit varies the tuning of an amplifier tank circuit to produce FM signals?
+A balanced modulator
+A double balanced mixer
+A phase modulator
+An audio modulator
+A7G07|B|What type of signal does a balanced modulator produce?
+FM with balanced deviation
+Double sideband, suppressed carrier
+Single sideband, suppressed carrier
+Full carrier
+A7G08|A|How can a single-sideband phone signal be generated?
+By using a balanced modulator followed by a filter
+By using a reactance modulator followed by a mixer
+By using a loop modulator followed by a mixer
+By driving a product detector with a DSB signal
+A7G09|D|How can a double-sideband phone signal be generated?
+By feeding a phase modulated signal into a low-pass filter
+By using a balanced modulator followed by a filter
+By detuning a Hartley oscillator
+By modulating the plate voltage of a Class C amplifier
+A7G10|D|What audio shaping network is added at a transmitter to proportionally attenuate the lower audio frequencies, giving an even spread to the energy in the audio band?
+A de-emphasis network
+A heterodyne suppressor
+An audio prescaler
+A pre-emphasis network
+A7G11|A|What audio shaping network is added at a receiver to restore proportionally attenuated lower audio frequencies?
+A de-emphasis network
+A heterodyne suppressor
+An audio prescaler
+A pre-emphasis network
+A7H:[01/11]Detectors; filter applications (audio, IF, Digital signal processing {DSP})
+A7H01|B|What is the process of detection?
+The masking of the intelligence on a received carrier
+The recovery of the intelligence from a modulated RF signal
+The modulation of a carrier
+The mixing of noise with a received signal
+A7H02|A|What is the principle of detection in a diode detector?
+Rectification and filtering of RF
+Breakdown of the Zener voltage
+Mixing with noise in the transition region of the diode
+The change of reactance in the diode with respect to frequency
+A7H03|C|What does a product detector do?
+It provides local oscillations for input to a mixer
+It amplifies and narrows band-pass frequencies
+It mixes an incoming signal with a locally generated carrier
+It detects cross-modulation products
+A7H04|B|How are FM-phone signals detected?
+With a balanced modulator
+With a frequency discriminator
+With a product detector
+With a phase splitter
+A7H05|D|What is a frequency discriminator?
+An FM generator
+A circuit for filtering two closely adjacent signals
+An automatic band-switching circuit
+A circuit for detecting FM signals
+A7H06|A|Which of the following is NOT an advantage of using active filters rather than L-C filters at audio frequencies?
+Active filters have higher signal-to-noise ratios
+Active filters can provide gain as well as frequency selection
+Active filters do not require the use of inductors
+Active filters can use potentiometers for tuning
+A7H07|B|What kind of audio filter would you use to attenuate an interfering carrier signal while receiving an SSB transmission?
+A band-pass filter
+A notch filter
+A pi-network filter
+An all-pass filter
+A7H08|D|What characteristic do typical SSB receiver IF filters lack that is important to digital communications?
+Steep amplitude-response skirts
+Passband ripple
+High input impedance
+Linear phase response
+A7H09|A|What kind of digital signal processing audio filter might be used to remove unwanted noise from a received SSB signal?
+An adaptive filter
+A notch filter
+A Hilbert-transform filter
+A phase-inverting filter
+A7H10|C|What kind of digital signal processing filter might be used in generating an SSB signal?
+An adaptive filter
+A notch filter
+A Hilbert-transform filter
+An elliptical filter
+A7H11|B|Which type of filter would be the best to use in a 2-meter repeater duplexer?
+A crystal filter
+A cavity filter
+A DSP filter
+An L-C filter
+A7I:[01/11]Mixer stages; Frequency synthesizers
+A7I01|D|What is the mixing process?
+The elimination of noise in a wideband receiver by phase comparison
+The elimination of noise in a wideband receiver by phase differentiation
+The recovery of the intelligence from a modulated RF signal
+The combination of two signals to produce sum and difference frequencies
+A7I02|C|What are the principal frequencies that appear at the output of a mixer circuit?
+Two and four times the original frequency
+The sum, difference and square root of the input frequencies
+The original frequencies and the sum and difference frequencies
+1.414 and 0.707 times the input frequency
+A7I03|B|What are the advantages of the frequency-conversion process?
+Automatic squelching and increased selectivity
+Increased selectivity and optimal tuned-circuit design
+Automatic soft limiting and automatic squelching
+Automatic detection in the RF amplifier and increased selectivity
+A7I04|A|What occurs in a receiver when an excessive amount of signal energy reaches the mixer circuit?
+Spurious mixer products are generated
+Mixer blanking occurs
+Automatic limiting occurs
+A beat frequency is generated
+A7I05|C|What type of frequency synthesizer circuit uses a stable voltage-controlled oscillator, programmable divider, phase detector, loop filter and a reference frequency source?
+A direct digital synthesizer
+A hybrid synthesizer
+A phase-locked loop synthesizer
+A diode-switching matrix synthesizer
+A7I06|A|What type of frequency synthesizer circuit uses a phase accumulator, lookup table, digital to analog converter and a low-pass antialias filter?
+A direct digital synthesizer
+A hybrid synthesizer
+A phase-locked loop synthesizer
+A diode-switching matrix synthesizer
+A7I07|B|What are the main blocks of a phase-locked loop frequency synthesizer?
+A variable-frequency crystal oscillator, programmable divider, digital to analog converter and a loop filter
+A stable voltage-controlled oscillator, programmable divider, phase detector, loop filter and a reference frequency source
+A phase accumulator, lookup table, digital to analog converter and a low-pass antialias filter
+A variable-frequency oscillator, programmable divider, phase detector and a low-pass antialias filter
+A7I08|D|What are the main blocks of a direct digital frequency synthesizer?
+A variable-frequency crystal oscillator, phase accumulator, digital to analog converter and a loop filter
+A stable voltage-controlled oscillator, programmable divider, phase detector, loop filter and a digital to analog converter
+A variable-frequency oscillator, programmable divider, phase detector and a low-pass antialias filter
+A phase accumulator, lookup table, digital to analog converter and a low-pass antialias filter
+A7I09|B|What information is contained in the lookup table of a direct digital frequency synthesizer?
+The phase relationship between a reference oscillator and the output waveform
+The amplitude values that represent a sine-wave output
+The phase relationship between a voltage-controlled oscillator and the output waveform
+The synthesizer frequency limits and frequency values stored in the radio memories
+A7I10|C|What are the major spectral impurity components of direct digital synthesizers?
+Broadband noise
+Digital conversion noise
+Spurs at discrete frequencies
+Nyquist limit noise
+A7I11|A|What are the major spectral impurity components of phase-locked loop synthesizers?
+Broadband noise
+Digital conversion noise
+Spurs at discrete frequencies
+Nyquist limit noise
+A7J:[01/11]Amplifier applications: AF, IF, RF
+A7J01|B|For most amateur phone communications, what should be the upper frequency limit of an audio amplifier?
+No more than 1000 Hz
+About 3000 Hz
+At least 10,000 Hz
+More than 20,000 Hz
+A7J02|A|What is the term for the ratio of the RMS voltage for all harmonics in an audio-amplifier output to the total RMS voltage of the output for a pure sine-wave input?
+Total harmonic distortion
+Maximum frequency deviation
+Full quieting ratio
+Harmonic signal ratio
+A7J03|D|What are the advantages of a Darlington pair audio amplifier?
+Mutual gain, low input impedance and low output impedance
+Low output impedance, high mutual inductance and low output current
+Mutual gain, high stability and low mutual inductance
+High gain, high input impedance and low output impedance
+A7J04|B|What is the purpose of a speech amplifier in an amateur phone transmitter?
+To increase the dynamic range of the audio
+To raise the microphone audio output to the level required by the modulator
+To match the microphone impedance to the transmitter input impedance
+To provide adequate AGC drive to the transmitter
+A7J05|A|What is an IF amplifier stage?
+A fixed-tuned pass-band amplifier
+A receiver demodulator
+A receiver filter
+A buffer oscillator
+A7J06|C|What factors should be considered when selecting an intermediate frequency?
+Cross-modulation distortion and interference
+Interference to other services
+Image rejection and selectivity
+Noise figure and distortion
+A7J07|D|Which of the following is a purpose of the first IF amplifier stage in a receiver?
+To improve noise figure performance
+To tune out cross-modulation distortion
+To increase the dynamic response
+To provide selectivity
+A7J08|B|Which of the following is an important reason for using a VHF intermediate frequency in an HF receiver?
+ To provide a greater tuning range
+ To move the image response far away from the filter passband
+ To tune out cross-modulation distortion
+ To prevent the generation of spurious mixer products
+A7J09|B|How much gain should be used in the RF amplifier stage of a receiver?
+As much gain as possible, short of self oscillation
+Sufficient gain to allow weak signals to overcome noise generated in the first mixer stage
+Sufficient gain to keep weak signals below the noise of the first mixer stage
+It depends on the amplification factor of the first IF stage
+A7J10|C|Why should the RF amplifier stage of a receiver have only sufficient gain to allow weak signals to overcome noise generated in the first mixer stage?
+To prevent the sum and difference frequencies from being generated
+To prevent bleed-through of the desired signal
+To prevent the generation of spurious mixer products
+To prevent bleed-through of the local oscillator
+A7J11|A|What is the primary purpose of an RF amplifier in a receiver?
+To improve the receiver noise figure
+To vary the receiver image rejection by using the AGC
+To provide most of the receiver gain
+To develop the AGC voltage
+A8A:[01/11]FCC emission designators vs. emission types
+A8A01|A|What is emission A3C?
+Facsimile
+RTTY
+ATV
+Slow Scan TV
+A8A02|B|What type of emission is produced when an AM transmitter is modulated by a facsimile signal?
+A3F
+A3C
+F3F
+F3C
+A8A03|C|What does a facsimile transmission produce?
+Tone-modulated telegraphy
+A pattern of printed characters designed to form a picture
+Printed pictures by electrical means
+Moving pictures by electrical means
+A8A04|D|What is emission F3C?
+Voice transmission
+Slow Scan TV
+RTTY
+Facsimile
+A8A05|A|What type of emission is produced when an FM transmitter is modulated by a facsimile signal?
+F3C
+A3C
+F3F
+A3F
+A8A06|B|What is emission A3F?
+RTTY
+Television
+SSB
+Modulated CW
+A8A07|B|What type of emission is produced when an AM transmitter is modulated by a television signal?
+F3F
+A3F
+A3C
+F3C
+A8A08|D|What is emission F3F?
+Modulated CW
+Facsimile
+RTTY
+Television
+A8A09|C|What type of emission is produced when an FM transmitter is modulated by a television signal?
+A3F
+A3C
+F3F
+F3C
+A8A10|D|What type of emission is produced when an SSB transmitter is modulated by a slow-scan television signal?
+J3A
+F3F
+A3F
+J3F
+A8A11|A|What emission is produced when an AM transmitter is modulated by a single-channel signal containing digital information without the use of a modulating subcarrier, resulting in telegraphy for aural reception?
+CW
+RTTY
+Data
+MCW
+A8B:[01/11]Modulation symbols and transmission characteristics
+A8B01|A|What International Telecommunication Union (ITU) system describes the characteristics and necessary bandwidth of any transmitted signal?
+Emission Designators
+Emission Zones
+Band Plans
+Modulation Indicators
+A8B02|C|Which of the following describe the three most-used symbols of an ITU emission designator?
+Type of modulation, transmitted bandwidth and modulation code designator
+Bandwidth of the modulating signal, nature of the modulating signal and transmission rate of signals
+Type of modulation, nature of the modulating signal and type of information to be transmitted
+Power of signal being transmitted, nature of multiplexing and transmission speed
+A8B03|B|If the first symbol of an ITU emission designator is J, representing a single-sideband, suppressed-carrier signal, what information about the emission is described?
+The nature of any signal multiplexing
+The type of modulation of the main carrier
+The maximum permissible bandwidth
+The maximum signal level, in decibels
+A8B04|D|If the first symbol of an ITU emission designator is G, representing a phase-modulated signal, what information about the emission is described?
+The nature of any signal multiplexing
+The maximum permissible deviation
+The nature of signals modulating the main carrier
+The type of modulation of the main carrier
+A8B05|A|If the first symbol of an ITU emission designator is P, representing a sequence of unmodulated pulses, what information about the emission is described?
+The type of modulation of the main carrier
+The maximum permissible pulse width
+The nature of signals modulating the main carrier
+The nature of any signal multiplexing
+A8B06|A|If the second symbol of an ITU emission designator is 3, representing a single channel containing analog information, what information about the emission is described?
+The nature of signals modulating the main carrier
+The maximum permissible deviation
+The maximum signal level, in decibels
+The type of modulation of the main carrier
+A8B07|C|If the second symbol of an ITU emission designator is 1, representing a single channel containing quantized, or digital information, what information about the emission is described?
+The maximum transmission rate, in bauds
+The maximum permissible deviation
+The nature of signals modulating the main carrier
+The type of information to be transmitted
+A8B08|D|If the third symbol of an ITU emission designator is D, representing data transmission, telemetry or telecommand, what information about the emission is described?
+The maximum transmission rate, in bauds
+The maximum permissible deviation
+The nature of signals modulating the main carrier
+The type of information to be transmitted
+A8B09|B|If the third symbol of an ITU emission designator is A, representing telegraphy for aural reception, what information about the emission is described?
+The maximum transmission rate, in words per minute
+The type of information to be transmitted
+The nature of signals modulating the main carrier
+The maximum number of different signal elements
+A8B10|B|If the third symbol of an ITU emission designator is B, representing telegraphy for automatic reception, what information about the emission is described?
+The maximum transmission rate, in bauds
+The type of information to be transmitted
+The type of modulation of the main carrier
+The transmission code is Baudot
+A8B11|D|If the third symbol of an ITU emission designator is F, representing television (video), what information about the emission is described?
+The maximum frequency variation of the color-burst pulse
+The picture scan rate is fast
+The type of modulation of the main carrier
+The type of information to be transmitted
+A8C:[01/11]Modulation methods; modulation index; deviation ratio
+A8C01|C|How can an FM-phone signal be produced?
+By modulating the supply voltage to a Class-B amplifier
+By modulating the supply voltage to a Class-C amplifier
+By using a reactance modulator on an oscillator
+By using a balanced modulator on an oscillator
+A8C02|A|How can the unwanted sideband be removed from a double-sideband signal generated by a balanced modulator to produce a single-sideband phone signal?
+By filtering
+By heterodyning
+By mixing
+By neutralization
+A8C03|B|What is meant by modulation index?
+The processor index
+The ratio between the deviation of a frequency modulated signal and the modulating frequency
+The FM signal-to-noise ratio
+The ratio of the maximum carrier frequency deviation to the highest audio modulating frequency
+A8C04|D|In an FM-phone signal, what is the term for the ratio between the deviation of the frequency modulated signal and the modulating frequency?
+FM compressibility
+Quieting index
+Percentage of modulation
+Modulation index
+A8C05|D|How does the modulation index of a phase-modulated emission vary with RF carrier frequency (the modulated frequency)?
+It increases as the RF carrier frequency increases
+It decreases as the RF carrier frequency increases
+It varies with the square root of the RF carrier frequency
+It does not depend on the RF carrier frequency
+A8C06|A|In an FM-phone signal having a maximum frequency deviation of 3000 Hz either side of the carrier frequency, what is the modulation index when the modulating frequency is 1000 Hz?
+3
+0.3
+3000
+1000
+A8C07|B|What is the modulation index of an FM-phone transmitter producing an instantaneous carrier deviation of 6 kHz when modulated with a 2-kHz modulating frequency?
+6000
+3
+2000
+1/3
+A8C08|B|What is meant by deviation ratio?
+The ratio of the audio modulating frequency to the center carrier frequency
+The ratio of the maximum carrier frequency deviation to the highest audio modulating frequency
+The ratio of the carrier center frequency to the audio modulating frequency
+The ratio of the highest audio modulating frequency to the average audio modulating frequency
+A8C09|C|In an FM-phone signal, what is the term for the maximum deviation from the carrier frequency divided by the maximum audio modulating frequency?
+Deviation index
+Modulation index
+Deviation ratio
+Modulation ratio
+A8C10|D|What is the deviation ratio of an FM-phone signal having a maximum frequency swing of plus or minus 5 kHz and accepting a maximum modulation rate of 3 kHz?
+60
+0.16
+0.6
+1.66
+A8C11|A|What is the deviation ratio of an FM-phone signal having a maximum frequency swing of plus or minus 7.5 kHz and accepting a maximum modulation rate of 3.5 kHz?
+2.14
+0.214
+0.47
+47
+A8D:[01/12]Electromagnetic radiation; wave polarization; signal-to-noise (S/N) ratio
+A8D01|C|What are electromagnetic waves?
+Alternating currents in the core of an electromagnet
+A wave consisting of two electric fields at right angles to each other
+A wave consisting of an electric field and a magnetic field at right angles to each other
+A wave consisting of two magnetic fields at right angles to each other
+A8D02|A|At approximately what speed do electromagnetic waves travel in free space?
+300 million meters per second
+468 million meters per second
+186,300 feet per second
+300 million miles per second
+A8D03|C|Why don't electromagnetic waves penetrate a good conductor for more than a fraction of a wavelength?
+Electromagnetic waves are reflected by the surface of a good conductor
+Oxide on the conductor surface acts as a magnetic shield
+The electromagnetic waves are dissipated as eddy currents in the conductor surface
+The resistance of the conductor surface dissipates the electromagnetic waves
+A8D04|D|Which of the following best describes electromagnetic waves traveling in free space?
+Electric and magnetic fields become aligned as they travel
+The energy propagates through a medium with a high refractive index
+The waves are reflected by the ionosphere and return to their source
+Changing electric and magnetic fields propagate the energy across a vacuum
+A8D05|A|What is meant by horizontally polarized electromagnetic waves?
+Waves with an electric field parallel to the Earth
+Waves with a magnetic field parallel to the Earth
+Waves with both electric and magnetic fields parallel to the Earth
+Waves with both electric and magnetic fields perpendicular to the Earth
+A8D06|B|What is meant by circularly polarized electromagnetic waves?
+Waves with an electric field bent into a circular shape
+Waves with a rotating electric field
+Waves that circle the Earth
+Waves produced by a loop antenna
+A8D07|C|What is the polarization of an electromagnetic wave if its electric field is perpendicular to the surface of the Earth?
+Circular
+Horizontal
+Vertical
+Elliptical
+A8D08|D|What is the polarization of an electromagnetic wave if its magnetic field is parallel to the surface of the Earth?
+Circular
+Horizontal
+Elliptical
+Vertical
+A8D09|A|What is the polarization of an electromagnetic wave if its magnetic field is perpendicular to the surface of the Earth?
+Horizontal
+Circular
+Elliptical
+Vertical
+A8D10|B|What is the polarization of an electromagnetic wave if its electric field is parallel to the surface of the Earth?
+Vertical
+Horizontal
+Circular
+Elliptical
+A8D11|D|What is the primary source of noise that can be heard in an HF-band receiver with an antenna connected?
+Detector noise
+Man-made noise
+Receiver front-end noise
+Atmospheric noise
+A8D12|A|What is the primary source of noise that can be heard in a VHF/UHF- band receiver with an antenna connected?
+Receiver front-end noise
+Man-made noise
+Atmospheric noise
+Detector noise
+A8E:[01/11]AC waveforms: Sine wave, square wave, sawtooth wave
+A8E01|B|What is a sine wave?
+A constant-voltage, varying-current wave
+A wave whose amplitude at any given instant can be represented by a point on a wheel rotating at a uniform speed
+A wave following the laws of the trigonometric tangent function
+A wave whose polarity changes in a random manner
+A8E02|C|Starting at a positive peak, how many times does a sine wave cross the zero axis in one complete cycle?
+180 times
+4 times
+2 times
+360 times
+A8E03|D|How many degrees are there in one complete sine wave cycle?
+90  degrees
+270 degrees
+180 degrees
+360 degrees
+A8E04|A|What is the period of a wave?
+The time required to complete one cycle
+The number of degrees in one cycle
+The number of zero crossings in one cycle
+The amplitude of the wave
+A8E05|B|What is a square wave?
+A wave with only 300 degrees in one cycle
+A wave that abruptly changes back and forth between two voltage levels and remains an equal time at each level
+A wave that makes four zero crossings per cycle
+A wave in which the positive and negative excursions occupy unequal portions of the cycle time
+A8E06|C|What is a wave called that abruptly changes back and forth between two voltage levels and remains an equal time at each level?
+A sine wave
+A cosine wave
+A square wave
+A sawtooth wave
+A8E07|D|What sine waves added to a fundamental frequency make up a square wave?
+A sine wave 0.707 times the fundamental frequency
+All odd and even harmonics
+All even harmonics
+All odd harmonics
+A8E08|A|What type of wave is made up of a sine wave of a fundamental frequency and all its odd harmonics?
+A square wave
+A sine wave
+A cosine wave
+A tangent wave
+A8E09|B|What is a sawtooth wave?
+A wave that alternates between two values and spends an equal time at each level
+A wave with a straight line rise time faster than the fall time (or vice versa)
+A wave that produces a phase angle tangent to the unit circle
+A wave whose amplitude at any given instant can be represented by a point on a wheel rotating at a uniform speed
+A8E10|C|What type of wave has a rise time significantly faster than the fall time (or vice versa)?
+A cosine wave
+A square wave
+A sawtooth wave
+A sine wave
+A8E11|A|What type of wave is made up of sine waves of a fundamental frequency and all harmonics?
+A sawtooth wave
+A square wave
+A sine wave
+A cosine wave
+A8F:[01/11]AC measurements: peak, peak-to-peak and root-mean-square (RMS) value; peak-envelope-power (PEP) relative to average
+A8F01|B|What is the peak voltage at a common household electrical outlet?
+240 volts
+170 volts
+120 volts
+340 volts
+A8F02|C|What is the peak-to-peak voltage at a common household electrical outlet?
+240 volts
+120 volts
+340 volts
+170 volts
+A8F03|A|What is the RMS voltage at a common household electrical power outlet?
+120-V AC
+340-V AC
+85-V AC
+170-V AC
+A8F04|A|What is the RMS value of a 340-volt peak-to-peak pure sine wave?
+120-V AC
+170-V AC
+240-V AC
+300-V AC
+A8F05|C|What is the equivalent to the root-mean-square value of an AC voltage?
+The AC voltage found by taking the square of the average value of the peak AC voltage
+The DC voltage causing the same heating of a given resistor as the peak AC voltage
+The AC voltage causing the same heating of a given resistor as a DC voltage of the same value
+The AC voltage found by taking the square root of the average AC value
+A8F06|D|What would be the most accurate way of determining the RMS voltage of a complex waveform?
+By using a grid dip meter
+By measuring the voltage with a D'Arsonval meter
+By using an absorption wavemeter
+By measuring the heating effect in a known resistor
+A8F07|A|For many types of voices, what is the approximate ratio of PEP to average power during a modulation peak in a single-sideband phone signal?
+2.5 to 1
+25 to 1
+1 to 1
+100 to 1
+A8F08|B|In a single-sideband phone signal, what determines the PEP-to-average power ratio?
+The frequency of the modulating signal
+The speech characteristics
+The degree of carrier suppression
+The amplifier power
+A8F09|C|What is the approximate DC input power to a Class B RF power amplifier stage in an FM-phone transmitter when the PEP output power is 1500 watts?
+900 watts
+1765 watts
+2500 watts
+3000 watts
+A8F10|B|What is the approximate DC input power to a Class C RF power amplifier stage in a RTTY transmitter when the PEP output power is 1000 watts?
+850 watts
+1250 watts
+1667 watts
+2000 watts
+A8F11|D|What is the approximate DC input power to a Class AB RF power amplifier stage in an unmodulated carrier transmitter when the PEP output power is 500 watts?
+250 watts
+600 watts
+800 watts
+1000 watts
+A9A:[01/12]Basic antenna parameters: radiation resistance and reactance (including wire dipole, folded dipole, gain, beamwidth, efficiency)
+A9A01|C|What is meant by the radiation resistance of an antenna?
+The combined losses of the antenna elements and feed line
+The specific impedance of the antenna
+The equivalent resistance that would dissipate the same amount of power as that radiated from an antenna
+The resistance in the atmosphere that an antenna must overcome to be able to radiate a signal
+A9A03|A|Why would one need to know the radiation resistance of an antenna?
+To match impedances for maximum power transfer
+To measure the near-field radiation density from a transmitting antenna
+To calculate the front-to-side ratio of the antenna
+To calculate the front-to-back ratio of the antenna
+A9A04|B|What factors determine the radiation resistance of an antenna?
+Transmission-line length and antenna height
+Antenna location with respect to nearby objects and the conductors' length/diameter ratio
+It is a physical constant and is the same for all antennas
+Sunspot activity and time of day
+A9A05|C|What is the term for the ratio of the radiation resistance of an antenna to the total resistance of the system?
+Effective radiated power
+Radiation conversion loss
+Antenna efficiency
+Beamwidth
+A9A06|D|What is included in the total resistance of an antenna system?
+Radiation resistance plus space impedance
+Radiation resistance plus transmission resistance
+Transmission-line resistance plus radiation resistance
+Radiation resistance plus ohmic resistance
+A9A07|C|What is a folded dipole antenna?
+A dipole one-quarter wavelength long
+A type of ground-plane antenna
+A dipole whose ends are connected by a one-half wavelength piece of wire
+A hypothetical antenna used in theoretical discussions to replace the radiation resistance
+A9A08|D|How does the bandwidth of a folded dipole antenna compare with that of a simple dipole antenna?
+It is 0.707 times the bandwidth
+It is essentially the same
+It is less than 50%
+It is greater
+A9A09|A|What is meant by antenna gain?
+The numerical ratio relating the radiated signal strength of an antenna to that of another antenna
+The numerical ratio of the signal in the forward direction to the signal in the back direction
+The numerical ratio of the amount of power radiated by an antenna compared to the transmitter output power
+The final amplifier gain minus the transmission-line losses (including any phasing lines present)
+A9A10|B|What is meant by antenna bandwidth?
+Antenna length divided by the number of elements
+The frequency range over which an antenna can be expected to perform well
+The angle between the half-power radiation points
+The angle formed between two imaginary lines drawn through the ends of the elements
+A9A11|A|How can the approximate beamwidth of a beam antenna be determined?
+Note the two points where the signal strength of the antenna is down 3 dB from the maximum signal point and compute the angular difference
+Measure the ratio of the signal strengths of the radiated power lobes from the front and rear of the antenna
+Draw two imaginary lines through the ends of the elements and measure the angle between the lines
+Measure the ratio of the signal strengths of the radiated power lobes from the front and side of the antenna
+A9A12|B|How is antenna efficiency calculated?
+(radiation resistance / transmission resistance) x 100%
+(radiation resistance / total resistance) x 100%
+(total resistance / radiation resistance) x 100%
+(effective radiated power / transmitter output) x 100%
+A9A13|A|How can the efficiency of an HF grounded vertical antenna be made comparable to that of a half-wave dipole antenna?
+By installing a good ground radial system
+By isolating the coax shield from ground
+By shortening the vertical
+By lengthening the vertical
+A9B:[01/11]Free-space antenna patterns: E and H plane patterns, (i.e., azimuth and elevation in free-space); gain as a function of pattern; antenna design (computer modeling of antennas)
+A9B01|C|What determines the free-space polarization of an antenna?
+The orientation of its magnetic field (H Field)
+The orientation of its free-space characteristic impedance
+The orientation of its electric field (E Field)
+Its elevation pattern
+A9B02|B|Which of the following describes the free-space radiation pattern shown in Figure A9-1?
+Elevation pattern
+Azimuth pattern
+Bode pattern
+Bandwidth pattern
+A9B03|B|In the free-space H-Field radiation pattern shown in Figure A9-1, what is the 3-dB beamwidth?
+75 degrees
+50 degrees
+25 degrees
+30 degrees
+A9B04|B|In the free-space H-Field pattern shown in Figure A9-1, what is the front-to-back ratio?
+36 dB
+18 dB
+24 dB
+14 dB
+A9B05|D|What information is needed to accurately evaluate the gain of an antenna?
+Radiation resistance
+E-Field and H-Field patterns
+Loss resistance
+All of the above
+A9B06|D|Which is NOT an important reason to evaluate a gain antenna across the whole frequency band for which it was designed?
+The gain may fall off rapidly over the whole frequency band
+The feedpoint impedance may change radically with frequency
+The rearward pattern lobes may vary excessively with frequency
+The dielectric constant may vary significantly
+A9B07|B|What usually occurs if a Yagi antenna is designed solely for maximum forward gain?
+The front-to-back ratio increases
+The feedpoint impedance becomes very low
+The frequency response is widened over the whole frequency band
+The SWR is reduced
+A9B08|A|If the boom of a Yagi antenna is lengthened and the elements are properly retuned, what usually occurs?
+The gain increases
+The SWR decreases
+The front-to-back ratio increases
+The gain bandwidth decreases rapidly
+A9B09|B|What type of computer program is commonly used for modeling antennas?
+Graphical analysis
+Method of Moments
+Mutual impedance analysis
+Calculus differentiation with respect to physical properties
+A9B10|A|What is the principle of a "Method of Moments" analysis?
+A wire is modeled as a series of segments, each having a distinct value of current
+A wire is modeled as a single sine-wave current generator
+A wire is modeled as a series of points, each having a distinct location in space
+A wire is modeled as a series of segments, each having a distinct value of voltage across it
+A9B11|B|In the free-space H-field pattern shown in Figure A9-1, what is the front-to-side ratio?
+12 dB
+14 dB
+18 dB
+24 dB
+A9C:[01/11]Antenna patterns: elevation above real ground; ground effects as related to polarization; take-off angles as a function of height above ground.
+A9C01|A|What type of antenna pattern over real ground is shown in Figure A9-2?
+Elevation pattern
+Azimuth pattern
+E-Plane pattern
+Polarization pattern
+A9C02|B|How would the electric field be oriented for a Yagi with three elements mounted parallel to the ground?
+Vertically
+Horizontally
+Right-hand elliptically
+Left-hand elliptically
+A9C03|A|What strongly affects the shape of the far-field, low-angle elevation pattern of a vertically polarized antenna?
+The conductivity and dielectric constant of the soil
+The radiation resistance of the antenna
+The SWR on the transmission line
+The transmitter output power
+A9C04|D|The far-field, low-angle radiation pattern of a vertically polarized antenna can be significantly improved by what measures?
+Watering the earth surrounding the base of the antenna
+Lengthening the ground radials more than a quarter wavelength
+Increasing the number of ground radials from 60 to 120
+None of the above
+A9C05|D|How is the far-field elevation pattern of a vertically polarized antenna affected by being mounted over seawater versus rocky ground?
+The low-angle radiation decreases
+The high-angle radiation increases
+Both the high- and low-angle radiation decrease
+The low-angle radiation increases
+A9C06|B|How is the far-field elevation pattern of a horizontally polarized antenna affected by being mounted one wavelength high over seawater versus rocky ground?
+The low-angle radiation greatly increases
+The effect on the radiation pattern is minor
+The high-angle radiation increases greatly
+The nulls in the elevation pattern are filled in
+A9C07|B|Why are elevated-radial counterpoises popular with vertically polarized antennas?
+They reduce the far-field ground losses
+They reduce the near-field ground losses, compared to on-ground radial systems using more radials
+They reduce the radiation angle
+None of the above
+A9C08|C|If only a modest on-ground radial system can be used with an eighth-wavelength-high, inductively loaded vertical antenna, what would be the best compromise to minimize near-field losses?
+4 radial wires, 1 wavelength long
+8 radial wires, a half-wavelength long
+A wire-mesh screen at the antenna base, an eighth-wavelength square
+4 radial wires, 2 wavelengths long
+A9C09|C|In the antenna radiation pattern shown in Figure A9-2, what is the elevation angle of the peak response?
+45 degrees
+75 degrees
+7.5 degrees
+25 degrees
+A9C10|B|In the antenna radiation pattern shown in Figure A9-2, what is the front-to-back ratio?
+15 dB
+28 dB
+3 dB
+24 dB
+A9C11|A|In the antenna radiation pattern shown in Figure A9-2, how many elevation lobes appear in the forward direction?
+4
+3
+1
+7
+A9D:[01/12]Losses in real antennas and matching: resistivity losses, losses in resonating elements (loading coils, matching networks, etc. {i.e., mobile, trap}); SWR bandwidth; efficiency
+A9D01|A|What is the approximate input terminal impedance at the center of a folded dipole antenna?
+300 ohms
+72 ohms
+50 ohms
+450 ohms
+A9D02|A|For a shortened vertical antenna, where should a loading coil be placed to minimize losses and produce the most effective performance?
+Near the center of the vertical radiator
+As low as possible on the vertical radiator
+As close to the transmitter as possible
+At a voltage node
+A9D03|C|Why should an HF mobile antenna loading coil have a high ratio of reactance to resistance?
+To swamp out harmonics
+To maximize losses
+To minimize losses
+To minimize the Q
+A9D04|D|Why is a loading coil often used with an HF mobile antenna?
+To improve reception
+To lower the losses
+To lower the Q
+To tune out the capacitive reactance
+A9D05|A|What is a disadvantage of using a trap antenna?
+It will radiate harmonics
+It can only be used for single-band operation
+It is too sharply directional at lower frequencies
+It must be neutralized
+A9D06|D|What is an advantage of using a trap antenna?
+It has high directivity in the higher-frequency bands
+It has high gain
+It minimizes harmonic radiation
+It may be used for multiband operation
+A9D07|B|What happens at the base feedpoint of a fixed length HF mobile antenna as the frequency of operation is lowered?
+The resistance decreases and the capacitive reactance decreases
+The resistance decreases and the capacitive reactance increases
+The resistance increases and the capacitive reactance decreases
+The resistance increases and the capacitive reactance increases
+A9D08|D|What information is necessary to design an impedance matching system for an antenna?
+Feedpoint radiation resistance and loss resistance
+Feedpoint radiation reactance
+Transmission-line characteristic impedance
+All of the above
+A9D09|A|How must the driven element in a 3-element Yagi be tuned to use a "hairpin" matching system?
+The driven element reactance is capacitive
+The driven element reactance is inductive
+The driven element resonance is higher than the operating frequency
+The driven element radiation resistance is higher than the characteristic impedance of the transmission line
+A9D10|C|What is the equivalent lumped-constant network for a "hairpin" matching system on a 3-element Yagi?
+Pi network
+Pi-L network
+L network
+Parallel-resonant tank
+A9D11|B|What happens to the bandwidth of an antenna as it is shortened through the use of loading coils?
+It is increased
+It is decreased
+No change occurs
+It becomes flat
+A9D12|D|What is an advantage of using top loading in a shortened HF vertical antenna?
+Lower Q
+Greater structural strength
+Higher losses
+Improved radiation efficiency
+A9E:[01/12]Feed lines: coax vs. open-wire; velocity factor; electrical length; transformation characteristics of line terminated in impedance not equal to characteristic impedance.
+A9E01|D|What is the velocity factor of a transmission line?
+The ratio of the characteristic impedance of the line to the terminating impedance
+The index of shielding for coaxial cable
+The velocity of the wave on the transmission line multiplied by the velocity of light in a vacuum
+The velocity of the wave on the transmission line divided by the velocity of light in a vacuum
+A9E02|A|What is the term for the ratio of the actual velocity at which a signal travels through a transmission line to the speed of light in a vacuum?
+Velocity factor
+Characteristic impedance
+Surge impedance
+Standing wave ratio
+A9E03|B|What is the typical velocity factor for a coaxial cable with polyethylene dielectric?
+2.70
+0.66
+0.30
+0.10
+A9E04|C|What determines the velocity factor in a transmission line?
+The termination impedance
+The line length
+Dielectrics in the line
+The center conductor resistivity
+A9E05|D|Why is the physical length of a coaxial cable transmission line shorter than its electrical length?
+Skin effect is less pronounced in the coaxial cable
+The characteristic impedance is higher in the parallel feed line
+The surge impedance is higher in the parallel feed line
+RF energy moves slower along the coaxial cable
+A9E06|C|What would be the physical length of a typical coaxial transmission line that is electrically one-quarter wavelength long at 14.1 MHz? (Assume a velocity factor of 0.66.)
+20 meters
+2.33 meters
+3.51 meters
+0.25 meters
+A9E07|B|What would be the physical length of a typical coaxial transmission line that is electrically one-quarter wavelength long at 7.2 MHz? (Assume a velocity factor of 0.66.)
+10.5 meters
+6.88 meters
+24 meters
+50 meters
+A9E08|C|What is the physical length of a parallel conductor feed line that is electrically one-half wavelength long at 14.10 MHz? (Assume a velocity factor of 0.95.)
+15 meters
+20.2 meters
+10.1 meters
+70.8 meters
+A9E09|A|What is the physical length of a twin lead transmission feed line at 3.65 MHz? (Assume a velocity factor of 0.8.)
+Electrical length times 0.8
+Electrical length divided by 0.8
+80 meters
+160 meters
+A9E10|B|What parameter best describes the interactions at the load end of a mismatched transmission line?
+Characteristic impedance
+Reflection coefficient
+Velocity factor
+Dielectric Constant
+A9E11|D|Which of the following measurements describes a mismatched transmission line?
+An SWR less than 1:1
+A reflection coefficient greater than 1
+A dielectric constant greater than 1
+An SWR greater than 1:1
+A9E12|A|What characteristic will 450-ohm ladder line have at 50 MHz, as compared to 0.195-inch-diameter coaxial cable (such as RG-58)?
+Lower loss in dB/100 feet
+Higher SWR
+Smaller reflection coefficient
+Lower velocity factor
+

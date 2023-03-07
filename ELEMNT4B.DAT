@@ -1,0 +1,2200 @@
+4BA:[08/115]Commission's Rules    
+4BA-1A.1|B|What exclusive frequency privileges in the 80-meter wavelength band are authorized to Amateur Extra control operators?
+3525-3775 kHz
+3500-3525 kHz
+3700-3750 kHz
+3500-3550 kHz
+4BA-1A.2|A|What exclusive frequency privileges in the 75-meter wavelength band are authorized to Amateur Extra control operators?
+3750-3775 kHz
+3800-3850 kHz
+3775-3800 kHz
+3800-3825 kHz
+4BA-1A.3|A|What exclusive frequency privileges in the 40-meter wavelength band are authorized to Amateur Extra control operators?
+7000-7025 kHz
+7000-7050 kHz
+7025-7050 kHz
+7100-7150 kHz
+4BA-1A.4|D|What exclusive frequency privileges in the 20-meter wavelength band are authorized to Amateur Extra control operators?
+14.100-14.175 MHz and 14.150-14.175 MHz
+14.000-14.125 MHz and 14.250-14.300 MHz
+14.025-14.050 MHz and 14.100-14.150 MHz
+14.000-14.025 MHz and 14.150-14.175 MHz
+4BA-1A.5|C|What exclusive frequency privileges in the 15-meter wavelength band are authorized to Amateur Extra control operators?
+21.000-21.200 MHz and 21.250-21.270 MHz
+21.050-21.100 MHz and 21.150-21.175 MHz
+21.000-21.025 MHz and 21.200-21.225 MHz
+21.000-21.025 MHz and 21.250-21.275 MHz
+4BA-1B.1|A|What is a spurious emission as defined in Part 97? 
+An emission, on frequencies outside the necessary bandwidth of a transmission, the level of which may be reduced without affecting the information being transmitted
+An emission, on frequencies outside the necessary bandwidth of a transmission, the level of which exceeds 25 microwatts
+An emission, on frequencies outside the necessary bandwidth of a transmission, the level of which exceeds 10 microwatts
+An emission, on frequencies outside the amateur bands, the level of which exceeds 10 microwatts
+4BA-1B.2|B|How much must the mean power of any spurious emission from an amateur transmitter be attenuated when the carrier frequency is below 30 MHz and the mean transmitted power is equal to or greater than 5 watts?
+At least 30 dB below the mean power of the fundamental, and less than 25 mW
+At least 40 dB below the mean power of the fundamental, and less than 50 mW
+At least 30 dB below the mean power of the fundamental, and less than 50 mW
+At least 40 dB below the mean power of the fundamental, and less than 25 mW
+4BA-1B.3|D|How much must the mean power of any spurious emission from an amateur transmitter be attenuated when the carrier frequency is above 30 MHz but below 225 MHz and the mean transmitted power is greater than 25 watts?
+At least 30 dB below mean power of the fundamental
+At least 40 dB below mean power of the fundamental
+At least 50 dB below mean power of the fundamental
+At least 60 dB below mean power of the fundamental
+4BA-1B.4|D|What can the FCC require the licensee to do if any spurious emission from an amateur station causes harmful interference to the reception of another radio station?
+Reduce the spurious emissions to 0 dB below the fundamental
+Observe quiet hours and pay a fine
+Forfeit the station license and pay a fine
+Eliminate or reduce the interference
+4BA-1C.1|B|What are the points of communication for an amateur station?
+Other amateur stations only
+Other amateur stations and other stations authorized by the FCC to communicate with amateurs
+Other amateur stations and stations in the Personal Radio Service
+Other amateur stations and stations in the Aviation or Private Land Mobile Radio Services
+4BA-1C.2|B|With which stations may an amateur station communicate?
+Amateur, RACES, and FCC Monitoring stations
+Amateur stations and any other station authorized by the FCC to communicate with amateur stations
+Amateur stations only
+Amateur stations and US Government stations
+4BA-1C.3|A|Under what circumstances, if any, may an amateur station communicate with a non-amateur station?
+Only during emergencies and when the Commission has authorized the non-amateur station to communicate with amateur stations
+Under no circumstances
+Only when the state governor has authorized that station to communicate with amateurs
+Only during Public Service events in connection with REACT groups
+4BA-1D.1|B|With what rules must US citizens comply when operating an amateur station aboard any craft or vessel that is registered in the US while in international waters or airspace?
+The FCC rules contained in Part 15
+The FCC rules contained in Part 97
+The IARU rules governing international operation
+There are no rules governing Amateur Radio operation in international waters
+4BA-1E.1|A|An amateur station is installed on board a ship or aircraft in a compartment separate from the main radio installation. What other conditions must the amateur operator comply with?
+The Amateur Radio operation must be approved by the master of the ship or the captain of the aircraft
+There must be an approved antenna switch included, so the amateur can use the ship or aircraft antennas, transmitting only when the main radios are not in use
+The amateur station must have a power supply that is completely independent of the ship or aircraft power
+The amateur operator must have an FCC Marine or Aircraft endorsement on his or her amateur license
+4BA-1E.2|B|What types of license or permits are required before an amateur operator may transmit from a vessel registered in the US?
+No amateur license is required outside of international waters
+Any amateur operator/primary station license or reciprocal permit for alien amateur licensee issued by the FCC
+Only amateurs holding General class or higher licenses may transmit from a vessel registered in the US
+Only an Amateur Extra Class licensee may operate aboard a vessel registered in the US
+4BA-2A.1|A|What is an FCC reciprocal permit for alien amateur licensee?
+An FCC authorization to a holder of an amateur license issued by certain foreign governments to operate an amateur station in the United States and its possessions
+An FCC permit to allow a United States licensed amateur to operate his station in a foreign nation, except Canada
+An FCC permit allowing a foreign licensed amateur to handle traffic between the United States and the amateur's own nation, subject to the FCC rules on traffic-handling and third-party messages
+An FCC permit to a commercial telecommunications company allowing that company to pay amateurs to handle traffic during emergencies
+4BA-2B.1|B|Who is eligible for an FCC reciprocal permit for alien amateur licensee?
+Anyone holding a valid amateur operator/primary station license issued by a foreign government
+Anyone holding a valid amateur operator/primary station license issued by a foreign government with which the United States has a reciprocal operating agreement, providing that person is not a United States citizen
+Anyone who holds a valid amateur operator/primary station license issued by a foreign government with which the United States has a reciprocal operating agreement
+Anyone other than a United States citizen who holds a valid Amateur Radio or shortwave listeners license issued by a foreign government
+4BA-2B.2|A|Under what circumstances, if any, is a US citizen holding a foreign Amateur Radio license eligible to obtain an FCC Reciprocal Operating Permit?
+A US Citizen is not eligible to obtain a Reciprocal Operating Permit for use in the United States
+Only if the applicant brings his or her equipment with them from the foreign country
+Only if that person is unable to qualify for a United States amateur license
+If the applicant does not hold an FCC license as of the date of application, but had held a US amateur license other than Novice class less than 10 years before the date of application
+4BA-2C.1|C|What are the operator frequency privileges authorized by an FCC reciprocal permit for alien amateur licensee?
+Those authorized to a holder of the equivalent United States amateur license, unless the FCC specifies otherwise by endorsement on the permit
+Those that the holder of the reciprocal permit for alien amateur licensee would have if he were in his own country
+Only those frequencies permitted to United States amateurs that the holder of the reciprocal permit for alien amateur licensee would have in his own country, unless the FCC specifies otherwise
+Only those frequencies approved by the International Amateur Radio Union, unless the FCC specifies otherwise
+4BA-2D.1|C|How does an alien operator identify an amateur station when operating under an FCC reciprocal permit for alien amateur licensee?
+By using only his or her own call
+By using his or her own call, followed by the city and state in the United States or possessions closest to his or her present location
+By using the letter(s) and number indicating the United States call-letter district of his or her location at the time of the contact, followed by a slant bar (or the word "stroke") and his or her own call. The city and state nearest the operating location must be specified once during each contact
+By using his or her own call sign, followed by the serial number of the reciprocal permit for alien amateur licensee and the call-letter district number of his or her present location
+4BA-3A.1|B|What is RACES?
+An Amateur Radio network for providing emergency communications during long-distance athletic contests
+The radio amateur civil emergency service
+The Radio Amateur Corps for Engineering Services
+An Amateur Radio network providing emergency communications for transoceanic boat or aircraft races
+4BA-3B.1|A|What is the purpose of RACES?
+To provide civil-defense communications during emergencies
+To provide emergency communications for transoceanic boat or aircraft races
+To provide routine and emergency communications for long-distance athletic events
+To provide routine and emergency communications for large-scale international events, such as the Olympic games
+4BA-3C.1|C|With what other organization must an amateur station be registered before RACES registration is permitted?
+The Amateur Radio Emergency Service
+The US Department of Defense
+A civil defense organization
+The Amateur Auxiliary to the FCC Field Operations Bureau
+4BA-3D.1|D|Who may be the control operator of a RACES station?
+Anyone who holds a valid FCC amateur operator's license other than Novice
+Only an Amateur Extra class licensee
+Anyone who holds an FCC amateur operator/primary station license other than Novice and is certified by a civil defense organization
+Anyone who holds an FCC amateur operator/primary station license and is certified by a civil defense organization
+4BA-3E.1|A|What additional operator privileges are granted to an Amateur Extra class operator registered with RACES?
+None
+Permission to operate CW on 5167.5 kHz
+Permission to operate an unattended HF packet radio station
+Permission to operate on the 237-MHz civil defense band
+4BA-3F.1|D|What frequencies are normally available for RACES operation?
+Only those frequencies authorized by the ARRL Section Emergency Coordinator
+Only those frequencies listed in Section 97.8
+Only transmitting frequencies in the top 25 kHz of each amateur band
+All frequencies available to the amateur service
+4BA-3G.1|A|What type of emergency can cause a limitation on the frequencies available for RACES operation?
+An emergency in which the President invokes the War Emergency Powers under the provisions of the Communications Act of 1934
+RACES operations must be confined to a single frequency band if the emergency is contained within a single state
+RACES operations must be conducted on a VHF band if the emergency is confined to an area 25 miles or less in radius
+The Red Cross may limit available frequencies if the emergency involves no immediate danger of loss of life
+4BA-3H.1|C|Which amateur stations may be operated in RACES?
+Only Extra class amateur stations
+Any licensed amateur station except a station licensed to a Novice
+Any licensed amateur station certified by the responsible civil defense organization
+Any licensed amateur station other than a station licensed to a Novice, providing the station is certified by the responsible civil defense organization
+4BA-3H.2|A|What are the points of communications for amateur stations operated in RACES and certified by the responsible civil defense organization as registered with that organization?
+RACES stations and certain other stations authorized by the responsible civil defense official
+Any RACES stations and any FCC licensed amateur stations except stations licensed to Novices
+Any FCC licensed amateur station or a station in the Disaster Communications Service
+Any FCC licensed amateur station except stations licensed to Novices
+4BA-3I.1|C|What are permissible communications in RACES?
+Any communications concerning local traffic nets
+Any communications concerning the Amateur Radio Emergency Service
+Any communications concerning national defense and security or immediate safety of people and property that are authorized by the area civil defense organization
+Any communications concerning national defense or security or immediate safety of people or property but only when a state of emergency has been declared by the President, the governor, or other authorized official, and then only so long as the state of emergency endures
+4BA-4A.1|C|What are the purposes of the Amateur Satellite Service?
+It is a radionavigation service using stations on earth satellites for the same purposes as those of the amateur service
+It is a radio communication service using stations on earth satellites for weather information
+It is a radio communication service using stations on earth satellites for the same purpose as those of the amateur service
+It is a radiolocation service using statZKo on earth satellites for amateur operators engaged in satellite radar experimentation
+4BA-4B.1|A|What are some frequencies available for space operation?
+7.0-7.1, 14.00-14.25, 21.00-21.45, 24.890-24.990, 28.00-29.70, 144-146, 435-438 and 24,000-24,050 MHz
+7.0-7.3, 21.00-21.45, 28.00-29.70, 144-146, 432-438 and 24,000-24,050 MHz
+All frequencies available to the amateur service, providing license-class, power and emission-type restrictions are observed
+Only frequencies available to Amateur Extra class licensees 
+4BA-4C-1.1|B|What is the term used to describe the operation of an amateur station which transmits communications used to initiate, modify or terminate the functions of a space station?
+Space operation
+Telecommand operation
+Earth operation
+Control operation
+4BA-4C-2.1|D| Which amateur stations are eligible to be telecommand stations?
+Any Amateur Radio licensee except Novice
+Amateur Extra class licensees only
+Telecommand operation is not permitted in the amateur satellite service
+Any amateur station designated by the space station licensee
+4BA-4D-1.1|C|What term describes the space-to-earth transmissions used to communicate the results of measurements made by a space station?
+Data transmission
+Frame check sequence
+Telemetry
+Telecommand operation
+4BA-4E-1.1|D|What is the term used to describe the operation of an amateur station that is more than 50 km above the Earth's surface?
+EME operation
+Exospheric operation
+Downlink operation
+Space station operation
+4BA-4E-2.1|D|Which amateur stations are eligible for space operation?
+Any licensee except Novice
+General, Advanced and Extra class licensees only
+Advanced and Extra class licensees only
+Amateur Extra class licensees only
+4BA-4E-4.1|D|When must the licensee of a station scheduled for space operation give the FCC written pre-space notification?
+Both 3 months and 72 hours prior to initiating space station transmissions
+Both 6 months and 3 months prior to initiating space station transmissions
+Both 12 months and 3 months prior to initiating space station transmissions
+Both 27 months and 5 months prior to initiating space station transmissions
+4BA-4E-4.2|C|When must the licensee of a station in space operation give the FCC written in-space notification?
+No later than 24 hours following initiation of space operation
+No later than 72 hours following initiation of space operation
+No later than 7 days following initiation of space operation
+No later than 30 days following initiation of space operation
+4BA-4E-4.3|D|When must the licensee of a station in space operation give the FCC written post-space notification?
+No later than 48 hours after termination is complete, under normal circumstances
+No later than 72 hours after termination is complete, under normal circumstances
+No later than 7 days after termination is complete, under normal circumstances
+No later than 3 months after termination is complete, under normal circumstances
+4BA-4F-1.1|A|What term describes an amateur station located on, or within 50 km of, the earth's surface intended for communications with space stations?
+Earth station
+Telecommand station
+Repeater station
+Auxiliary station
+4BA-4F-2.1|A|Which amateur licensees are eligible to operate an earth station?
+Any amateur licensee
+Amateur Extra class licensees only
+Any station except those licensed to Novices
+A special license issued by the FCC is required before any amateur licensee may operate an earth station
+4BA-5A.1|C|What is a Volunteer-Examiner Coordinator?
+An organization that volunteers to administer amateur license examinations to candidates for the Novice license
+An organization that volunteers to administer amateur license examinations for any class of license other than Novice
+An organization that has entered into an agreement with the FCC to coordinate efforts of Volunteer Examiners in preparing and administering examinations for Technician, General, Advanced and Amateur Extra class operator licenses
+An organization that has entered into an agreement with the FCC to coordinate efforts of Volunteer Examiners in preparing and administering examinations for Novice class amateur operator licenses
+4BA-5B.1|B|What are some of the requirements to be a VEC?
+Be engaged in the manufacture and/or sale of amateur equipment or in the coordination of amateur activities throughout at least one call letter district, and agree to abide by FCC Rules concerning administration of amateur license examinations
+Be an organization that exists for the purpose of furthering the amateur service; be at least regional in scope; agree to coordinate examinations for Technician, General, Advanced and Amateur Extra class operator licenses
+Be an organization that exists for the purpose of furthering the amateur service; be, at the most, county-wide in scope; and agree to coordinate examinations for all classes of amateur operator licenses
+Be engaged in a business related to Amateur Radio and agree to administer amateur license examinations in accordance with FCC Rules throughout at least one call letter district
+4BA-5C.1|A|What are the functions of a VEC?
+Accredit Volunteer Examiners; collect candidates'application forms, answer sheets and test results and forward the applications to the FCC; maintain pools of questions for Amateur Radio examinations; and perform other clerical tasks in accordance with FCC Rules
+Assemble, print and sell FCC-approved examination forms; accredit Volunteer Examiners; collect candidates' answer sheets and forward them to the FCC; screen applications for completeness and authenticity; and perform other clerical tasks in accordance with FCC Rules
+Accredit Volunteer Examiners; certify that examiners'equipment is type-accepted by the FCC; assemble, print and distribute FCC-approved examination forms; and perform other clerical tasks in accordance with FCC Rules
+Maintain pools of questions for Amateur Radio examinations; administer code and theory examinations; score and forward the test papers to the FCC so that the appropriate license may be issued to each successful candidate
+4BA-5C.2|A|Where are the questions listed that must be used in written examinations?
+In the appropriate VEC question pool
+In PR Bulletin 1035C
+In PL 97-259
+In the appropriate FCC Report and Order
+4BA-5C.3|A|How is an Element 3(A) examination prepared?
+By General, Advanced, or Amateur Extra class Volunteer Examiners or a qualified supplier selecting questions from the appropriate VEC question pool
+By Volunteer-Examiner Coordinators selecting questions from the appropriate FCC bulletin
+By Extra class Volunteer Examiners selecting questions from the appropriate FCC bulletin
+By the FCC selecting questions from the appropriate VEC question pool
+4BA-5C.4|A|How is an Element 3(B) examination prepared?
+By Advanced or Amateur Extra class Volunteer Examiners or a qualified supplier selecting questions from the appropriate VEC question pool
+By Volunteer-Examiner Coordinators selecting questions from the appropriate FCC bulletin
+By Extra class Volunteer Examiners selecting questions from the appropriate FCC bulletin
+By the FCC selecting questions from the appropriate VEC question pool
+4BA-5C.5|A|How is an Element 4(A) examination prepared?
+By Extra class Volunteer Examiners or Volunteer-Examiner Coordinators selecting questions from the appropriate VEC question pool
+By Volunteer-Examiner Coordinators selecting questions from the appropriate FCC bulletin
+By Extra class Volunteer Examiners selecting questions from the appropriate FCC bulletin
+By the FCC selecting questions from the appropriate VEC question pool
+4BA-5C.6|A|How is an Element 4(B) examination prepared?
+By Extra class Volunteer Examiners or Volunteer-Examiner Coordinators selecting questions from the appropriate VEC question pool
+By Volunteer-Examiner Coordinators selecting questions from the appropriate FCC bulletin
+By Extra class Volunteer Examiners selecting questions from the appropriate FCC bulletin
+By the FCC selecting questions from the appropriate VEC question pool
+4BA-5D.1|B|What organization coordinates the dates and times for scheduling Amateur Radio examinations?
+The FCC
+A VEC
+The IARU
+Local radio clubs
+4BA-5E.1|A|Under what circumstances, if any, may a VEC refuse to accredit a person as a VE on the basis of membership in an Amateur Radio organization?
+Under no circumstances
+Only when the prospective VE is an ARRL member
+Only when the prospective VE is not a member of the local Amateur Radio club
+Only when the club is at least regional in scope
+4BA-5E.2|A| Under what circumstances, if any, may a VEC refuse to accredit a person as a VE on the basis of lack of membership in an Amateur Radio organization?
+Under no circumstances
+Only when the prospective VE is not an ARRL member
+Only when the club is at least regional in scope
+Only when the prospective VE is not a member of the local Amateur Radio club giving the examinations
+4BA-5F.1|D|Under what circumstance, if any, may an organization engaged in the manufacture of equipment used in connection with Amateur Radio transmissions be a VEC?
+Under no circumstances
+If the organization's amateur-related sales are very small
+If the organization is manufacturing very specialized amateur equipment
+Only upon FCC approval that preventive measures have been taken to preclude any possible conflict of interest
+4BA-5F.2|B|Under what circumstances, if any, may a person who is an employee of a company that is engaged in the distribution of equipment used in connection with Amateur Radio transmissions be a VE?
+Under no circumstances
+Only if the employee does not normally communicate with that part of the company engaged in the manufacture or distribution of amateur equipment
+Only if the employee has no financial interest in the company
+Only if the employee is an Extra class licensee
+4BA-5F.3|A|Under what circumstances, if any, may a person who owns a significant interest in a company that is engaged in the preparation of publications used in preparation for obtaining an amateur operator license be a VE?
+Under no circumstances
+Only if the organization's amateur-related sales are very small
+Only if the organization is publishing very specialized material
+Only if the person is an Extra class licensee
+4BA-5F.4|D|Under what circumstances, if any, may an organization engaged in the distribution of publications used in preparation for obtaining an amateur operator license be a VEC?
+Under no circumstances
+Only if the organization's amateur publishing business is very small
+Only if the organization is selling the publication at cost to examinees
+Only upon FCC approval that preventive measures have been taken to preclude any possible conflict of interest
+4BA-5G.1|A|Who may reimburse VEs and VECs for out-of-pocket expenses incurred in preparing, processing or administering examinations?
+Examinees
+FCC
+ARRL
+FCC and Examiners
+4BA-5G.2|B|What action must a VEC take against a VE who accepts reimbursement and fails to provide the annual expense certification?
+Suspend the VE's accreditation for 1 year
+Disaccredit the VE
+Suspend the VE's accreditation and report the information to the FCC
+Suspend the VE's accreditation for 6 months
+4BA-5G.3|A|What type of expense records must be maintained by a VE who accepts reimbursement?
+All out-of-pocket expenses and reimbursements from the examinees
+All out-of-pocket expenses only
+Reimbursements from examiners only
+FCC reimbursements only
+4BA-5G.4|C|For what period of time must a VE maintain records of out-of-pocket expenses and reimbursements for each examination session for which reimbursement is accepted?
+1 year
+2 years
+3 years
+4 years
+4BA-5G.5|B|By what date each year must a VE forward to the VEC a certification concerning expenses for which reimbursement was accepted?
+December 15 following the year for which the reimbursement was accepted
+January 15 following the year for which the reimbursement was accepted
+April 15 following the year for which the reimbursement was accepted
+October 15 following the year for which the reimbursement was accepted
+4BA-5G.6|A|For what type of services may a VE be reimbursed for out-of-pocket expenses?
+Preparing, processing or administering examinations above the Novice class
+Preparing, processing or administering examinations including the Novice class
+A VE cannot be reimbursed for out-of-pocket expenses 
+Only for preparation of examination elements
+4BA-6A.1|B|What is an accredited Volunteer Examiner?
+A General class radio amateur who is accredited by a VEC to administer examinations to applicants for amateur operator/primary station licenses
+An amateur operator who is accredited by a VEC to administer examinations to applicants for amateur operator/primary station licenses
+An amateur operator who administers examinations to applicants for amateur operator/primary station licenses for a fee
+An FCC staff member who tests volunteers who want to administer amateur license examinations
+4BA-6A.2|B|What is an accredited VE?
+A General class radio amateur who is accredited by a VEC to administer examinations to applicants for amateur operator/primary station licenses
+An amateur operator who is accredited by a VEC to administer examinations to applicants for amateur operator/primary station licenses
+An amateur operator who administers examinations to applicants for amateur operator/primary station licenses for a fee
+An FCC staff member who tests volunteers who want to give amateur license examinations
+4BA-6B.1|B|What are the requirements for a Volunteer Examiner administering an examination for a Technician class operator license?
+The Volunteer Examiner must be a Novice class licensee accredited by a Volunteer-Examiner Coordinator
+The Volunteer Examiner must be an Advanced or Extra class licensee accredited by a Volunteer-Examiner Coordinator
+The Volunteer Examiner must be an Extra class licensee accredited by a Volunteer-Examiner Coordinator
+The Volunteer Examiner must be a General class licensee accredited by a Volunteer-Examiner Coordinator
+4BA-6B.2|B|What are the requirements for a Volunteer Examiner administering an examination for a General class operator license?
+The examiner must hold an Advanced class license and be accredited by a VEC
+The examiner must hold an Extra class license and be accredited by a VEC
+The examiner must hold a General class license and be accredited by a VEC
+The examiner must hold an Extra class license to administer the written test element, but an Advanced class examiner may administer the CW test element
+4BA-6B.3|B|What are the requirements for a Volunteer Examiner administering an examination for an Advanced class operator license?
+The examiner must hold an Advanced class license and be accredited by a VEC
+The examiner must hold an Extra class license and be accredited by a VEC
+The examiner must hold a General class license and be accredited by a VEC
+The examiner must hold an Extra class license to administer the written test element, but an Advanced class examiner may administer the CW test element
+4BA-6B.4|B|What are the requirements for a Volunteer Examiner administering an examination for an Amateur Extra class operator license?
+The examiner must hold an Advanced class license and be accredited by a VEC
+The examiner must hold an Extra class license and be accredited by a VEC
+The examiner must hold a General class license and be accredited by a VEC
+The examiner must hold an Extra class license to administer the written test element, but an Advanced class examiner may administer the CW test element
+4BA-6B.5|A|When is VE accreditation necessary?
+Always in order to administer a Technician or higher class license examination
+Always in order to administer a Novice or higher class license examination
+Sometimes in order to administer an Advanced or higher class license examination
+VE accreditation is not necessary in order to administer a General or higher class license examination
+4BA-6C.1|D|What is VE accreditation?
+The process by which all Advanced and Extra class licensees are automatically given permission to conduct Amateur Radio examinations
+The process by which the FCC tests volunteers who wish to coordinate amateur operator/primary station license examinations
+The process by which the prospective VE requests his or her requirements for accreditation
+The process by which each VEC makes sure its VEs meet FCC requirements to serve as Volunteer Examiners
+4BA-6C.2|A|What are the requirements for VE accreditation?
+Hold an Advanced class license or higher; be at least 18 years old; not have any conflict of interest; and never had his or her amateur license suspended or revoked
+Hold an Advanced class license or higher; be at least 16 years old; and not have any conflict of interest
+Hold an Extra class license or higher; be at least 18 years old; and be a member of ARRL
+There are no requirements for accreditation, other than holding a General or higher class license
+4BA-6C.3|C|The services of which persons seeking to be VEs will not be accepted by the FCC?
+Persons with Advanced class licenses
+Persons being between 18 and 21 years of age
+Persons who have ever had their amateur licenses suspended or revoked
+Persons who are employees of the Federal Government
+4BA-6D.1|D|Under what circumstances, if any, may a person be compensated for services as a VE?
+When the VE spends more than 4 hours at the test session
+When the VE loses a day's pay to administer the exam
+When the VE spends many hours preparing for the test session
+Under no circumstances
+4BA-6D.2|A|How much money, if any, may a person accept for services as a VE?
+None
+Up to a half day's pay if the VE spends more than 4 hours at the test session
+Up to a full day's pay if the VE spends more than 4 hours preparing for the test session
+Up to 50 if the VE spends more than 4 hours at the test session
+4BA-7A-1.1|A|What is an Element 1(A) examination intended to prove?
+The applicant's ability to send and receive Morse code at 5 WPM
+The applicant's ability to send and receive Morse code at 13 WPM
+The applicant's knowledge of Novice class theory and regulations
+The applicant's ability to send and receive Morse code at 20 WPM
+4BA-7A-1.2|D|What is an Element 1(B) examination intended to prove?
+The applicant's knowledge of Novice class theory and regulations
+The applicant's knowledge of General class theory and regulations
+The applicant's ability to send and receive Morse code at 5 WPM
+The applicant's ability to send and receive Morse code at 13 WPM
+4BA-7A-1.3|A|What is an Element 1(C) examination intended to prove?
+The applicant's ability to send and receive Morse code at 20 WPM
+The applicant's knowledge of Amateur Extra class theory and regulations
+The applicant's ability to send and receive Morse code at 13 WPM
+The applicant's ability to send and receive Morse code at 5 WPM     
+4BA-7A-1.4|C|What is Examination Element 2?
+The 5-WPM amateur Morse code examination             
+The 13-WPM amateur Morse code examination
+The written examination for the Novice operator license
+The written examination for the Technician operator license
+4BA-7A-1.5|C|What is Examination Element 3(A)?
+The 5-WPM amateur Morse code examination
+The 13-WPM amateur Morse code examination
+The written examination for the Technician class operator license
+The written examination for the General class operator license
+4BA-7A-1.6|D|What is Examination Element 3(B)?
+The 5-WPM amateur Morse code examination
+The 13-WPM amateur Morse code examination
+The written examination for the Technician class operator license
+The written examination for the General class operator license
+4BA-7A-1.7|C|What is Examination Element 4(A)?
+The written examination for the Technician class operator license
+The 20-WPM amateur Morse code examination
+The written examination for the Advanced class operator license
+The written examination for the Amateur Extra class operator license
+4BA-7A-1.8|D|What is Examination Element 4(B)?
+The written examination for the Technician class operator license
+The 20-WPM amat Morse code examination
+The written examination for the Advanced class operator license
+The written examination for the Amateur Extra class operator license
+4BA-7A-2.1|A|Who must prepare Examination Element 1(B)?
+Amateur Extra class licensees serving as Volunteer Examiners, or a qualified supplier
+Advanced class licensees serving as Volunteer Examiners, or Volunteer-Examiner Coordinators
+The FCC
+The Field Operations Bureau
+4BA-7A-2.2|D|Who must prepare Examination Element 1(C)?
+The FCC
+The Field Operations Bureau
+Advanced class licensees serving as Volunteer Examiners, or Volunteer-Examiner Coordinators
+Amateur Extra class licensees serving as Volunteer Examiners, or a qualified supplier
+4BA-7A-2.3|A|Who must prepare Examination Element 3(A)?
+General, Advanced, or Amateur Extra class licensees serving as Volunteer Examiners, or a qualified supplier
+The FCC
+The Field Operations Bureau
+Advanced or General class licensees serving as Volunteer Examiners, or Volunteer-Examiner Coordinators
+4BA-7A-2.4|A|Who must prepare Examination Element 3(B)?
+Advanced or Amateur Extra class licensees serving as Volunteer Examiners, or a qualified supplier
+The FCC
+The Field Operations Bureau
+Advanced or General class licensees serving as Volunteer Examiners, or Volunteer-Examiner Coordinators
+4BA-7A-2.5|D|Who must prepare Examination Element 4(A)?
+Advanced or Extra class licensees serving as Volunteer Examiners, or Volunteer-Examiner Coordinators
+The FCC
+The Field Operations Bureau
+Amateur Extra class licensees serving as Volunteer Examiners, or a qualified supplier
+4BA-7A-2.6|D|Who must prepare Examination Element 4(B)?
+Advanced or Extra class licensees serving as Volunteer Examiners, or Volunteer-Examiner Coordinators
+The FCC
+The Field Operations Bureau
+Amateur Extra class licensees serving as Volunteer Examiners, or a qualified supplier
+4BA-7B.1|D|What examination elements are required for an Amateur Extra class operator license?
+1(C) and 4(B)
+3(B), 4(A) and 4(B)
+1(B), 2, 3(A), 3(B), 4(A) and 4(B)
+1(C), 2, 3(A), 3(B), 4(A) and 4(B)
+4BA-7B.2|D|What examination elements are required for an Advanced class operator license?
+1(A), 2, 3(A), 3(B) and 4(A)
+1(B), 3(A) and 3(B)
+1(B) and 4(A)
+1(B), 2, 3(A), 3(B) and 4(A)
+4BA-7B.3|A|What examination elements are required for a General class operator license?
+1(B), 2, 3(A) and 3(B)
+1(A), 2, 3(A) and 3(B)
+1(A), 3(A) and 3(B)
+1(B), 3(A) and 3(B)
+4BA-7C.1|A|What examination credit must be given to an applicant who holds a valid Novice class operator license?
+Credit for successful completion of elements 1(A) and 2
+Credit for successful completion of elements 1(B) and 3(A)
+Credit for successful completion of elements 1(B) and 2
+Credit for successful completion of elements 1(A) and 3(A)
+4BA-7C.3|B|What examination credit must be given to an applicant who holds a valid Technician class operator license issued before March 21, 1987?
+Credit for successful completion of elements 1(A), 2 and 3(B)
+Credit for successful completion of elements 1(A), 2, 3(A) and 3(B)
+Credit for successful completion of elements 1(B), 2, 3(A) and 4(A)
+Credit for successful completion of elements 1(B), 3(A) and 3(B)
+4BA-7C.4|D| What examination credit must be given to an applicant who holds a valid General class operator license?
+Credit for successful completion of elements 1(B), 2, 3(A), 3(B) and 4(A)
+Credit for successful completion of elements 1(A), 3(A), 3(B) and 4(A)
+Credit for successful completion of elements 1(A), 2, 3(A), 3(B) and 4(B)
+Credit for successful completion of elements 1(B), 2, 3(A) and 3(B)
+4BA-7C.5|C|What examination credit must be given to an applicant who holds a valid Advanced class operator license?
+Credit for successful completion of element 4(A)
+Credit for successful completion of elements 1(B) and 4(A)
+Credit for successful completion of elements 1(B), 2, 3(A), 3(B) and 4(A)
+Credit for successful completion of elements 1(C), 3(A), 3(B), 4(A) and 4(B)
+4BA-7C.6|B|What examination credit, if any, may be given to an applicant who holds a valid amateur operator license issued by another country?
+Credit for successful completion of any elements that may be identical to those required for U.S. licensees
+No credit
+Credit for successful completion of elements 1(A), 1(B) and 1(C)
+Credit for successful completion of elements 2, 3(A), 3(B), 4(A) and 4(B)
+4BA-7C.7|A|What examination credit, if any, may be given to an applicant who holds a valid amateur operator license issued by any other United States government agency than the FCC?
+No credit
+Credit for successful completion of elements 1(A), 1(B) or 1(C)
+Credit for successful completion of elements 4(A) and 4(B)
+Credit for successful completion of element 1(C)
+4BA-7C.8|C|What examination credit must be given to an applicant who holds an unexpired (or expired less than five years) FCC-issued commercial radiotelegraph operator license or permit?
+No credit
+Credit for successful completion of element 1(B) only
+Credit for successful completion of elements 1(A), 1(B) or 1(C)
+Credit for successful completion of element 1(A) only
+4BA-7C.9|C|What examination credit must be given to the holder of a valid Certificate of Successful Completion of Examination?
+Credit for previously completed written examination elements only
+Credit for the code speed associated with the previously completed telegraphy examination elements only
+Credit for previously completed written and telegraphy examination elements only
+Credit for previously completed commercial examination elements only
+4BA-7D.1|D|Who determines where and when examinations for amateur operator licenses are to be administered?
+The FCC
+The Section Manager
+The applicants
+The administering Volunteer Examiner Team
+4BA-7D.2|A|Where must the examiners be and what must they be doing during an examination?
+The examiners must be present and observing the candidate(s) throughout the entire examination
+The examiners must be absent to allow the candidate(s) to complete the entire examination in accordance with the traditional honor system
+The examiners must be present to observe the candidate(s) throughout the administration of telegraphy examination elements only
+The examiners must be present to observe the candidate(s) throughout the administration of written examination elements only
+4BA-7D.3|C|Who is responsible for the proper conduct and necessary supervision during an examination?
+The VEC
+The FCC
+The administering Volunteer Examiners
+The candidates and the administering Volunteer Examiners
+4BA-7D.4|B|What should an examiner do when a candidate fails to comply with the examiner's instructions?
+Warn the candidate that continued failure to comply with the examiner's instructions will result in termination of the examination
+Immediately terminate the examination
+Allow the candidate to complete the examination, but refuse to issue a certificate of successful completion of examination for any elements passed by fraudulent means
+Immediately terminate the examination and report the violation to federal law enforcement officials
+4BA-7D.5|B|What will the administering VEs require an examinee to do upon completion of an examination element?
+Complete a brief written evaluation of the session
+Return all test papers to the examiners
+Return all test papers to the VEC
+Pay the registration fee
+4BA-7E.1|C|When must the test papers be graded?
+Within 5 days of completion of an examination element
+Within 30 days of completion of an examination element
+Immediately upon completion of an examination element
+Within ten days of completion of an examination element
+4BA-7E.2|B|Who must grade the test papers?
+The ARRL
+The administering Volunteer Examiners
+The Volunteer-Examiner Coordinator
+The FCC
+4BA-7E.3|A|How do the examiners inform a candidate who does not score a passing grade?
+Return the application to the examinee and inform the examinee of the grade
+Give the percentage of the questions answered incorrectly and return the application to the candidate
+Tell the candidate that he or she failed and return the application to the candidate
+Show how the incorrect answers should have been answered and give a copy of the corrected answer sheet to the candidate
+4BA-7E.4|D|What must the examiners do when the candidate scores a passing grade on all examination elements needed for an upgrade?
+Give the percentage of the questions answered correctly and return the application to the candidate
+Tell the candidate that he or she passed
+Issue the candidate an erator license
+Certify on the examinee's application form that the applicant is qualified for the license and report the basis for the qualification
+4BA-7E.5|A|Within what time limit after administering an exam must the examiners submit the applications and test papers from successful candidates to the VEC?
+Within 10 days
+Within 15 days
+Within 30 days
+Within 90 days
+4BA-7E.6|B|To whom do the examiners submit successful candidates' applications and test papers?
+To the candidate
+To the coordinating VEC
+To the local radio club
+To the regional Section Manager
+4BA-7F.1|A|When an applicant passes an examination to upgrade his or her operator license, under what authority may he or she be the control operator of an amateur station with the privileges of the higher operator class?
+That of the Certificate of Successful Completion of Examination issued by the VE Team that administered the examination
+That of the ARRL
+Applicants already licensed in the amateur service may not use their newly earned privileges until they receive their permanent amateur station and operator licenses
+Applicants may only use their newly earned privileges during emergencies pending issuance of their permanent amateur station and operator licenses
+4BA-7F.2|B| What is a Certificate of Successful Completion of Examination?
+A document printed by the FCC
+A document required for already licensed applicants operating with privileges of an amateur operator class higher than that of their permanent amateur operator licenses
+A document a candidate may use for an indefinite period of time to receive credit for successful completion of any written element
+A permanent amateur station and operator license certificate issued to a newly-upgraded licensee by the FCC within 90 days of the completion of the examination
+4BA-7F.3|D|How long may a successful candidate operate a station under authority of a Certificate of Successful Completion of Examination with the rights and privileges of the higher operator class for which the applicant has passed the appropriate examinations?
+30 days or until issuance of a permanent operator and station license, whichever comes first
+3 months or until issuance of the permanent operator and station license, whichever comes first
+6 months or until issuance of the permanent operator and station license, whichever comes first
+365 days or until issuance of the permanent operator and station license, whichever comes first
+4BA-7F.4|B|How must the station call sign be amended when operating under the temporary authority of a Certificate of Successful Completion of Examination?
+The applicant must use an identifier code as a prefix to his or her present call sign, e.g., when using voice; "interim AE KA1MJP"
+The applicant must use an identifier code as a suffix to his or her present call sign, e.g., when using voice; "KA1MJP temporary AE"
+By adding after the call sign, when using voice, the phrase "operating temporary Technician, General, Advanced or Extra"
+By adding to the call sign, when using CW, the slant bar followed by the letters T, G, A or E
+4BB:[04/21]Operating Procedures       
+4BB-1A.1|C|What is an ascending pass for an amateur satellite?
+A pass from west to east
+A pass from east to west
+A pass from south to north
+A pass from north to south
+4BB-1A.2|A|What is a descending pass for an amateur satellite?
+A pass from north to south
+A pass from west to east
+A pass from east to west
+A pass from south to north
+4BB-1A.3|C|What is the period of an amateur satellite?
+An orbital arc that extends from 60 degrees west longitude to 145 degrees west longitude
+The point on an orbit where satellite height is minimum
+The amount of time it takes for a satellite to complete one orbit
+The time it takes a satellite to travel from perigee to apogee
+4BB-1B.1|D|What is Mode A in an amateur satellite?
+Operation through a 10-meter receiver on a satellite that retransmits on 2 meters
+The lowest frequency used in Phase 3 transponders
+The highest frequency used in Phase 3 translators
+Operation through a 2-meter receiver on a satellite that retransmits on 10 meters
+4BB-1B.2|B|What is Mode B in an amateur satellite?
+Operation through a 10-meter receiver on a satellite that retransmits on 2 meters
+Operation through a 70-centimeter receiver on a satellite that retransmits on 2 meters
+The beacon output
+A codestore device used to record messages
+4BB-1B.3|B|What is Mode J in an amateur satellite?
+Operation through a 70-centimeter receiver on a satellite that retransmits on 2 meters
+Operation through a 2-meter receiver on a satellite that retransmits on 70 centimeters
+Operation through a 2-meter receiver on a satellite that retransmits on 10 meters
+Operation through a 70-centimeter receiver on a satellite that retransmits on 10 meters
+4BB-1B.4|B|What is Mode L in an amateur satellite?
+Operation through a 70-centimeter receiver on a satellite that retransmits on 10 meters
+Operation through a 23-centimeter receiver on a satellite that retransmits on 70 centimeters
+Operation through a 70-centimeter receiver on a satellite that retransmits on 23 centimeters
+Operation through a 10-meter receiver on a satellite that retransmits on 70 centimeters
+4BB-1C.1|B|What is a linear transponder?
+A repeater that passes only linear or CW signals
+A device that receives and retransmits signals of any mode in a certain passband
+An amplifier for SSB transmissions
+A device used to change FM to SSB
+4BB-1C.2|A|What are the two basic types of linear transponders used in amateur satellites?
+Inverting and noninverting
+Geostationary and elliptical
+Phase 2 and Phase 3
+Amplitude modulated and frequency modulated
+4BB-1D.1|D|Why does the downlink frequency appear to vary by several kHz during a low-earth-orbit amateur satellite pass?
+The distance between the satellite and ground station is changing, causing the Kepler effect
+The distance between the satellite and ground station is changing, causing the Bernoulli effect
+The distance between the satellite and ground station is changing, causing the Boyles' law effect
+The distance between the satellite and ground station is changing, causing the Doppler effect
+4BB-1D.2|A|Why does the received signal from a Phase III amateur satellite exhibit a fairly rapid pulsed fading effect?
+Because the satellite is rotating
+Because of ionospheric absorption
+Because of the satellite's low orbital altitude
+Because of the Doppler effect
+4BB-1D.3|B|What type of antenna can be used to minimize the effects of spin modulation and Faraday rotation?
+A nonpolarized antenna
+A circularly polarized antenna
+An isotropic antenna
+A log-periodic dipole array
+4BB-2A.1|A|How often is a new frame transmitted in a fast-scan television system?
+30 times per second
+60 times per second
+90 times per second
+120 times per second
+4BB-2A.2|C|How many horizontal lines make up a fast-scan television frame?
+30
+60
+525
+1050
+4BB-2A.3|C|How is the interlace scanning pattern generated in a fast-scan television system?
+By scanning the field from top to bottom
+By scanning the field from bottom to top
+By scanning even numbered lines in one field and odd numbered ones in the next
+By scanning from left to right in one field and right to left in the next
+4BB-2A.4|B|What is blanking in a video signal?
+Synchronization of the horizontal and vertical sync-pulses
+Turning off the scanning beam while it is traveling from right to left and from bottom to top
+Turning off the scanning beam at the conclusion of a transmission
+Transmitting a black and white test pattern
+4BB-2A.5|A|What is the standard video voltage level between the sync tip and the whitest white at TV camera outputs and modulator inputs?
+1 volt peak-to-peak
+120 IEEE units
+12 volts DC
+5 volts RMS
+4BB-2A.6|D| What is the bandwidth of a fast-scan television transmission?
+3 kHz
+10 kHz
+25 kHz
+6 MHz
+4BB-2A.7|C|What is the standard video level, in percent PEV, for black?
+0%
+12.5%
+70%
+100%
+4BB-2A.8|B|What is the standard video level, in percent PEV, for white?
+0%
+12.5%
+70%
+100%
+4BB-2A.9|C|What is the standard video level, in percent PEV, for blanking?
+0%
+12.5%
+75%
+100%
+4BC:[02/12]Radio Wave Propagation       
+4BC-1.1|D|What is the maximum separation between two stations communicating by moonbounce?
+500 miles maximum, if the moon is at perigee
+2,000 miles maximum, if the moon is at apogee
+5,000 miles maximum, if the moon is at perigee
+Any distance as long as the stations have a mutual lunar window
+4BC-1.2|B|What characterizes libration fading of an EME signal?
+A slow change in the pitch of the CW signal
+A fluttery, rapid irregular fading
+A gradual loss of signal as the sun rises
+The returning echo is several hertz lower in frequency than the transmitted signal
+4BC-1.3|A|What are the best days to schedule EME contacts?
+When the moon is at perigee
+When the moon is full
+When the moon is at apogee
+When the weather at both stations is clear
+4BC-1.4|D|What type of receiving system is required for EME communications?
+Equipment capable of reception on 14 MHz
+Equipment with very low dynamic range
+Equipment with very low gain
+Equipment with very low noise figures
+4BC-1.5|B|What type of transmitting system is required for EME communications?
+A transmitting system capable of operation on the 21 MHz band
+A transmitting system capable of producing a very high EIRP
+A transmitting system using an unmodulated carrier
+A transmitting system with a high second harmonic output
+4BC-2.1|B|When the earth's atmosphere is struck by a meteor, a cylindrical region of free electrons is formed at what layer of the ionosphere?
+The F1 layer
+The E layer
+The F2 layer
+The D layer
+4BC-2.2|C|Which range of frequencies is well suited for meteor-scatter communications?
+1.8 - 1.9 MHz
+10 - 14 MHz
+28 - 148 MHz
+220 - 450 MHz
+4BC-3.1|A|What is transequatorial propagation?
+Propagation between two points at approximately the same distance north and south of the magnetic equator
+Propagation between two points on the magnetic equator   
+Propagation between two continents by way of ducts along the magnetic equator
+Propagation between any two stations at the same latitude 
+4BC-3.2|C|What is the maximum range for signals using transequatorial propagation?
+About 1,000 miles
+About 2,500 miles
+About 5,000 miles
+About 7,500 miles
+4BC-3.3|C|What is the best time of day for transequatorial propagation?
+Morning
+Noon
+Afternoon or early evening
+Transequatorial propagation only works at night
+4BC-4.1|C|If a beam antenna must be pointed in a direction 180 degrees away from a station to receive the strongest signals, what type of propagation is probably occurring?
+Transequatorial propagation
+Sporadic-E propagation
+Long-path propagation
+Auroral propagation
+4BC-5.1|D|What is the name for a type of propagation in which radio signals travel along the terminator, which separates daylight from darkness?
+Transequatorial propagation
+Sporadic-E propagation
+Long-path propagation
+Gray-line propagation
+4BD:[04/27]Amateur Radio Practice       
+4BD-1A.1|C|How does a spectrum analyzer differ from a conventional time-domain oscilloscope?
+The oscilloscope is used to display electrical signals while the spectrum analyzer is used to measure ionospheric reflection
+The oscilloscope is used to display electrical signals in the frequency domain while the spectrum analyzer is used to display electrical signals in the time domain
+The oscilloscope is used to display electrical signals in the time domain while the spectrum analyzer is used to display electrical signals in the frequency domain
+The oscilloscope is used for displaying audio frequencies and the spectrum analyzer is used for displaying radio frequencies
+4BD-1A.2|D|What does the horizontal axis of a spectrum analyzer display?
+Amplitude
+Voltage
+Resonance
+Frequency
+4BD-1A.3|A|What does the vertical axis of a spectrum analyzer display?
+Amplitude
+Duration
+Frequency
+Time
+4BD-1B.1|A|What test instrument can be used to display spurious signals in the output of a radio transmitter?
+A spectrum analyzer
+A wattmeter
+A logic analyzer
+A time-domain reflectometer
+4BD-1B.2|B|What test instrument is used to display intermodulation distortion products from an SSB transmitter?
+A wattmeter
+A spectrum analyzer
+A logic analyzer
+A time-domain reflectometer
+4BD-2A.1|D|What advantage does a logic probe have over a voltmeter for monitoring logic states in a circuit?
+A logic probe has fewer leads to connect to a circuit than a voltmeter
+A logic probe can be used to test analog and digital circuits
+A logic probe can be powered by commercial AC lines
+A logic probe is smaller and shows a simplified readout
+4BD-2A.2|C|What piece of test equipment can be used to directly indicate high and low logic states?
+A galvanometer
+An electroscope
+A logic probe
+A Wheatstone bridge
+4BD-2A.3|D|What is a logic probe used to indicate?
+A short-circuit fault in a digital-logic circuit
+An open-circuit failure in a digital-logic circuit
+A high-impedance ground loop
+High and low logic states in a digital-logic circuit
+4BD-2B.1|A|What piece of test equipment besides an oscilloscope can be used to indicate pulse conditions in a digital-logic circuit?
+A logic probe
+A galvanometer
+An electroscope
+A Wheatstone bridge
+4BD-3A.1|A|What is one of the most significant problems you might encounter when you try to receive signals with a mobile station?
+Ignition noise
+Doppler shift
+Radar interference
+Mechanical vibrations
+4BD-3A.2|A|What is the proper procedure for suppressing electrical noise in a mobile station?
+Apply shielding and filtering where necessary
+Insulate all plane sheet metal surfaces from each other
+Apply antistatic spray liberally to all non-metallic surfaces
+Install filter capacitors in series with all DC wiring
+4BD-3A.3|C|How can ferrite beads be used to suppress ignition noise?
+Install them in the resistive high voltage cable every 2years
+Install them between the starter solenoid and the starter motor
+Install them in the primary and secondary ignition leads
+Install them in the antenna lead to the radio
+4BD-3A.4|D|How can ensuring good electrical contact between connecting metal surfaces in a vehicle reduce spark plug noise?
+It reduces the spark gap distance, causing a lower frequency spark
+It helps radiate the spark plug noise away from the vehicle
+It reduces static buildup on the vehicle body
+It encourages lower frequency electrical resonances in the vehicle
+4BD-3B.1|B|How can alternator whine be minimized?
+By connecting the radio's power leads to the battery by the longest possible path
+By connecting the radio's power leads to the battery by the shortest possible path
+By installing a high pass filter in series with the radio's DC power lead to the vehicle's electrical system
+By installing filter capacitors in series with the DC power lead
+4BD-3B.2|D|How can conducted and radiated noise caused by an automobile alternator be suppressed?
+By installing filter capacitors in series with the DC power lead and by installing a blocking capacitor in the field lead
+By connecting the radio's power leads to the battery by the longest possible path and by installing a blocking capacitor in series with the positive lead
+By installing a high pass filter in series with the radio's power lead to the vehicle's electrical system and by installing a low-pass filter in parallel with the field lead
+By connecting the radio's power leads directly to the battery and by installing coaxial capacitors in the alternator leads
+4BD-3C.1|B|What is a major cause of atmospheric static?
+Sunspots
+Thunderstorms
+Airplanes
+Meteor showers
+4BD-3D.1|C|How can you determine if a line-noise interference problem is being generated within your home?
+Check the power-line voltage with a time-domain reflectometer
+Observe the AC waveform on an oscilloscope
+Turn off the main circuit breaker and listen on a battery-operated radio
+Observe the power-line voltage on a spectrum analyzer
+4BD-4.1|A|What is the main drawback of a wire-loop antenna for direction finding?
+It has a bidirectional pattern broadside to the loop
+It is non-rotatable
+It receives equally well in all directions
+It is practical for use only on VHF bands
+4BD-4.2|B|What directional pattern is desirable for a direction-finding antenna?
+A non-cardioid pattern
+Good front-to-back and front-to-side ratios
+Good top-to-bottom and front-to-side ratios
+Shallow nulls
+4BD-4.3|C|What is the triangulation method of direction finding?
+Using the geometric angle of ground waves and sky waves emanating from the same source to locate the signal source
+A fixed receiving station uses three beam headings to plot the signal source on a map
+Beam headings from several receiving locations are used to plot the signal source on a map
+The use of three vertical antennas to indicate the location of the signal source
+4BD-4.4|D|Why is an RF attenuator desirable in a receiver used for direction finding?
+It narrows the bandwidth of the received signal
+It eliminates the effects of isotropic radiation
+It reduces loss of received signals caused by antenna pattern nulls
+It prevents receiver overload from extremely strong signals
+4BD-4.5|A|What is a sense antenna?
+A vertical antenna added to a loop antenna to produce a cardioid reception pattern
+A horizontal antenna added to a loop antenna to produce a cardioid reception pattern
+A vertical antenna added to an Adcock antenna to produce an omnidirectional reception pattern
+A horizontal antenna added to an Adcock antenna to produce a cardioid reception pattern
+4BD-4.6|D|What type of antenna is most useful for sky-wave reception in radio direction finding?
+A log-periodic dipole array
+An isotropic antenna
+A circularly polarized antenna
+An Adcock antenna
+4BD-4.7|C|What is a loop antenna?
+A circularly polarized antenna
+A coil of wire used as an antenna in FM broadcast receivers
+A wire loop used in radio direction finding
+An antenna coupled to the feed line through an inductive loop of wire
+4BD-4.8|D|How can the output voltage of a loop antenna be increased?
+By reducing the permeability of the loop shield
+By increasing the number of wire turns in the loop while reducing the area of the loop structure
+By reducing either the number of wire turns in the loop, or the area of the loop structure
+By increasing either the number of wire turns in the loop, or the area of the loop structure
+4BD-4.9|B|Why is an antenna system with a cardioid pattern desirable for a direction-finding system?
+The broad side responses of the cardioid pattern can be aimed at the desired station
+The deep null of the cardioid pattern can pinpoint the direction of the desired station
+The sharp peak response of the cardioid pattern can pinpoint the direction of the desired station
+The high radiation angle of the cardioid pattern is useful for short-distance direction finding
+4BD-4.10|C|What type of terrain can cause errors in direction finding?
+Homogeneous terrain
+Smooth grassy terrain
+Varied terrain
+Terrain with no buildings or mountains
+4BE:[06/65]Electrical Principles       
+4BE-1.1|B|What is the photoconductive effect?
+The conversion of photon energy to electromotive energy
+The increased conductivity of an illuminated semiconductor junction
+The conversion of electromotive energy to photon energy
+The decreased conductivity of an illuminated semiconductor junction
+4BE-1.2|A|What happens to photoconductive material when light shines on it?
+The conductivity of the material increases
+The conductivity of the material decreases
+The conductivity of the material stays the same
+The conductivity of the material becomes temperature dependent
+4BE-1.3|D|What happens to the resistance of a photoconductive material when light shines on it?
+It increases
+It becomes temperature dependent
+It stays the same
+It decreases
+4BE-1.4|C|What happens to the conductivity of a semiconductor junction when it is illuminated?
+It stays the same
+It becomes temperature dependent
+It increases
+It decreases
+4BE-1.5|D|What is an optocoupler?
+A resistor and a capacitor
+A frequency modulated helium-neon laser
+An amplitude modulated helium-neon laser
+An LED and a phototransistor
+4BE-1.6|A|What is an optoisolator?
+An LED and a phototransistor
+A P-N junction that develops an excess positive charge when exposed to light
+An LED and a capacitor
+An LED and a solar cell
+4BE-1.7|B|What is an optical shaft encoder?
+An array of optocouplers chopped by a stationary wheel
+An array of optocouplers whose light transmission path is controlled by a rotating wheel
+An array of optocouplers whose propagation velocity is controlled by a stationary wheel
+An array of optocouplers whose propagation velocity is controlled by a rotating wheel
+4BE-1.8|D|What does the photoconductive effect in crystalline solids produce a noticeable change in?
+The capacitance of the solid
+The inductance of the solid
+The specific gravity of the solid
+The resistance of the solid
+4BE-2A.1|D|What is the meaning of the term time constant of an RC circuit?
+The time required to charge the capacitor in the circuit to 36.8% of the supply voltage
+The time required to charge the capacitor in the circuit to 36.8% of the supply current
+The time required to charge the capacitor in the circuit to 63.2% of the supply current
+The time required to charge the capacitor in the circuit to 63.2% of the supply voltage
+4BE-2A.2|C|What is the meaning of the term time constant of an RL circuit?
+The time required for the current in the circuit to build up to 36.8% of the maximum value
+The time required for the voltage in the circuit to build up to 63.2% of the maximum value
+The time required for the current in the circuit to build up to 63.2% of the maximum value
+The time required for the voltage in the circuit to build up to 36.8% of the maximum value
+4BE-2A.3|B|What is the term for the time required for the capacitor in an RC circuit to be charged to 63.2% of the supply voltage?
+An exponential rate of one
+One time constant
+One exponential period
+A time factor of one
+4BE-2A.4|A|What is the term for the time required for the current in an RL circuit to build up to 63.2% of the maximum value?
+One time constant
+An exponential period of one
+A time factor of one
+One exponential rate
+4BE-2A.5|D|What is the term for the time it takes for a charged capacitor in an RC circuit to discharge to 36.8% of its initial value of stored charge?
+One discharge period
+An exponential discharge rate of one
+A discharge factor of one
+One time constant
+4BE-2A.6|D|What is meant by back EMF?
+A current equal to the applied EMF
+An opposing EMF equal to R times C (RC) percent of the applied EMF
+A current that opposes the applied EMF
+A voltage that opposes the applied EMF
+4BE-2B.1|C|After two time constants, the capacitor in an RC circuit is charged to what percentage of the supply voltage?
+36.8%
+63.2%
+86.5%
+95%
+4BE-2B.2|D|After two time constants, the capacitor in an RC circuit is discharged to what percentage of the starting voltage?
+86.5%
+63.2%
+36.8%
+13.5%
+4BE-2B.3|C|What is the time constant of a circuit having a 100 microfarad capacitor in series with a 470-kilohm resistor?
+4700 seconds
+470 seconds
+47 seconds
+0.47 seconds
+4BE-2B.4|A|What is the time constant of a circuit having a 220 microfarad capacitor in parallel with a 1-megohm resistor?
+220 seconds
+22 seconds
+2.2 seconds
+0.22 seconds
+4BE-2B.5|B|What is the time constant of a circuit having two 100 microfarad capacitors and two 470-kilohm resistors all in series?
+470 seconds
+47 seconds
+4.7 seconds
+0.47 seconds
+4BE-2B.6|B|What is the time constant of a circuit having two 100 microfarad capacitors and two 470-kilohm resistors all in parallel?
+470 seconds
+47 seconds
+4.7 seconds
+0.47 seconds
+4BE-2B.7|C|What is the time constant of a circuit having two 220 microfarad capacitors and two 1-megohm resistors all in series?
+55 seconds
+110 seconds
+220 seconds
+440 seconds
+4BE-2B.8|C|What is the time constant of a circuit having two 220 microfarad capacitors and two 1-megohm resistors all in parallel?
+22 seconds
+44 seconds
+220 seconds
+440 seconds
+4BE-2B.9|B|What is the time constant of a circuit having one 100 microfarad capacitor, one 220 microfarad capacitor, one 470 kilohm resistor and one 1-megohm resistor all in series?
+68.8 seconds
+101.1 seconds
+220.0 seconds
+470.0 seconds
+4BE-2B.10|D|What is the time constant of a circuit having a 470 microfarad capacitor and a 1-megohm resistor in parallel?
+0.47 seconds
+47 seconds
+220 seconds
+470 seconds
+4BE-2B.11|A|What is the time constant of a circuit having a 470 microfarad capacitor in series with a 470 kilohm resistor?
+221 seconds
+221000 seconds
+470 seconds
+470000 seconds
+4BE-2B.12|A|What is the time constant of a circuit having a 220 microfarad capacitor in series with a 470 kilohm resistor?
+103 seconds
+220 seconds
+470 seconds
+470000 seconds
+4BE-2B.13|B|How long does it take for an initial charge of 20 V DC to decrease to 7.36 V DC in a 0.01-microfarad capacitor when a 2 megohm resistor is connected across it?
+12.64 seconds
+0.02 seconds
+1 second
+7.98 seconds
+4BE-2B.14|A|How long does it take for an initial charge of 20 V DC to decrease to 2.71 V DC in a 0.01-microfarad capacitor when a 2 megohm resistor is connected across it?
+0.04 seconds
+0.02 seconds
+7.36 seconds
+12.64 seconds
+4BE-2B.15|D|How long does it take for an initial charge of 20 V DC to decrease to 1 V DC in a 0.01-microfarad capacitor when a 2 megohm resistor is connected across it?
+0.01 seconds
+0.02 seconds
+0.04 seconds
+0.06 seconds
+4BE-2B.16|A|How long does it take for an initial charge of 20 V DC to decrease to 0.37 V DC in a 0.01-microfarad capacitor when a 2 megohm resistor is connected across it?
+0.08 seconds
+0.6 seconds
+0.4 seconds
+0.2 seconds
+4BE-2B.17|C|How long does it take for an initial charge of 20 V DC to decrease to 0.13 V DC in a 0.01 microfarad capacitor when a 2 megohm resistor is connected across it?
+0.06 seconds
+0.08 seconds
+0.1 seconds
+1.2 seconds
+4BE-2B.18|D|How long does it take for an initial charge of 800 V DC to decrease to 294 V DC in a 450-microfarad capacitor when a 1 megohm resistor is connected across it?
+80 seconds
+294 seconds
+368 seconds
+450 seconds
+4BE-2B.19|D|How long does it take for an initial charge of 800 V DC to decrease to 108 V DC in a 450 microfarad capacitor when a 1 megohm resistor is connected across it?
+225 seconds
+294 seconds
+450 seconds
+900 seconds
+4BE-2B.20|A|How long does it take for an initial charge of 800 V DC to decrease to 39.9 V DC in a 450-microfarad capacitor when a 1 megohm resistor is connected across it?
+1350 seconds
+900 seconds
+450 seconds
+225 seconds
+4BE-2B.21|D|How long does it take for an initial charge of 800 V DC to decrease to 40.2 V DC in a 450 microfarad capacitor when a 1 megohm resistor is connected across it?
+Approximately 225 seconds
+Approximately 450 seconds
+Approximately 900 seconds
+Approximately 1350 seconds
+4BE-2B.22|C|How long does it take for an initial charge of 800 V DC to decrease to 14.8 V DC in a 450 microfarad capacitor when a 1 megohm resistor is connected across it?
+Approximately 900 seconds
+Approximately 1350 seconds
+Approximately 1804 seconds
+Approximately 2000 seconds
+4BE-3.1|A|What is a Smith Chart?
+A graph for calculating impedance along transmission lines
+A graph for calculating great circle bearings
+A graph for calculating antenna height
+A graph for calculating radiation patterns
+4BE-3.2|B|What type of coordinate system is used in a Smith Chart?
+Voltage and current circles
+Resistance and reactance circles
+Voltage and current lines
+Resistance and reactance lines
+4BE-3.3|C|What type of calculations can be performed using a Smith Chart?
+Beam headings and radiation patterns
+Satellite azimuth and elevation bearings
+Impedance and SWR values in transmission lines
+Circuit gain calculations
+4BE-3.4|C|What are the two families of circles that make up a Smith Chart?
+Resistance and voltage
+Reactance and voltage
+Resistance and reactance
+Voltage and impedance
+4BE-3.5|B|What is the only straight line on a blank Smith Chart?
+The reactance axis
+The resistance axis
+The voltage axis
+The current axis
+4BE-3.6|C|What is the process of normalizing with regard to a Smith Chart?
+Reassigning resistance values with regard to the reactance axis
+Reassigning reactance values with regard to the resistance axis
+Reassigning resistance values with regard to the prime center
+Reassigning prime center with regard to the reactance axis
+4BE-3.7|D|What are the curved lines on a Smith Chart?
+Portions of current circles
+Portions of voltage circles
+Portions of resistance circles
+Portions of reactance circles
+4BE-3.8|C|What is the third family of circles, which are added to a Smith Chart during the process of solving problems?
+Coaxial length circles
+Antenna length circles
+Standing wave ratio circles
+Radiation pattern circles
+4BE-3.9|B|How are the wavelength scales on a Smith Chart calibrated?
+In portions of transmission line electrical frequency
+In portions of transmission line electrical wavelength
+In portions of antenna electrical wavelength
+In portions of antenna electrical frequency
+4BE-4.1|A|What is the impedance of a network comprised of a 0.1 microhenry inductor in series with a 20 ohm resistor, at 30 MHz? (Specify your answer in rectangular coordinates.)
+20 + j19
+20 - j19
+19 + j20
+19 - j20
+4BE-4.2|B|What is the impedance of a network comprised of a 0.1 microhenry inductor in series with a 30-ohm resistor, at 5 MHz? (Specify your answer in rectangular coordinates.)
+30 - j3
+30 + j3
+3 + j30
+3 - j30
+4BE-4.3|A|What is the impedance of a network comprised of a 10 microhenry inductor in series with a 40 ohm resistor, at 500 MHz? (Specify your answer in rectangular coordinates.)
+40 + j31400
+40 - j31400
+31400 + j40
+31400 - j40
+4BE-4.4|D|What is the impedance of a network comprised of a 100 picofarad capacitor in parallel with a 4000 ohm resistor, at 500 kHz? (Specify your answer in polar coordinates.)
+2490 ohms,  /51.5 degrees  
+4000 ohms,  /38.5 degrees  
+5112 ohms,  /-38.5 degrees  
+2490 ohms,  /-51.5 degrees  
+4BE-4.5|A|What is the impedance of a network comprised of a 0.001 microfarad capacitor in series with a 400 ohm resistor, at 500 kHz? (Specify your answer in rectangular coordinates.)
+400 - j318
+318 - j400
+400 + j318
+318 + j400
+4BE-5.1|B|What is the impedance of a network comprised of a 100 ohm reactance inductor in series with a 100 ohm resistor? (Specify your answer in polar coordinates.)
+121 ohms,  /35 degrees  
+141 ohms,  /45 degrees  
+161 ohms,  /55 degrees  
+181 ohms,  /65 degrees  
+4BE-5.2|C|What is the impedance of a network comprised of a 100 ohm reactance inductor, a 100-ohm-reactance capacitor, and a 100 ohm resistor all connected in series? (Specify your answer in polar coordinates.)
+100 ohms,  /90 degrees  
+ 10 ohms,  /0 degrees  
+100 ohms,  /0 degrees  
+ 10 ohms,  /100 degrees  
+4BE-5.3|D|What is the impedance of a network comprised of a 400 ohm reactance capacitor in series with a 300-ohm resistor? (Specify your answer in polar coordinates.)
+240 ohms,  /36.9 degrees   
+240 ohms,  /-36.9 degrees  
+500 ohms,  /53.1 degrees   
+500 ohms,  /-53.1 degrees  
+4BE-5.4|A|What is the impedance of a network comprised of a 300 ohm-reactance capacitor, a 600-ohm reactance inductor, and a 400 ohm resistor, all connected in series? (Specify your answer in polar coordinates.)
+500 ohms,  /37 degrees  
+400 ohms,  /27 degrees  
+300 ohms,  /17 degrees  
+200 ohms,  /10 degrees  
+4BE-5.5|A|What is the impedance of a network comprised of a 400 ohm reactance inductor in parallel with a 300 ohm resistor? (Specify your answer in polar coordinates.)
+240 ohms,  /36.9 degrees   
+240 ohms,  /-36.9 degrees  
+500 ohms,  /53.1 degrees  
+500 ohms,  /-53.1 degrees  
+4BE-6A.1|B|What is the impedance of a network comprised of a 1.0 millihenry inductor in series with a 200 ohm resistor, at 30 kHz? (Specify your answer in rectangular coordinates.)
+200 - j188
+200 + j188
+188 + j200
+188 - j200
+4BE-6A.2|C|What is the impedance of a network comprised of a 10 millihenry inductor in series with a 600 ohm resistor, at 10 kHz? (Specify your answer in rectangular coordinates.)
+628 + j600
+628 - j600
+600 + j628
+600 - j628
+4BE-6A.3|D|What is the impedance of a network comprised of a 0.01 microfarad capacitor in parallel with a 300 ohm resistor, at 50 kHz? (Specify your answer in rectangular coordinates.)
+150 - j159
+150 + j159
+159 + j150
+159 - j150
+4BE-6A.4|B|What is the impedance of a network comprised of a 0.1 microfarad capacitor in series with a 40 ohm resistor, at 50 kHz? (Specify your answer in rectangular coordinates.)
+40 + j32
+40 - j32
+32 - j40
+32 + j40
+4BE-6A.5|C|What is the impedance of a network comprised of a 1.0 microfarad capacitor in parallel with a 30 ohm resistor, at 5 MHz? (Specify your answer in rectangular coordinates.)
+0.000034 + j.032
+0.032 + j.000034
+0.000034 - j.032
+0.032 - j.000034
+4BE-6B.1|B|What is the impedance of a network comprised of a 100 ohm-reactance capacitor in series with a 100 ohm resistor? (Specify your answer in polar coordinates.)
+121 ohms,  / -25 degrees  
+141 ohms,  / -45 degrees  
+161 ohms,  / -65 degrees  
+191 ohms,  / -85 degrees  
+4BE-6B.2|C|What is the impedance of a network comprised of a 100 ohm-reactance capacitor in parallel with a 100 ohm resistor? (Specify your answer in polar coordinates.)
+31 ohms,  / -15 degrees  
+51 ohms,  / -25 degrees  
+71 ohms,  / -45 degrees  
+91 ohms,  / -65 degrees  
+4BE-6B.3|B|What is the impedance of a network comprised of a 300 ohm-reactance inductor in series with a 400 ohm resistor? (Specify your answer in polar coordinates.)
+400 ohms,  / 27 degrees  
+500 ohms,  / 37 degrees  
+600 ohms,  / 47 degrees  
+700 ohms,  / 57 degrees  
+4BE-6B.4|A|What is the impedance of a network comprised of a 100 ohm-reactance inductor in parallel with a 100 ohm resistor? (Specify your answer in polar coordinates.)
+ 71 ohms,  / 45 degrees 
+ 81 ohms,  / 55 degrees  
+ 91 ohms,  / 65 degrees  
+100 ohms,  / 75 degrees  
+4BE-6B.5|D|What is the impedance of a network comprised of a 300 ohm-reactance capacitor in series with a 400 ohm resistor? (Specify your answer in polar coordinates.)
+200 ohms,  / -10 degrees  
+300 ohms,  / -17 degrees  
+400 ohms,  / -27 degrees  
+500 ohms,  / -37 degrees  
+4BF:[04/36]Circuit Components       
+4BF-1A.1|D|What is an enhancement-mode FET?
+An FET with a channel that blocks voltage through the gate
+An FET with a channel that allows a current when the gate voltage is zero
+An FET without a channel to hinder current through the gate
+An FET without a channel; no current occurs with zero gate voltage
+4BF-1B.1|A|What is a depletion-mode FET?
+An FET that has a channel with no gate voltage applied; a current flows with zero gate voltage
+An FET that has a channel that blocks current when the gate voltage is zero
+An FET without a channel; no current flows with zero gate voltage
+An FET without a channel to hinder current through the gate
+4BF-1C.1|A|What is the schematic symbol for an N-channel MOSFET [see Figure 4BF-1C-1]?
+Symbol A
+Symbol B
+Symbol C
+Symbol D
+4BF-1C.2|B|What is the schematic symbol for a P-channel MOSFET [see Figure 4BF-1C-2]?
+Symbol A
+Symbol B
+Symbol C
+Symbol D
+4BF-1C.3|C|What is the schematic symbol for an N-channel dual-gate MOSFET [see Figure 4BF-1C-3]?
+Symbol A
+Symbol B
+Symbol C
+Symbol D
+4BF-1C.4|D|What is the schematic symbol for a P-channel dual-gate MOSFET [see Figure 4BF-1C-4]?
+Symbol A
+Symbol B
+Symbol C
+Symbol D
+4BF-1C.5|D|Why do many MOSFET devices have built-in gate-protective Zener diodes?
+The gate-protective Zener diode provides a voltage reference to provide the correct amount of reverse-bias gate voltage
+The gate-protective Zener diode protects the substrate from excessive voltages
+The gate-protective Zener diode keeps the gate voltage within specifications to prevent the device from overheating
+The gate-protective Zener diode prevents the gate insulation from being punctured by small static charges or excessive voltages
+4BF-1D.1|C|What do the initials CMOS stand for?
+Common mode oscillating system
+Complementary mica-oxide silicon
+Complementary metal-oxide semiconductor
+Complementary metal-oxide substrate
+4BF-1D.2|A|Why are special precautions necessary in handling FET and CMOS devices?
+They are susceptible to damage from static charges
+They have fragile leads that may break off
+They have micro-welded semiconductor junctions that are susceptible to breakage
+They are light sensitive
+4BF-1E.1|A|What is the schematic symbol for an N-channel junction FET [see Figure 4BF-1E-1]?
+Symbol A
+Symbol B
+Symbol C
+Symbol D
+4BF-1E.2|D|How does the input impedance of a field-effect transistor compare with that of a bipolar transistor?
+One cannot compare input impedance without first knowing the supply voltage
+An FET has low input impedance; a bipolar transistor has high input impedance
+The input impedance of FETs and bipolar transistors is the same
+An FET has high input impedance; a bipolar transistor has low input impedance
+4BF-1E.3|D|What are the three terminals of a field-effect transistor?
+Gate 1, gate 2, drain
+Emitter, base, collector
+Emitter, base 1, base 2
+Gate, drain, source
+4BF-1F.1|B|What is the schematic symbol for a P-channel junction FET [see Figure 4BF-1F-1]?
+Symbol A
+Symbol B
+Symbol C
+Symbol D
+4BF-1F.2|A|What are the two basic types of junction field-effect transistors?
+N-channel and P-channel
+High power and low power
+MOSFET and GaAsFET
+Silicon FET and germanium FET
+4BF-2.1|A|What is an operational amplifier?
+A high-gain, direct-coupled differential amplifier whose characteristics are determined by components external to the amplifier unit
+A high-gain, direct-coupled audio amplifier whose characteristics are determined by components external to the amplifier unit
+An amplifier used to increase the average output of frequency modulated amateur signals to the legal limit
+A program subroutine that calculates the gain of an RF amplifier
+4BF-2.2|A|What is the schematic symbol for an operational amplifier [see Figure 4BF-2-2]?
+Symbol A
+Symbol B
+Symbol C
+Symbol D
+4BF-2.3|B|What would be the characteristics of the ideal op-amp?
+Zero input impedance, infinite output impedance, infinite gain, flat frequency response
+Infinite input impedance, zero output impedance, infinite gain, flat frequency response
+Zero input impedance, zero output impedance, infinite gain, flat frequency response
+Infinite input impedance, infinite output impedance, infinite gain, flat frequency response
+4BF-2.4|A|What determines the gain of a closed-loop op-amp circuit?
+The external feedback network
+The collector-to-base capacitance of the PNP stage
+The power supply voltage
+The PNP collector load
+4BF-2.5|C|What is meant by the term op-amp offset voltage?
+The output voltage of the op-amp minus its input voltage
+The difference between the output voltage of the op-amp and the input voltage required in the following stage
+The potential between the amplifier-input terminals of the op-amp in a closed-loop condition
+The potential between the amplifier-input terminals of the op-amp in an open-loop condition
+4BF-2.6|D|What is the input impedance of a theoretically ideal op-amp?
+100 ohms
+1000 ohms
+Very low
+Very high
+4BF-2.7|A|What is the output impedance of a theoretically ideal op-amp?
+Very low
+Very high
+100 ohms
+1000 ohms
+4BF-3.1|D|What is a phase-locked loop circuit?
+An electronic servo loop consisting of a ratio detector, reactance modulator, and voltage-controlled oscillator
+An electronic circuit also known as a monostable multivibrator
+An electronic circuit consisting of a precision push-pull amplifier with a differential input
+An electronic servo loop consisting of a phase detector, a low-pass filter and voltage-controlled oscillator
+4BF-3.2|D|What functions are performed by a phase-locked loop?
+Wideband AF and RF power amplification
+Comparison of two digital input signals, digital pulse counter
+Photovoltaic conversion, optical coupling
+Frequency synthesis, FM demodulation
+4BF-3.3|B|A circuit compares the output from a voltage-controlled oscillator and a frequency standard. The difference between the two frequencies produces an error voltage that changes the voltage-controlled oscillator frequency. What is the name of the circuit?
+A doubly balanced mixer
+A phase-locked loop
+A differential voltage amplifier
+A variable frequency oscillator
+4BF-4.1|B|What do the initials TTL stand for?
+Resistor-transistor logic
+Transistor-transistor logic
+Diode-transistor logic
+Emitter-coupled logic
+4BF-4.2|C|What is the recommended power supply voltage for TTL series integrated circuits?
+12.00 volts
+50.00 volts
+5.00 volts
+13.60 volts
+4BF-4.3|A|What logic state do the inputs of a TTL device assume if they are left open?
+A high logic state
+A low logic state
+The device becomes randomized and will not provide consistent high or low logic states
+Open inputs on a TTL device are ignored
+4BF-4.4|A|What level of input voltage is high in a TTL device operating with a 5-volt power supply?
+2.0 to 5.5 volts
+1.5 to 3.0 volts
+1.0 to 1.5 volts
+-5.0 to -2.0 volts
+4BF-4.5|C|What level of input voltage is low in a TTL device operating with a 5-volt power supply?
+-2.0 to -5.5 volts
+2.0 to 5.5 volts
+-0.6 to 0.8 volts
+-0.8 to 0.4 volts
+4BF-4.6|D|Why do circuits containing TTL devices have several bypass capacitors per printed circuit board?
+To prevent RFI to receivers
+To keep the switching noise within the circuit, thus eliminating RFI
+To filter out switching harmonics
+To prevent switching transients from appearing on the supply line
+4BF-5.1|B|What is a CMOS IC?
+A chip with only P-channel transistors
+A chip with P-channel and N-channel transistors
+A chip with only N-channel transistors
+A chip with only bipolar transistors
+4BF-5.2|B|What is one major advantage of CMOS over other devices?
+Small size
+Low current consumption
+Low cost
+Ease of circuit design
+4BF-5.3|C|Why do CMOS digital integrated circuits have high immunity to noise on the input signal or power supply?
+Larger bypass capacitors are used in CMOS circuit design
+The input switching threshold is about two times the power supply voltage
+The input switching threshold is about one-half the power supply voltage
+Input signals are stronger
+4BF-6.1|C|What is the name for a vacuum tube that is commonly found in television cameras used for amateur television?
+A traveling-wave tube
+A klystron tube
+A vidicon tube
+A cathode-ray tube
+4BF-6.2|D|How is the electron beam deflected in a vidicon?
+By varying the beam voltage
+By varying the bias voltage on the beam forming grids inside the tube
+By varying the beam current
+By varying electromagnetic fields
+4BF-6.3|D|What type of CRT deflection is better when high-frequency waves are to be displayed on the screen?
+Electromagnetic
+Tubular
+Radar
+Electrostatic
+4BG:[04/69]Practical Circuits       
+4BG-1A.1|D|What is a flip-flop circuit?
+A binary sequential logic element with one stable state
+A binary sequential logic element with eight stable states
+A binary sequential logic element with four stable states
+A binary sequential logic element with two stable states
+4BG-1A.2|A|How many bits of information can be stored in a single flip-flop circuit?
+1
+2
+3
+4
+4BG-1A.3|C|What is a bistable multivibrator circuit?
+An "AND" gate
+An "OR" gate
+A flip-flop
+A clock
+4BG-1A.4|C|How many output changes are obtained for every two trigger pulses applied to the input of a bistable T flip-flop circuit?
+No output level changes
+One output level change
+Two output level changes
+Four output level changes
+4BG-1A.5|C|The frequency of an AC signal can be divided electronically by what type of digital circuit?
+A free-running multivibrator
+An OR gate
+A bistable multivibrator
+An astable multivibrator
+4BG-1A.6|C|What type of digital IC is also known as a latch?
+A decade counter
+An OR gate
+A flip-flop
+An op-amp
+4BG-1A.7|B|How many flip-flops are required to divide a signal frequency by 4?
+1
+2
+4
+8
+4BG-1B.1|D|What is an astable multivibrator?
+A circuit that alternates between two stable states
+A circuit that alternates between a stable state and an unstable state
+A circuit set to block either a 0 pulse or a 1 pulse and pass the other
+A circuit that alternates between two unstable states    
+4BG-1B.2|A|What is a monostable multivibrator?
+A circuit that can be switched momentarily to the opposite binary state and then returns after a set time to its original state
+A "clock" circuit that produces a continuous square wave oscillating between 1 and 0
+A circuit designed to store one bit of data in either the 0 or the 1 configuration
+A circuit that maintains a constant output voltage, regardless of variations in the input voltage
+4BG-1C.1|A|What is an AND gate?
+A circuit that produces a logic "1" at its output only if all inputs are logic "1"
+A circuit that produces a logic "0" at its output only if all inputs are logic "1"
+A circuit that produces a logic "1" at its output if only one input is a logic "1"
+A circuit that produces a logic "1" at its output if all inputs are logic "0"
+4BG-1C.2|A|What is the schematic symbol for an AND gate [see Figure 4BG-1C-2]?
+Symbol A
+Symbol B
+Symbol C
+Symbol D
+4BG-1C.3|D|What is a NAND gate?
+A circuit that produces a logic "0" at its output only when all inputs are logic "0"
+A circuit that produces a logic "1" at its output only when all inputs are logic "1"
+A circuit that produces a logic "0" at its output if some but not all of its inputs are logic "1"
+A circuit that produces a logic "0" at its output only when all inputs are logic "1"
+4BG-1C.4|B|What is the schematic symbol for a NAND gate [see Figure 4BG-1C-4]?
+Symbol A
+Symbol B
+Symbol C
+Symbol D
+4BG-1C.5|A|What is an OR gate?
+A circuit that produces a logic "1" at its output if any input is logic "1"
+A circuit that produces a logic "0" at its output if any input is logic "1"
+A circuit that produces a logic "0" at its output if all inputs are logic "1"
+A circuit that produces a logic "1" at its output if all inputs are logic "0"
+4BG-1C.6|D|What is the schematic symbol for an OR gate [see Figure 4BG-1C-6]?
+Symbol A
+Symbol B
+Symbol C
+Symbol D
+4BG-1C.7|C|What is a NOR gate?
+A circuit that produces a logic "0" at its output only if all inputs are logic "0"
+A circuit that produces a logic "1" at its output only if all inputs are logic "1"
+A circuit that produces a logic "0" at its output if any or all inputs are logic "1"
+A circuit that produces a logic "1" at its output if some but not all of its inputs are logic "1"
+4BG-1C.8|D|What is the schematic symbol for a NOR gate [see Figure 4BG-1C-8]?
+Symbol A
+Symbol B
+Symbol C
+Symbol D
+4BG-1C.9|A|What is a NOT gate?
+A circuit that produces a logic "O" at its output when the input is logic "1" and vice versa
+A circuit that does not allow data transmission when its input is high
+A circuit that allows data transmission only when its input is high
+A circuit that produces a logic "1" at its output when the input is logic "1" and vice versa
+4BG-1C.10|A|What is the schematic symbol for a NOT gate [see Figure 4BG-1C10]?
+Symbol A
+Symbol B
+Symbol C
+Symbol D
+4BG-1D.1|C|What is a truth table?
+A table of logic symbols that indicate the high logic states of an op-amp
+A diagram showing logic states when the digital device's output is true
+A list of input combinations and their corresponding outputs that characterizes a digital device's function
+A table of logic symbols that indicates the low logic states of an op-amp
+4BG-1D.2|D|In a positive-logic circuit, what level is used to represent a logic 1?
+A low level
+A positive-transition level
+A negative-transition level
+A high level
+4BG-1D.3|A|In a positive-logic circuit, what level is used to represent a logic 0?
+A low level
+A positive-transition level
+A negative-transition level
+A high level
+4BG-1D.4|A|In a negative-logic circuit, what level is used to represent a logic 1?
+A low level
+A positive-transition level
+A negative-transition level
+A high level
+4BG-1D.5|D|In a negative-logic circuit, what level is used to represent a logic 0?
+A low level
+A positive-transition level
+A negative-transition level
+A high level
+4BG-2A.1|D|What is a crystal-controlled marker generator?
+A low-stability oscillator that "sweeps" through a band of frequencies
+An oscillator often used in aircraft to determine the craft's location relative to the inner and outer markers at airports
+A high-stability oscillator whose output frequency and amplitude can be varied over a wide range
+A high-stability oscillator that generates a series of reference signals at known frequency intervals
+4BG-2A.2|C|What additional circuitry is required in a 100-kHz crystal-controlled marker generator to provide markers at 50 and 25 kHz?
+An emitter-follower
+Two frequency multipliers
+Two flip-flops
+A voltage divider
+4BG-2B.1|D|What is the purpose of a prescaler circuit?
+It converts the output of a JK flip-flop to that of an RS flip-flop
+It multiplies an HF signal so a low-frequency counter can display the operating frequency
+It prevents oscillation in a low frequency counter circuit
+It divides an HF signal so a low-frequency counter can display the operating frequency
+4BG-2B.2|A|What does the accuracy of a frequency counter depend on?
+The internal crystal reference
+A voltage-regulated power supply with an unvarying output
+Accuracy of the AC input frequency to the power supply
+Proper balancing of the power-supply diodes
+4BG-2B.3|B|How many states does a decade counter digital IC have?
+6
+10
+15
+20
+4BG-2B.4|B|What is the function of a decade counter digital IC?
+Decode a decimal number for display on a seven-segment LED display
+Produce one output pulse for every ten input pulses
+Produce ten output pulses for every input pulse
+Add two decimal numbers
+4BG-3A.1|D|What are the advantages of using an op-amp instead of LC elements in an audio filter?
+Op-amps are more rugged and can withstand more abuse than can LC elements
+Op-amps are fixed at one frequency
+Op-amps are available in more styles and types than are LC elements
+Op-amps exhibit gain rather than insertion loss
+4BG-3A.2|B|What determines the gain and frequency characteristics of an op-amp RC active filter?
+Values of capacitances and resistances built into the op-amp
+Values of capacitances and resistances external to the op-amp
+Voltage and frequency of DC input to the op-amp power supply
+Regulated DC voltage output from the op-amp power supply
+4BG-3A.3|D|What are the principle uses of an op-amp RC active filter in amateur circuitry?
+Op-amp circuits are used as high-pass filters to block RFI at the input to receivers
+Op-amp circuits are used as low-pass filters between transmitters and transmission lines
+Op-amp circuits are used as filters for smoothing power-supply output
+Op-amp circuits are used as audio filters for receivers
+4BG-3B.1|C|What type of capacitors should be used in an op-amp RC active filter circuit?
+Electrolytic
+Disc ceramic
+Polystyrene
+Paper dielectric
+4BG-3B.2|A|How can unwanted ringing and audio instability be prevented in a multisection op-amp RC audio filter circuit?
+Restrict both gain and Q
+Restrict gain, but increase Q
+Restrict Q, but increase gain
+Increase both gain and Q
+4BG-3B.3|D|Where should an op-amp RC active audio filter be placed in an amateur receiver?
+In the IF strip, immediately before the detector
+In the audio circuitry immediately before the speaker or phone jack
+Between the balanced modulator and frequency multiplier
+In the low-level audio stages
+4BG-3B.4|A|What parameter must be selected when designing an audio filter using an op-amp?
+Bandpass characteristics
+Desired current gain
+Temperature coefficient
+Output-offset overshoot
+4BG-4A.1|D|What two factors determine the sensitivity of a receiver?
+Dynamic range and third-order intercept
+Cost and availability
+Intermodulation distortion and dynamic range
+Bandwidth and noise figure
+4BG-4A.2|A|What is the limiting condition for sensitivity in a communications receiver?
+The noise floor of the receiver
+The power-supply output ripple
+The two-tone intermodulation distortion
+The input impedance to the detector
+4BG-4A.3|B|What is the theoretical minimum noise floor of a receiver with a 400-hertz bandwidth?
+-141 dBm
+-148 dBm
+-174 dBm
+-180 dBm
+4BG-4B.1|B|How can selectivity be achieved in the front-end circuitry of a communications receiver?
+By using an audio filter
+By using a preselector
+By using an additional RF amplifier stage
+By using an additional IF amplifier stage
+4BG-4B.2|B|A receiver selectivity of 2.4 kHz in the IF circuitry is optimum for what type of amateur signals?
+CW
+SSB voice
+Double-sideband AM voice
+FSK RTTY
+4BG-4B.3|D|What occurs during CW reception if too narrow a filter bandwidth is used in the IF stage of a receiver?
+Undesired signals will reach the audio stage
+Output-offset overshoot
+Cross-modulation distortion
+Filter ringing
+4BG-4B.4|B|What degree of selectivity is desirable in the IF circuitry of an amateur RTTY receiver?
+100 Hz
+300 Hz
+6000 Hz
+2400 Hz
+4BG-4B.5|B|A receiver selectivity of 10 kHz in the IF circuitry is optimum for what type of amateur signals?
+SSB voice
+Double-sideband AM
+CW
+FSK RTTY
+4BG-4B.6|B|What degree of selectivity is desirable in the IF circuitry of a single-sideband phone receiver?
+1 kHz
+2.4 kHz
+4.2 kHz
+4.8 kHz
+4BG-4B.7|B|What is an undesirable effect of using too wide a filter bandwidth in the IF section of a receiver?
+Output-offset overshoot
+Undesired signals will reach the audio stage
+Thermal-noise distortion
+Filter ringing
+4BG-4B.8|A|How should the filter bandwidth of a receiver IF section compare with the bandwidth of a received signal?
+Filter bandwidth should be slightly greater than the received-signal bandwidth
+Filter bandwidth should be approximately half the received-signal bandwidth
+Filter bandwidth should be approximately two times the received-signal bandwidth
+Filter bandwidth should be approximately four times the received-signal bandwidth
+4BG-4B.9|D|What degree of selectivity is desirable in the IF circuitry of an FM-phone receiver?
+1 kHz
+2.4 kHz
+4.2 kHz
+15 kHz
+4BG-4B.10|D|How can selectivity be achieved in the IF circuitry of a communications receiver?
+Incorporate a means of varying the supply voltage to the local oscillator circuitry
+Replace the standard JFET mixer with a bipolar transistor followed by a capacitor of the proper value
+Remove AGC action from the IF stage and confine it to the audio stage only
+Incorporate a high-Q filter
+4BG-4C.1|C|What is meant by the dynamic range of a communications receiver?
+The number of kHz between the lowest and the highest frequency to which the receiver can be tuned
+The maximum possible undistorted audio output of the receiver, referenced to one milliwatt
+The ratio between the minimum discernible signal and the largest tolerable signal without causing audible distortion products
+The difference between the lowest-frequency signal and the highest-frequency signal detectable without moving the tuning knob
+4BG-4C.2|D|What is the term for the ratio between the largest tolerable receiver input signal and the minimum discernible signal?
+Intermodulation distortion
+Noise floor
+Noise figure
+Dynamic range
+4BG-4C.3|A|What type of problems are caused by poor dynamic range in a communications receiver?
+Cross-modulation of the desired signal and desensitization from strong adjacent signals
+Oscillator instability requiring frequent retuning, and loss of ability to recover the opposite sideband, should it be transmitted
+Cross-modulation of the desired signal and insufficient audio power to operate the speaker
+Oscillator instability and severe audio distortion of all but the strongest received signals
+4BG-4C.4|B|The ability of a communications receiver to perform well in the presence of strong signals outside the amateur band of interest is indicated by what parameter?
+Noise figure
+Blocking dynamic range
+Signal-to-noise ratio
+Audio output
+4BG-4D.1|C|What is meant by the term noise figure of a communications receiver?
+The level of noise entering the receiver from the antenna
+The relative strength of a received signal 3 kHz removed from the carrier frequency
+The level of noise generated in the front end and succeeding stages of a receiver
+The ability of a receiver to reject unwanted signals at frequencies close to the desired one
+4BG-4D.2|C|Which stage of a receiver primarily establishes its noise figure?
+The audio stage
+The IF strip
+The RF stage
+The local oscillator
+4BG-5A.1|A|What is an inverting op-amp circuit?
+An operational amplifier circuit connected such that the input and output signals are 180 degrees out of phase
+An operational amplifier circuit connected such that the input and output signals are in phase
+An operational amplifier circuit connected such that the input and output signals are 90 degrees out of phase
+An operational amplifier circuit connected such that the input impedance is held at zero, while the output impedance is high
+4BG-5B.1|B|What is a noninverting op-amp circuit?
+An operational amplifier circuit connected such that the input and output signals are 180 degrees out of phase
+An operational amplifier circuit connected such that the input and output signals are in phase
+An operational amplifier circuit connected such that the input and output signals are 90 degrees out of phase
+An operational amplifier circuit connected such that the input impedance is held at zero while the output impedance is high
+4BG-5C.1|D|What voltage gain can be expected from the circuit in Figure 4BG-5 when R1 is 1000 ohms and Rf is 100 kilohms [see Figure 4BG-5]?
+0.01
+1
+10
+100
+4BG-5C.2|C|What voltage gain can be expected from the circuit in Figure 4BG-5 when R1 is 1800 ohms and Rf is 68 kilohms [see Figure 4BG-5]?
+1
+0.03
+38
+76
+4BG-5C.3|B|What voltage gain can be expected from the circuit in Figure 4BG-5 when R1 is 3300 ohms and Rf is 47 kilohms [see Figure 4BG-5]?
+28
+14
+7
+0.07
+4BG-5C.4|C|What voltage gain can be expected from the circuit in Figure 4BG-5 when R1 is 10 ohms and Rf is 47 kilohms [see Figure 4BG-5]?
+0.00021
+9400
+4700
+2350
+4BG-5D.1|D|How does the gain of a theoretically ideal operational amplifier vary with frequency?
+The gain increases linearly with increasing frequency
+The gain decreases linearly with increasing frequency
+The gain decreases logarithmically with increasing frequency
+The gain does not vary with frequency
+4BG-6.1|C|What determines the input impedance in a FET common-source amplifier?
+The input impedance is essentially determined by the resistance between the drain and substrate
+The input impedance is essentially determined by the resistance between the source and drain
+The input impedance is essentially determined by the gate biasing network
+The input impedance is essentially determined by the resistance between the source and substrate
+4BG-6.2|A|What determines the output impedance in a FET common-source amplifier?
+The output impedance is essentially determined by the drain resistor
+The output impedance is essentially determined by the input impedance of the FET
+The output impedance is essentially determined by the drain supply voltage
+The output impedance is essentially determined by the gate supply voltage
+4BG-7.1|A|What frequency range will be tuned by the circuit in Figure 4BG-7 when L is 10 microhenrys, Cf is 156 picofarads, and Cv is 50 picofarads maximum and 2 picofarads minimum?
+3508 through 4004 kHz
+6998 through 7360 kHz
+13.396 through 14.402 MHz
+49.998 through 54.101 MHz
+4BG-7.2|A|What frequency range will be tuned by the circuit in Figure 4BG-7 when L is 30 microhenrys, Cf is 200 picofarads, and Cv is 80 picofarads maximum and 10 picofarads minimum?
+1737 through 2005 kHz
+3507 through 4004 kHz
+7002 through 7354 kHz
+14.990 through 15.020 MHz
+4BG-8.1|C|What is the purpose of a bypass capacitor?
+It increases the resonant frequency of the circuit
+It removes direct current from the circuit by shunting DC to ground
+It removes alternating current by providing a low impedance path to ground
+It acts as a voltage divider
+4BG-8.2|A|What is the purpose of a coupling capacitor?
+It blocks direct current and passes alternating current
+It blocks alternating current and passes direct current
+It increases the resonant frequency of the circuit
+It decreases the resonant frequency of the circuit
+4BH:[04/44]Signals and Emissions       
+4BH-1A.1|A|In a pulse-width modulation system, what parameter does the modulating signal vary?
+Pulse duration
+Pulse frequency
+Pulse amplitude
+Pulse intensity
+4BH-1A.2|C|What is the type of modulation in which the modulating signal varies the duration of the transmitted pulse?
+Amplitude modulation
+Frequency modulation
+Pulse-width modulation
+Pulse-height modulation
+4BH-1B.1|D|In a pulse-position modulation system, what parameter does the modulating signal vary?
+The number of pulses per second
+Both the frequency and amplitude of the pulses
+The duration of the pulses
+The time at which each pulse occurs
+4BH-1B.2|A|Why is the transmitter peak power in a pulse modulation system much greater than its average power?
+The signal duty cycle is less than 100%
+The signal reaches peak amplitude only when voice modulated
+The signal reaches peak amplitude only when voltage spikes are generated within the modulator
+The signal reaches peak amplitude only when the pulses are also amplitude modulated
+4BH-1B.3|C|What is one way that voice is transmitted in a pulse-width modulation system?
+A standard pulse is varied in amplitude by an amount depending on the voice waveform at that instant
+The position of a standard pulse is varied by an amount depending on the voice waveform at that instant
+A standard pulse is varied in duration by an amount depending on the voice waveform at that instant
+The number of standard pulses per second varies depending on the voice waveform at that instant
+4BH-2A.1|D|What digital code consists of elements having unequal length?
+ASCII
+AX.25
+Baudot
+Morse code
+4BH-2B.1|C|What digital communications system is well suited for meteor-scatter communications?
+ACSSB
+AMTOR
+Packet radio
+Spread spectrum
+4BH-2B.2|A|The International Organization for Standardization has developed a seven-level reference model for a packet-radio communications structure. What level is responsible for the actual transmission of data and handshaking signals?
+The physical layer
+The transport layer
+The communications layer
+The synchronization layer
+4BH-2B.3|B|The International Organization for Standardization has developed a seven-level reference model for a packet-radio communications structure. What level arranges the bits into frames and controls data flow?
+The transport layer
+The link layer
+The communications layer
+The synchronization layer
+4BH-2C.1|C|What is one advantage of using the ASCII code, with its larger character set, instead of the Baudot code?
+ASCII includes built-in error-correction features
+ASCII characters contain fewer information bits than Baudot characters
+It is possible to transmit upper and lower case text
+The larger character set allows store-and-forward control characters to be added to a message
+4BH-2D.1|D|What type of error control system does Mode A AMTOR use?
+Each character is sent twice
+The receiving station checks the calculated frame check sequence (FCS) against the transmitted FCS
+Mode A AMTOR does not include an error control system
+The receiving station automatically requests repeats when needed
+4BH-2D.2|A|What type of error control system does Mode B AMTOR use?
+Each character is sent twice
+The receiving station checks the calculated frame check sequence (FCS) against the transmitted FCS
+Mode B AMTOR does not include an error control system
+The receiving station automatically requests repeats when needed
+4BH-2E.1|D|What is the duration of a 45-baud Baudot RTTY data pulse?
+11 milliseconds
+40 milliseconds
+31 milliseconds
+22 milliseconds
+4BH-2E.2|B|What is the duration of a 45-baud Baudot RTTY start pulse?
+11 milliseconds
+22 milliseconds
+31 milliseconds
+40 milliseconds
+4BH-2E.3|C|What is the duration of a 45-baud Baudot RTTY stop pulse?
+11 milliseconds
+18 milliseconds
+31 milliseconds
+40 milliseconds
+4BH-2E.4|B|What is the primary advantage of AMTOR over Baudot RTTY?
+AMTOR characters contain fewer information bits than Baudot characters
+AMTOR includes an error detection system
+Surplus radioteletype machines that use the AMTOR code are readily available
+Photographs can be transmitted using AMTOR
+4BH-2F.1|B|What is the necessary bandwidth of a 170-hertz shift, 45-baud Baudot emission F1B transmission?
+45 Hz
+249 Hz
+442 Hz
+600 Hz
+4BH-2F.2|B|What is the necessary bandwidth of a 170-hertz shift, 45-baud Baudot emission J2B transmission?
+45 Hz
+249 Hz
+442 Hz
+600 Hz
+4BH-2F.3|B|What is the necessary bandwidth of a 170-hertz shift, 74-baud Baudot emission F1B transmission?
+250 Hz
+278 Hz
+442 Hz
+600 Hz
+4BH-2F.4|B|What is the necessary bandwidth of a 170-hertz shift, 74-baud Baudot emission J2B transmission?
+250 Hz
+278 Hz
+442 Hz
+600 Hz
+4BH-2F.5|C|What is the necessary bandwidth of a 13-WPM international Morse code emission A1A transmission?
+Approximately 13 Hz
+Approximately 26 Hz
+Approximately 52 Hz
+Approximately 104 Hz
+4BH-2F.6|C|What is the necessary bandwidth of a 13-WPM international Morse code emission J2A transmission?
+Approximately 13 Hz
+Approximately 26 Hz
+Approximately 52 Hz
+Approximately 104 Hz
+4BH-2F.7|D|What is the necessary bandwidth of a 1000-hertz shift, 1200-baud ASCII emission F1D transmission?
+1000 Hz
+1200 Hz
+440 Hz
+2400 Hz
+4BH-2F.8|A|What is the necessary bandwidth of a 4800-hertz frequency shift, 9600-baud ASCII emission F1D transmission?
+15.36 kHz
+9.6 kHz
+4.8 kHz
+5.76 kHz
+4BH-2F.9|A|What is the necessary bandwidth of a 4800-hertz frequency shift, 9600-baud ASCII emission J2D transmission?
+15.36 kHz
+9.6 kHz
+4.8 kHz
+5.76 kHz
+4BH-2F.10|C|What is the necessary bandwidth of a 5-WPM international Morse code emission A1A transmission?
+Approximately 5 Hz
+Approximately 10 Hz
+Approximately 20 Hz
+Approximately 40 Hz
+4BH-2F.11|C|What is the necessary bandwidth of a 5-WPM international Morse code emission J2A transmission?
+Approximately 5 Hz
+Approximately 10 Hz
+Approximately 20 Hz
+Approximately 40 Hz
+4BH-2F.12|B|What is the necessary bandwidth of a 170-hertz shift, 110-baud ASCII emission F1B transmission?
+304 Hz
+314 Hz
+608 Hz
+628 Hz
+4BH-2F.13|B|What is the necessary bandwidth of a 170-hertz shift, 110-baud ASCII emission J2B transmission?
+304 Hz
+314 Hz
+608 Hz
+628 Hz
+4BH-2F.14|C|What is the necessary bandwidth of a 170-hertz shift, 300-baud ASCII emission F1D transmission?
+0 Hz
+0.3 kHz
+0.5 kHz
+1.0 kHz
+4BH-2F.15|C|What is the necessary bandwidth for a 170-hertz shift, 300-baud ASCII emission J2D transmission?
+0 Hz
+0.3 kHz
+0.5 kHz
+1.0 kHz
+4BH-3.1|C|What is amplitude compandored single sideband?
+Reception of single sideband with a conventional CW receiver
+Reception of single sideband with a conventional FM receiver
+Single sideband incorporating speech compression at the transmitter and speech expansion at the receiver
+Single sideband incorporating speech expansion at the transmitter and speech compression at the receiver
+4BH-3.2|A|What is meant by compandoring?
+Compressing speech at the transmitter and expanding it at the receiver
+Using an audio-frequency signal to produce pulse-length modulation
+Combining amplitude and frequency modulation to produce a single-sideband signal
+Detecting and demodulating a single-sideband signal by converting it to a pulse-modulated signal
+4BH-3.3|A|What is the purpose of a pilot tone in an amplitude compandored single sideband system?
+It permits rapid tuning of a mobile receiver
+It replaces the suppressed carrier at the receiver
+It permits rapid change of frequency to escape high-powered interference
+It acts as a beacon to indicate the present propagation characteristic of the band
+4BH-3.4|D|What is the approximate frequency of the pilot tone in an amplitude compandored single sideband system?
+1 kHz
+5 MHz
+455 kHz
+3 kHz
+4BH-3.5|B|How many more voice transmissions can be packed into a given frequency band for amplitude-compandored single-sideband systems over conventional FM-phone systems?
+2
+4
+8
+16
+4BH-4.1|D|What term describes a wide-bandwidth communications system in which the RF carrier varies according to some predetermined sequence?
+Amplitude compandored single sideband
+AMTOR
+Time-domain frequency modulation
+Spread spectrum communication
+4BH-4.2|A|What is the term used to describe a spread spectrum communications system where the center frequency of a conventional carrier is altered many times per second in accordance with a pseudo-random list of channels?
+Frequency hopping
+Direct sequence
+Time-domain frequency modulation
+Frequency compandored spread spectrum
+4BH-4.3|B|What term is used to describe a spread spectrum communications system in which a very fast binary bit stream is used to shift the phase of an RF carrier?
+Frequency hopping
+Direct sequence
+Binary phase-shift keying
+Phase compandored spread spectrum
+4BH-5.1|D|What is the term for the amplitude of the maximum positive excursion of a signal as viewed on an oscilloscope?
+Peak-to-peak voltage
+Inverse peak negative voltage
+RMS voltage
+Peak positive voltage
+4BH-5.2|D|What is the term for the amplitude of the maximum negative excursion of a signal as viewed on an oscilloscope?
+Peak-to-peak voltage
+Inverse peak positive voltage
+RMS voltage
+Peak negative voltage
+4BH-6A.1|A|What is the easiest voltage amplitude dimension to measure by viewing a pure sine wave signal on an oscilloscope?
+Peak-to-peak voltage
+RMS voltage
+Average voltage
+DC voltage
+4BH-6A.2|B|What is the relationship between the peak-to-peak voltage and the peak voltage amplitude in a symmetrical wave form?
+1:1
+2:1
+3:1
+4:1
+4BH-6A.3|A|What input-amplitude parameter is valuable in evaluating the signal-handling capability of a Class A amplifier?
+Peak voltage
+Average voltage
+RMS voltage
+Resting voltage
+4BI:[04/49]Antennas and Feed Lines       
+4BI-1A.1|A|What is an isotropic radiator?
+A hypothetical, omnidirectional antenna
+In the northern hemisphere, an antenna whose directive pattern is constant in southern directions
+An antenna high enough in the air that its directive pattern is substantially unaffected by the ground beneath it
+An antenna whose directive pattern is substantially  unaffected by the spacing of the elements
+4BI-1B.1|A|When is it useful to refer to an isotropic radiator?
+When comparing the gains of directional antennas
+When testing a transmission line for standing wave ratio
+When (in the northern hemisphere) directing the transmission in a southerly direction
+When using a dummy load to tune a transmitter
+4BI-1B.2|D|What theoretical reference antenna provides a comparison for antenna measurements?
+Quarter-wave vertical
+Yagi
+Bobtail curtain
+Isotropic radiator
+4BI-1B.3|B|What purpose does an isotropic radiator serve?
+It is used to compare signal strengths (at a distant point) of different transmitters
+It is used as a reference for antenna gain measurements
+It is used as a dummy load for tuning transmitters
+It is used to measure the standing-wave-ratio on a transmission line
+4BI-1B.4|B|How much gain does a 1/2-wavelength dipole have over an isotropic radiator?
+About 1.5 dB
+About 2.1 dB
+About 3.0 dB
+About 6.0 dB
+4BI-1B.5|A|How much gain does an antenna have over a 1/2-wavelength dipole when it has 6 dB gain over an isotropic radiator?
+About 3.9 dB
+About 6.0 dB
+About 8.1 dB
+About 10.0 dB
+4BI-1B.6|B|How much gain does an antenna have over a 1/2-wavelength dipole when it has 12 dB gain over an isotropic radiator?
+About 6.1 dB
+About 9.9 dB
+About 12.0 dB
+About 14.1 dB
+4BI-1C.1|D|What is the antenna pattern for an isotropic radiator?
+A figure-8
+A unidirectional cardioid
+A parabola
+A sphere
+4BI-1C.2|D|What type of directivity pattern does an isotropic radiator have?
+A figure-8
+A unidirectional cardioid
+A parabola
+A sphere
+4BI-2A.1|D|What is the radiation pattern of two 1/4-wavelength vertical antennas spaced 1/2 wavelength apart and fed 180 degrees out of phase?
+Unidirectional cardioid
+Omnidirectional
+Figure-8 broadside to the antennas
+Figure-8 end-fire in line with the antennas
+4BI-2A.2|A|What is the radiation pattern of two 1/4-wavelength vertical antennas spaced 1/4 wavelength apart and fed 90 degrees out of phase?
+Unidirectional cardioid
+Figure-8 end-fire
+Figure-8 broadside
+Omnidirectional
+4BI-2A.3|C|What is the radiation pattern of two 1/4-wavelength vertical antennas spaced 1/2 wavelength apart and fed in phase?
+Omnidirectional
+Cardioid unidirectional
+Figure-8 broadside to the antennas
+Figure-8 end-fire in line with the antennas
+4BI-2A.4|C|How far apart should two 1/4-wavelength vertical antennas be spaced in order to produce a figure-8 pattern that is broadside to the plane of the verticals when fed in phase?
+1/8 wavelength
+1/4 wavelength
+1/2 wavelength
+1 wavelength
+4BI-2A.5|A|How many 1/2 wavelengths apart should two 1/4-wavelength vertical antennas be spaced to produce a figure-8 pattern that is in line with the vertical antennas when they are fed 180 degrees out of phase?
+One half wavelength apart
+Two half wavelengths apart
+Three half wavelengths apart
+Four half wavelengths apart
+4BI-2A.6|D|What is the radiation pattern of two 1/4-wavelength vertical antennas spaced 1/4 wavelength apart and fed 180 degrees out of phase?
+Omnidirectional
+Cardioid unidirectional
+Figure-8 broadside to the antennas
+Figure-8 end-fire in line with the antennas
+4BI-2A.7|D|What is the radiation pattern for two 1/4-wavelength vertical antennas spaced 1/8 wavelength apart and fed 180 degrees out of phase?
+Omnidirectional
+Cardioid unidirectional
+Figure-8 broadside to the antennas
+Figure-8 end-fire in line with the antennas
+4BI-2A.8|A|What is the radiation pattern for two 1/4-wavelength vertical antennas spaced 1/8 wavelength apart and fed in phase? 
+Omnidirectional
+Cardioid unidirectional
+Figure-8 broadside to the antennas
+Figure-8 end-fire in line with the antennas
+4BI-2A.9|B|What is the radiation pattern for two 1/4-wavelength vertical antennas spaced 1/4 wavelength apart and fed in phase?
+Substantially unidirectional
+Elliptical
+Cardioid unidirectional
+Figure-8 end-fire in line with the antennas
+4BI-3A.1|B|What is a resonant rhombic antenna?
+A unidirectional antenna, each of whose sides is equal to half a wavelength and which is terminated in a resistance equal to its characteristic impedance
+A bidirectional antenna open at the end opposite that to which the transmission line is connected and with each side approximately equal to one wavelength
+An antenna with an LC network at each vertex (other than that to which the transmission line is connected) tuned to resonate at the operating frequency
+A high-frequency antenna, each of whose sides contains traps for changing the resonance to match the band in use
+4BI-3B.1|A|What is a nonresonant rhombic antenna?
+A unidirectional antenna terminated in a resistance equal to its characteristic impedance
+An open-ended bidirectional antenna
+An antenna resonant at approximately double the frequency of the intended band of operation
+A horizontal triangular antenna consisting of two adjacent sides and the long diagonal of a resonant rhombic antenna
+4BI-3B.2|A|What are the advantages of a nonresonant rhombic antenna?
+Wide frequency range, high gain and high front-to-back ratio
+High front-to-back ratio, compact size and high gain
+Unidirectional radiation pattern, high gain and compact size
+Bidirectional radiation pattern, high gain and wide frequency range
+4BI-3B.3|D|What are the disadvantages of a nonresonant rhombic antenna?
+It requires a large area for proper installation and has a narrow bandwidth
+It requires a large area for proper installation and has a low front-to-back ratio 
+It requires a large amount of aluminum tubing and has a low front-to-back ratio
+It requires a large area and four sturdy supports for proper installation
+4BI-3B.4|D|What is the characteristic impedance at the input of a nonresonant rhombic antenna?
+50 to 55 ohms
+70 to 75 ohms
+300 to 350 ohms
+700 to 800 ohms
+4BI-3C.1|B|What is the effect of a terminating resistor on a rhombic antenna?
+It reflects the standing waves on the antenna elements back to the transmitter
+It changes the radiation pattern from essentially bidirectional to essentially unidirectional
+It changes the radiation pattern from horizontal to vertical polarization
+It decreases the ground loss
+4BI-3C.2|C|What should be the value of the terminating resistor on a rhombic antenna?
+About 50 ohms
+About 75 ohms
+About 800 ohms
+About 1800 ohms
+4BI-4A.1|A|What factors determine the receiving antenna gain required at an amateur station in earth operation?
+Height, transmitter power and antennas of satellite
+Length of transmission line and impedance match between receiver and transmission line
+Preamplifier location on transmission line and presence or absence of RF amplifier stages
+Height of earth antenna and satellite orbit
+4BI-4A.2|A|What factors determine the EIRP required by an amateur station in earth operation?
+Satellite antennas and height, satellite receiver sensitivity
+Path loss, earth antenna gain, signal-to-noise ratio
+Satellite transmitter power and orientation of ground receiving antenna
+Elevation of satellite above horizon, signal-to-noise ratio, satellite transmitter power
+4BI-4A.3|B|What factors determine the EIRP required by an amateur station in telecommand operation?
+Path loss, earth antenna gain, signal-to-noise ratio
+Satellite antennas and height, satellite receiver sensitivity
+Satellite transmitter power and orientation of ground receiving antenna
+Elevation of satellite above horizon, signal-to-noise ratio, satellite transmitter power
+4BI-4A.4|C|How does the gain of a parabolic dish type antenna change when the operating frequency is doubled?
+Gain does not change
+Gain is multiplied by 0.707
+Gain increases 6 dB
+Gain increases 3 dB
+4BI-4B.1|D|What happens to the beamwidth of an antenna as the gain is increased?
+The beamwidth increases geometrically as the gain is increased
+The beamwidth increases arithmetically as the gain is increased
+The beamwidth is essentially unaffected by the gain of the antenna
+The beamwidth decreases as the gain is increased
+4BI-4B.2|B|What is the beamwidth of a symmetrical pattern antenna with a gain of 20 dB as compared to an isotropic radiator?
+10.1 degrees
+20.3 degrees
+45.0 degrees
+60.9 degrees
+4BI-4B.3|B|What is the beamwidth of a symmetrical pattern antenna with a gain of 30 dB as compared to an isotropic radiator?
+3.2 degrees
+6.4 degrees
+37 degrees
+60.4 degrees
+4BI-4B.4|C|What is the beamwidth of a symmetrical pattern antenna with a gain of 15 dB as compared to an isotropic radiator?
+72 degrees
+52 degrees
+36.1 degrees
+3.61 degrees
+4BI-4B.5|D|What is the beamwidth of a symmetrical pattern antenna with a gain of 12 dB as compared to an isotropic radiator?
+34.8 degrees
+45.0 degrees
+58.0 degrees
+51.0 degrees
+4BI-4C.1|C|How is circular polarization produced using linearly-polarized antennas?
+Stack two Yagis, fed 90 degrees out of phase, to form an array with the respective elements in parallel planes
+Stack two Yagis, fed in phase, to form an array with the respective elements in parallel planes
+Arrange two Yagis perpendicular to each other, with the driven elements in the same plane, fed 90 degrees out of phase
+Arrange two Yagis perpendicular to each other, with the driven elements in the same plane, fed in phase
+4BI-4C.2|C|Why does an antenna system for earth operation (for communications through a satellite) need to have rotators for both azimuth and elevation control?
+In order to point the antenna above the horizon to avoid terrestrial interference
+Satellite antennas require two rotators because they are so large and heavy
+In order to track the satellite as it orbits the earth      
+The elevation rotator points the antenna at the satellite and the azimuth rotator changes the antenna polarization
+4BI-5.1|B|What term describes a method used to match a high-impedance transmission line to a lower impedance antenna by connecting the line to the driven element in two places, spaced a fraction of a wavelength on each side of the driven element center?
+The gamma matching system
+The delta matching system
+The omega matching system
+The stub matching system
+4BI-5.2|A|What term describes an unbalanced feed system in which the driven element is fed both at the center of that element and a fraction of a wavelength to one side of center?
+The gamma matching system
+The delta matching system
+The omega matching system
+The stub matching system
+4BI-5.3|D|What term describes a method of antenna impedance matching that uses a short section of transmission line connected to the antenna feed line near the antenna and perpendicular to the feed line?
+The gamma matching system
+The delta matching system
+The omega matching system
+The stub matching system
+4BI-5.4|B|What should be the approximate capacitance of the resonating capacitor in a gamma matching circuit on a 1/2-wavelength dipole antenna for the 20-meter wavelength band?
+70 pF
+140 pF
+200 pF
+0.2 pF
+4BI-5.5|A|What should be the approximate capacitance of the resonating capacitor in a gamma matching circuit on a 1/2-wavelength dipole antenna for the 10-meter wavelength band?
+70 pF
+140 pF
+200 pF
+0.2 pF
+4BI-6A.1|C|What kind of impedance does a 1/8-wavelength transmission line present to a generator when the line is shorted at the far end?
+A capacitive reactance
+The same as the characteristic impedance of the line
+An inductive reactance
+The same as the input impedance to the final generator stage
+4BI-6A.2|C|What kind of impedance does a 1/8-wavelength transmission line present to a generator when the line is open at the far end?
+The same as the characterZ>Wkimpedance of the line
+An inductive reactance
+A capacitive reactance
+The same as the input impedance of the final generator stage
+4BI-6B.1|A|What kind of impedance does a 1/4-wavelength transmission line present to a generator when the line is shorted at the far end?
+A very high impedance
+A very low impedance
+The same as the characteristic impedance of the transmission line
+The same as the generator output impedance
+4BI-6B.2|B|What kind of impedance does a 1/4-wavelength transmission line present to a generator when the line is open at the far end?
+A very high impedance
+A very low impedance
+The same as the characteristic impedance of the line
+The same as the input impedance to the final generator stage
+4BI-6C.1|C|What kind of impedance does a 3/8-wavelength transmission line present to a generator when the line is shorted at the far end?
+The same as the characteristic impedance of the line
+An inductive reactance
+A capacitive reactance
+The same as the input impedance to the final generator stage
+4BI-6C.2|C|What kind of impedance does a 3/8-wavelength transmission line present to a generator when the line is open at the far end?
+A capacitive reactance
+The same as the characteristic impedance of the line
+An inductive reactance
+The same as the input impedance to the final generator stage
+4BI-6D.1|B|What kind of impedance does a 1/2-wavelength transmission line present to a generator when the line is shorted at the far end?
+A very high impedance
+A very low impedance
+The same as the characteristic impedance of the line
+The same as the output impedance of the generator
+4BI-6D.2|A|What kind of impedance does a 1/2-wavelength transmission line present to a generator when the line is open at the far end?
+A very high impedance
+A very low impedance
+The same as the characteristic impedance of the line
+The same as the output impedance of the generator
+

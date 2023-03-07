@@ -1,0 +1,45 @@
+C:\JEFF\HAMEXAM\HAMEXAM.LOG created 09:00 AM	Wednesday July 12
+
+-------------------------------------------------------------------------------
+C:\JEFF\HAMEXAM\HAMEXAM.EXE loaded 09:00 AM	Wednesday July 12
+
+***************************************************************************
+                        YOUR PROGRAM'S data usage
+***************************************************************************
+
+  Stack Usage:
+      stack space available           stack space used
+      ---------------------           ----------------
+      07968                           03142
+
+HAMEXAM
+  Memory used (in bytes):
+      Local Heap                      Global Heap
+      ----------                      -----------
+      01047                           182931
+
+
+  Resource leaks:
+      Windows Function                Call Stack
+      ----------------                ----------
+      KERNEL!LOADLIBRARY              Routine: __fpreset
+
+
+
+***************************************************************************
+                 GDI data usage on your program's behalf
+***************************************************************************
+
+  Memory used (in bytes):
+      Local Heap                      Global Heap
+      ----------                      -----------
+      01526                           306976
+
+***************************************************************************
+                USER data usage on your program's behalf
+***************************************************************************
+
+  Memory used (in bytes):
+      Local Heap                      Global Heap
+      ----------                      -----------
+      03932                           01440

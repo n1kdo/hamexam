@@ -1,0 +1,1476 @@
+G1A:[01/21]General Control Operator frequency priveleges; local control, repeater and harmful interference definitions, third-party communications
+G1A01|C|What are the frequency limits for General class operators in the 160-meter band?
+1800 - 1900 kHz
+1900 - 2000 kHz
+1800 - 2000 kHz
+1825 - 2000 kHz
+G1A02|A|What are the frequency limits for General class operators in the 75/80-meter band (ITU Region 2)?
+3525 - 3750 kHz and 3850 - 4000 kHz
+3525 - 3775 kHz and 3875 - 4000 kHz
+3525 - 3750 kHz and 3875 - 4000 kHz
+3525 - 3775 kHz and 3850 - 4000 kHz
+G1A03|D|What are the frequency limits for General class operators in the 40-meter band (ITU Region 2)?
+7025 - 7175 kHz and 7200 - 7300 kHz
+7025 - 7175 kHz and 7225 - 7300 kHz
+7025 - 7150 kHz and 7200 - 7300 kHz
+7025 - 7150 kHz and 7225 - 7300 kHz
+G1A04|A|What are the frequency limits for General class operators in the 30-meter band?
+10100 - 10150 kHz
+10100 - 10175 kHz
+10125 - 10150 kHz
+10125 - 10175 kHz
+G1A05|B|What are the frequency limits for General class operators in the 20-meter band?
+14025 - 14100 kHz and 14175 - 14350 kHz
+14025 - 14150 kHz and 14225 - 14350 kHz
+14025 - 14125 kHz and 14200 - 14350 kHz
+14025 - 14175 kHz and 14250 - 14350 kHz
+G1A06|D|What are the frequency limits for General class operators in the 15-meter band?
+21025 - 21200 kHz and 21275 - 21450 kHz
+21025 - 21150 kHz and 21300 - 21450 kHz
+21025 - 21150 kHz and 21275 - 21450 kHz
+21025 - 21200 kHz and 21300 - 21450 kHz
+G1A07|A|What are the frequency limits for General class operators in the 12-meter band?
+24890 - 24990 kHz
+24890 - 24975 kHz
+24900 - 24990 kHz
+24900 - 24975 kHz
+G1A08|A|What are the frequency limits for General class operators in the 10-meter band?
+28000 - 29700 kHz
+28025 - 29700 kHz
+28100 - 29600 kHz
+28125 - 29600 kHz
+G1A09|A|What are the frequency limits within the 160-meter band for phone emissions?
+1800 - 2000 kHz
+1800 - 1900 kHz
+1825 - 2000 kHz
+1825 - 1900 kHz
+G1A10|C|What are the frequency limits within the 80-meter band in ITU Region 2 for CW emissions?
+3500 - 3750 kHz
+3700 - 3750 kHz
+3500 - 4000 kHz
+3890 - 4000 kHz
+G1A11|D|What are the frequency limits within the 40-meter band in ITU Region 2 for image emissions?
+7225 - 7300 kHz
+7000 - 7150 kHz
+7100 - 7150 kHz
+7150 - 7300 kHz
+G1A12|C|What are the frequency limits within the 30-meter band for RTTY emissions?
+10125 - 10150 kHz
+10125 - 10140 kHz
+10100 - 10150 kHz
+10100 - 10140 kHz
+G1A13|B|What are the frequency limits within the 20-meter band for image emissions?
+14025 - 14300 kHz
+14150 - 14350 kHz
+14025 - 14350 kHz
+14150 - 14300 kHz
+G1A14|C|What are the frequency limits within the 15-meter band for image emissions?
+21250 - 21300 kHz
+21150 - 21450 kHz
+21200 - 21450 kHz
+21100 - 21300 kHz
+G1A15|C|What are the frequency limits within the 12-meter band for phone emissions?
+24890 - 24990 kHz
+24890 - 24930 kHz
+24930 - 24990 kHz
+Phone emissions are not permitted in this band
+G1A16|C|What are the frequency limits within the 10-meter band for phone emissions?
+28000 - 28300 kHz
+29000 - 29700 kHz
+28300 - 29700 kHz
+28000 - 29000 kHz
+G1A17|B|As a General class control operator at a Novice station, how must you identify your station when transmitting on 7250 kHz?
+With your call sign, followed by the word "controlling" and the Novice call sign
+With the Novice call sign, followed by the slant bar "/" (or any suitable word) and your own call sign
+With your call sign, followed by the slant bar "/" (or any suitable word) and the Novice call sign
+A Novice station should not be operated on 7250 kHz, even with a General control operator
+G1A18|D|Under what circumstances may a 10-meter repeater retransmit the 2-meter signal from a Technician class operator?
+Under no circumstances
+Only if the station on 10 meters is operating under a Special Temporary Authorization allowing such retransmission
+Only during an FCC-declared general state of communications emergency
+Only if the 10-meter control operator holds at least a General class license
+G1A19|A|What kind of amateur station automatically retransmits the signals of other stations?
+Repeater station
+Space station
+Telecommand station
+Relay station
+G1A20|B|What name is given to a form of interference that seriously degrades, obstructs or repeatedly interrupts a radiocommunication service?
+Intentional interference
+Harmful interference
+Adjacent interference
+Disruptive interference
+G1A21|C|What types of messages may be transmitted by an amateur station to a foreign country for a third party?
+Messages for which the amateur operator is paid
+Messages facilitating the business affairs of any party
+Messages of a technical nature or remarks of a personal character
+No messages may be transmitted to foreign countries for third parties
+G1B:[01/11]Antenna structure limitations, good engineering and good amateur practice; beacon operation; restricted operation; retransmitting radio signals 
+G1B01|C|Up to what height above the ground may you install an antenna structure without needing FCC approval?
+50 feet
+100 feet
+200 feet
+300 feet
+G1B02|B|If the FCC Rules DO NOT specifically cover a situation, how must you operate your amateur station?
+In accordance with general licensee operator principles
+In accordance with good engineering and good amateur practice
+In accordance with practices adopted by the Institute of Electrical and Electronics Engineers
+In accordance with procedures set forth by the International Amateur Radio Union
+G1B03|B|Which type of station may transmit one-way communications?
+Repeater station
+Beacon station
+HF station
+VHF station
+G1B04|A|Which of the following does NOT need to be true if an amateur station gathers news information for broadcast purposes?
+The information is more quickly transmitted by amateur radio
+The information must involve the immediate safety of life of individuals or the immediate protection of property
+The information must be directly related to the event
+The information cannot be transmitted by other means
+G1B05|D|Under what limited circumstances may  music be transmitted by an amateur station?
+When it produces no dissonances or spurious emissions
+When it is used to jam an illegal transmission
+When it is transmitted on frequencies above 1215 MHz
+When it is an incidental part of a space shuttle retransmission
+G1B06|C|When may an amateur station in two-way communication transmit a message in a secret code in order to obscure the meaning of the communication?
+When transmitting above 450 MHz
+During contests
+Never
+During a declared communications emergency
+G1B07|B|What are the restrictions on the use of abbreviations or procedural signals in the amateur service?
+There are no restrictions
+They may be used if they do not obscure the meaning of a message
+They are not permitted because they obscure the meaning of a message to FCC monitoring stations
+Only "10-codes" are permitted
+G1B08|A|When are codes or ciphers permitted in two-way domestic amateur communications?
+Never
+During contests
+During nationally declared emergencies
+On frequencies above 2.3 GHz
+G1B09|A|When are codes or ciphers permitted in two-way international amateur communications?
+Never
+During contests
+During internationally declared emergencies
+On frequencies above 2.3 GHz
+G1B10|D|Which of the following amateur transmissions is NOT prohibited by the FCC Rules?
+The playing of music
+The use of obscene or indecent words
+False or deceptive messages or signals
+Retransmission of space shuttle communications
+G1B11|C|What should you do to keep your station from retransmitting music or signals from a non-amateur station?
+Turn up the volume of your transceiver
+Speak closer to the microphone to increase your signal strength
+Turn down the volume of background audio
+Adjust your transceiver noise blanker
+G1C:[01/11]Transmitter power standards; type acceptance of external RF-power amplifiers; standards for type acceptance of external RF-power amplifiers; HF data emission standards
+G1C01|A|What is the maximum transmitting power an amateur station may use on 3690 kHz?
+200 watts PEP output
+1000 watts PEP output
+1500 watts PEP output
+2000 watts PEP output
+G1C02|C|What is the maximum transmitting power an amateur station may use on 7080 kHz?
+200 watts PEP output
+1000 watts PEP output
+1500 watts PEP output
+2000 watts PEP output
+G1C03|A|What is the maximum transmitting power an amateur station may use on 10.140 MHz?
+200 watts PEP output
+1000 watts PEP output
+1500 watts PEP output
+2000 watts PEP output
+G1C04|A|What is the maximum transmitting power an amateur station may use on 21.150 MHz?
+200 watts PEP output
+1000 watts PEP output
+1500 watts PEP output
+2000 watts PEP output
+G1C05|C|What is the maximum transmitting power an amateur station may use on 24.950 MHz?
+200 watts PEP output
+1000 watts PEP output
+1500 watts PEP output
+2000 watts PEP output
+G1C06|D|External RF power amplifiers designed to operate below what frequency may require FCC type acceptance?
+28 MHz
+35 MHz
+50 MHz
+144 MHz
+G1C07|B|Without a grant of FCC type acceptance, how many external RF amplifiers of a given design capable of operation below 144 MHz may you build or modify in one calendar year?
+None
+1
+5
+10
+G1C08|B|Which of the following standards must be met if FCC type acceptance of an external RF amplifier is required?
+The amplifier must not be able to amplify a 28-MHz signal to more than ten times the input power
+The amplifier must not be capable of reaching its designed output power when driven with less than 50 watts
+The amplifier must not be able to be operated for more than ten minutes without a time delay circuit
+The amplifier must not be able to be modified by an amateur operator
+G1C09|D|Which of the following would NOT disqualify an external RF power amplifier from being granted FCC type acceptance?
+The capability of being modified by the operator for use outside the amateur bands
+The capability of achieving full output power when driven with less than 50 watts
+The capability of achieving full output power on amateur frequencies between 24 and 35 MHz
+The capability of being switched by the operator to all amateur frequencies below 24 MHz
+G1C10|A|What is the maximum symbol rate permitted for packet emissions below 28 MHz?
+300 bauds
+1200 bauds
+19.6 kilobauds
+56 kilobauds
+G1C11|D|What is the maximum symbol rate permitted for RTTY emissions below 28 MHz?
+56 kilobauds
+19.6 kilobauds
+1200 bauds
+300 bauds
+G1D:[01/11]Examination element preparation; examination administration, temporary station identification
+G1D01|B|What telegraphy examination elements may you prepare if you hold a General class license?
+None
+Element 1A only
+Element 1B only
+Elements 1A and 1B
+G1D02|C|What written examination elements may you prepare if you hold a General class license?
+None
+Element 2 only
+Elements 2 and 3A
+Elements 2, 3A and 3B
+G1D03|C|What license examinations may you administer if you hold a General class license?
+None
+Novice only
+Novice and Technician
+Novice, Technician and General
+G1D04|B|What minimum examination elements must an applicant pass for a Novice license?
+Element 2 only
+Elements 1A and 2
+Elements 2 and 3A
+Elements 1A, 2 and 3A
+G1D05|C|What minimum examination elements must an applicant pass for a Technician license?
+Element 2 only
+Elements 1A and 2
+Elements 2 and 3A
+Elements 1A, 2 and 3A
+G1D06|D|What minimum examination elements must an applicant pass for a Technician license with HF privileges?
+Element 2 only
+Elements 1A and 2
+Elements 2 and 3A
+Elements 1A, 2 and 3A
+G1D07|A|What are the requirements for administering Novice examinations?
+Three VEC-accredited General class or higher VEs must be present
+Two VEC-accredited General class or higher VEs must be present
+Two General class or higher VEs must be present, but only one need be VEC accredited
+Any two General class or higher VEs must be present
+G1D08|D|When may you participate as an administering Volunteer Examiner (VE) for a Novice license examination?
+Once you have notified the FCC that you want to give an examination
+Once you have a Certificate of Successful Completion of Examination (CSCE) for General class
+Once you have prepared telegraphy and written examinations for the Novice license, or obtained them from a qualified supplier
+Once you have received both your FCC-issued General class or higher license in the mail and VEC accreditation
+G1D09|B|If you are a Technician licensee with a Certificate of Successful Completion of Examination (CSCE) for General privileges, how do you identify your station when transmitting on 14.035 MHz?
+You must give your call sign and the location of the VE examination where you obtained the CSCE
+You must give your call sign, followed by the slant mark "/", followed by the identifier "AG"
+You may not operate on 14.035 MHz until your new license arrives
+No special form of identification is needed
+G1D10|C|If you are a Technician licensee with a Certificate of Successful Completion of Examination (CSCE) for General privileges, how do you identify your station when transmitting phone emissions on 14.325 MHz?
+No special form of identification is needed
+You may not operate on 14.325 MHz until your new license arrives
+You must give your call sign, followed by any suitable word that denotes the slant mark and the identifier "AG"
+You must give your call sign and the location of the VE examination where you obtained the CSCE
+G1D11|A|If you are a Technician licensee with a Certificate of Successful Completion of Examination (CSCE) for General privileges, when must you add the special identifier "AG" after your call sign?
+Whenever you operate using your new frequency privileges
+Whenever you operate
+Whenever you operate using Technician frequency privileges
+A special identifier is not required as long as your General class license application has been filed with the FCC
+G2A:[01/11]Phone, RTTY, repeater, VOX, and full break-in CW
+G2A01|A|Which sideband is commonly used for 20-meter phone operation?
+Upper
+Lower
+Amplitude compandored
+Double
+G2A02|B|Which sideband is commonly used on 3925-kHz for phone operation?
+Upper
+Lower
+Amplitude compandored
+Double
+G2A03|A|In what segment of the 80-meter band do most RTTY transmissions take place?
+3610 - 3630 kHz
+3500 - 3525 kHz
+3700 - 3750 kHz
+3775 - 3825 kHz
+G2A04|B|In what segment of the 20-meter band do most RTTY transmissions take place?
+14.000 - 14.050 MHz
+14.075 - 14.100 MHz
+14.150 - 14.225 MHz
+14.275 - 14.350 MHz
+G2A05|C|What is the Baudot code?
+A 7-bit code, with start, stop and parity bits
+A 7-bit code in which each character has four mark and three space bits
+A 5-bit code, with additional start and stop bits
+A 6-bit code, with additional start, stop and parity bits
+G2A06|A|What is ASCII?
+A 7-bit code, with additional start, stop and parity bits
+A 7-bit code in which each character has four mark and three space bits
+A 5-bit code, with additional start and stop bits
+A 5-bit code in which each character has three mark and two space bits
+G2A07|B|What is the most common frequency shift for RTTY emissio7s in the amateur HF bands?
+85 Hz
+170 Hz
+425 Hz
+850 Hz
+G2A08|B|What are the two major AMTOR operating modes?
+Mode AM and Mode TR
+Mode A (ARQ) and Mode B (FEC)
+Mode C (CRQ) and Mode D (DEC)
+Mode SELCAL and Mode LISTEN
+G2A09|A|What is the usual input/output frequency separation for a 10-meter station in repeater operation?
+100 kHz
+600 kHz
+1.6 MHz
+170 Hz
+G2A10|B|What is the circuit called which causes a transmitter to automatically transmit when an operator speaks into its microphone?
+VXO
+VOX
+VCO
+VFO
+G2A11|D|Which of the following describes full break-in telegraphy?
+Breaking stations send the Morse code prosign BK
+Automatic keyers are used to send Morse code instead of hand keys
+An operator must activate a manual send/receive switch before and after every transmission
+Incoming signals are received between transmitted key pulses
+G2B:[01/11]Operating courtesy, antenna orientation and HF operations, including logging practices; ITU regions
+G2B01|D|If you are the net control station of a daily HF net, what should you do if the frequency on which you normally meet is in use just before the net begins?
+Reduce your output power and start the net as usual
+Increase your power output so that net participants will be able to hear you over the existing activity
+Cancel the net for that day
+Conduct the net on a frequency 3 to 5 kHz away from the regular net frequency
+G2B02|A|If a net is about to begin on a frequency which you and another station are using, what should you do?
+As a courtesy to the net, move to a different frequency
+Increase your power output to ensure that all net participants can hear you
+Transmit as long as possible on the frequency so that no other stations may use it
+Turn off your radio
+G2B03|D|If propagation changes during your contact and you notice increasing interference from other activity on the same frequency, what should you do?
+Tell the interfering stations to change frequency, since you were there first
+Report the interference to your local Amateur Auxiliary Coordinator
+Turn on your amplifier to overcome the interference
+Move your contact to another frequency
+G2B04|B|When selecting a CW transmitting frequency, what minimum frequency separation from a contact in progress should you allow to minimize interference?
+5 to 50 Hz
+150 to 500 Hz
+1 to 3 kHz
+3 to 6 kHz
+G2B05|B|When selecting a single-sideband phone transmitting frequency, what minimum frequency separation from a contact in progress should you allow (between suppressed carriers) to minimize interference?
+150 to 500 Hz
+Approximately 3 kHz
+Approximately 6 kHz
+Approximately 10 kHz
+G2B06|B|When selecting a RTTY transmitting frequency, what minimum frequency separation from a contact in progress should you allow (center to center) to minimize interference?
+60 Hz
+250 to 500 Hz
+Approximately 3 kHz
+Approximately 6 kHz
+G2B07|B|What is an azimuthal map?
+A map projection centered on the North Pole
+A map projection centered on a particular location, used to determine the shortest path between points on the surface of the earth
+A map that shows the angle at which an amateur satellite crosses the equator
+A map that shows the number of degrees longitude that an amateur satellite appears to move westward at the equator with each orbit
+G2B08|A|What is the most useful type of map to use when orienting a directional HF antenna toward a distant station?
+Azimuthal
+Mercator
+Polar projection
+Topographical
+G2B09|C|A directional antenna pointed in the long-path direction to another station is generally oriented how many degrees from its short-path heading?
+45 degrees
+90 degrees
+180 degrees
+270 degrees
+G2B10|A|What is a band plan?
+A guideline for using different operating modes within an amateur band
+A guideline for deviating from FCC amateur frequency band allocations
+A plan of operating schedules within an amateur band published by the FCC
+A plan devised by a club to best use a frequency band during a contest
+G2B11|B|In which International Telecommunication Union Region is the continental United States?
+Region 1
+Region 2
+Region 3
+Region 4
+G2C:[01/11]Emergencies, including drills, communications and amateur auxiliary to FOB
+G2C01|C|What means may an amateur station in distress use to attract attention, make known its condition and location, and obtain assistance?
+Only Morse code signals sent on internationally recognized emergency channels
+Any means of radiocommunication, but only on internationally recognized emergency channels
+Any means of radiocommunication
+Only those means of radiocommunication for which the station is licensed
+G2C02|A|During a disaster in the US, when may an amateur station make transmissions necessary to meet essential communication needs and assist relief operations?
+When normal communication systems are overloaded, damaged or disrupted
+Only when the local RACES net is activated
+Never; only official emergency stations may transmit in a disaster
+When normal communication systems are working but are not convenient
+G2C03|A|If a disaster disrupts normal communications in your area, what may the FCC do?
+Declare a temporary state of communication emergency
+Temporarily seize your equipment for use in disaster communications
+Order all stations across the country to stop transmitting at once
+Nothing until the President declares the area a disaster area
+G2C04|D|If a disaster disrupts normal communications in an area, what would the FCC include in any notice of a temporary state of communication emergency?
+Any additional test questions needed for the licensing of amateur emergency communications workers
+A list of organizations authorized to temporarily seize your equipment for disaster communications
+Any special conditions requiring the use of non-commercial power systems
+Any special conditions and special rules to be observed by stations during the emergency
+G2C05|D|During an emergency, what power output limitations must be observed by a station in distress?
+200 watts PEP
+1500 watts PEP
+1000 watts PEP during daylight hours, reduced to 200 watts PEP during the night
+There are no limitations during an emergency
+G2C06|C|During a disaster in the US, what frequencies may be used to obtain assistance?
+Only frequencies in the 80-meter band
+Only frequencies in the 40-meter band
+Any frequency
+Any United Nations approved frequency
+G2C07|B|If you are communicating with another amateur station and hear a station in distress break in, what should you do?
+Continue your communication because you were on frequency first
+Acknowledge the station in distress and determine its location and what assistance may be needed
+Change to a different frequency so the station in distress may have a clear channel to call for assistance
+Immediately cease all transmissions because stations in distress have emergency rights to the frequency
+G2C08|A|Why do stations in the Radio Amateur Civil Emergency Service (RACES) participate in training tests and drills?
+To practice orderly and efficient operations for the civil defense organization they serve
+To ensure that members attend monthly on-the-air meetings
+To ensure that RACES members are able to conduct tests and drills
+To acquaint members of RACES with other members they may meet in an emergency
+G2C09|C|What type of messages may be transmitted to an amateur station in a foreign country?
+Messages of any type
+Messages that are not religious, political, or patriotic in nature
+Messages of a technical nature or personal remarks of relative unimportance
+Messages of any type, but only if the foreign country has a third-party communications agreement with the US
+G2C10|A|What is the Amateur Auxiliary to the FCC's Field Operations Bureau?
+Amateur volunteers who are formally enlisted to monitor the airwaves for rules violations
+Amateur volunteers who conduct amateur licensing examinations
+Amateur volunteers who conduct frequency coordination for amateur VHF repeaters
+Amateur volunteers who use their station equipment to help civil defense organizations in times of emergency
+G2C11|B|What are the objectives of the Amateur Auxiliary to the FCC's Field Operations Bureau?
+To conduct efficient and orderly amateur licensing examinations
+To encourage amateur self-regulation and compliance with the rules
+To coordinate repeaters for efficient and orderly spectrum usage
+To provide emergency and public safety communications
+G3A:[01/11]Ionospheric disturbances; sunspots and solar radiation
+G3A01|A|What can be done at an amateur station to continue communications during a sudden ionospheric disturbance?
+Try a higher frequency
+Try the other sideband
+Try a different antenna polarization
+Try a different frequency shift
+G3A02|B|What effect does a sudden ionospheric disturbance have on the daylight ionospheric propagation of HF radio waves?
+It disrupts higher-latitude paths more than lower-latitude paths
+It disrupts signals on lower frequencies more than those on higher frequencies
+It disrupts communications via satellite more than direct communications
+None, only areas on the night side of the earth are affected
+G3A03|C|How long does it take the increased ultraviolet and X-ray radiation from solar flares to affect radio-wave propagation on the earth?
+The effect is instantaneous
+1.5 seconds
+8 minutes
+20 to 40 hours
+G3A04|B|What is solar flux?
+The density of the sun's magnetic field
+The radio energy emitted by the sun
+The number of sunspots on the side of the sun facing the earth
+A measure of the tilt of the earth's ionosphere on the side toward the sun
+G3A05|D|What is the solar-flux index?
+A measure of solar activity that is taken annually
+A measure of solar activity that compares daily readings with results from the last six months
+Another name for the American sunspot number
+A measure of solar activity that is taken at a specific frequency
+G3A06|D|What is a geomagnetic disturbance?
+A sudden drop in the solar-flux index
+A shifting of the earth's magnetic pole
+Ripples in the ionosphere
+A dramatic change in the earth's magnetic field over a short period of time
+G3A07|A|At which latitudes are propagation paths more sensitive to geomagnetic disturbances?
+Those greater than 45 degrees latitude
+Those between 5 and 45 degrees latitude
+Those near the equator
+All paths are affected equally
+G3A08|B|What can be the effect of a major geomagnetic storm on radio-wave propagation?
+Improved high-latitude HF propagation
+Degraded high-latitude HF propagation
+Improved ground-wave propagation
+Improved chances of UHF ducting
+G3A09|A|What influences all radio communication beyond ground-wave or line-of-sight ranges?
+Solar activity
+Lunar tidal effects
+The F1 region of the ionosphere
+The F2 region of the ionosphere
+G3A10|B|Which two types of radiation from the sun influence propagation?
+Subaudible- and audio-frequency emissions
+Electromagnetic and particle emissions
+Polar-region and equatorial emissions
+Infrared and gamma-ray emissions
+G3A11|C|When sunspot numbers are high, how is the ionosphere affected?
+High-frequency radio signals are absorbed
+Frequencies up to 100 MHz or higher are normally usable for long-distance communication
+Frequencies up to 40 MHz or higher are normally usable for long-distance communication
+High-frequency radio signals become weak and distorted
+G3B:[01/11]Maximum usable frequency, propagation "hops"
+G3B01|B|If the maximum usable frequency on the path from Minnesota to France is 22 MHz, which band should offer the best chance for a successful contact?
+10 meters
+15 meters
+20 meters
+40 Meters
+G3B02|C|If the maximum usable frequency on the path from Ohio to Germany is 17 MHz, which band should offer the best chance for a successful contact?
+80 meters
+40 meters
+20 meters
+ 2 meters
+G3B03|C|If the maximum usable frequency (MUF) is high and HF radio-wave propagation is generally good for several days, a similar condition can usually be expected how many days later?
+7
+14
+28
+90
+G3B04|A|What is one way to determine if the maximum usable frequency (MUF) is high enough to support 28-MHz propagation between your station and western Europe?
+Listen for signals on the 10-meter beacon frequency
+Listen for signals on the 20-meter beacon frequency
+Listen for signals on the 39-meter broadcast frequency
+Listen for WWVH time signals on 20 MHz
+G3B05|A|What usually happens to radio waves with frequencies below the maximum usable frequency (MUF) when they are sent into the ionosphere?
+They are bent back to the earth
+They pass through the ionosphere
+They are completely absorbed by the ionosphere
+They are changed to a frequency above the MUF
+G3B06|C|Where would you tune to hear beacons that would help you determine propagation conditions on the 20-meter band?
+28.2 MHz
+21.1 MHz
+14.1 MHz
+14.2 MHz
+G3B07|D|During periods of low solar activity, which frequencies are the least reliable for long-distance communication?
+Frequencies below 3.5 MHz
+Frequencies near 3.5 MHz
+Frequencies on or above 10 MHz
+Frequencies above 20 MHz
+G3B08|D|At what point in the solar cycle does the 20-meter band usually support worldwide propagation during daylight hours?
+At the summer solstice
+Only at the maximum point of the solar cycle
+Only at the minimum point of the solar cycle
+At any point in the solar cycle
+G3B09|A|What is one characteristic of gray-line propagation?
+It is very efficient
+It improves local communications
+It is very poor
+It increases D-region absorption
+G3B10|C|What is the maximum distance along the earth's surface that is normally covered in one hop using the F2 region?
+180 miles
+1200 miles
+2500 miles
+None; the F2 region does not support radio-wave propagation
+G3B11|B|What is the maximum distance along the earth's surface that is normally covered in one hop using the E region?
+180 miles
+1200 miles
+2500 miles
+None; the E region does not support radio-wave propagation
+G3C:[01/11]Height of ionospheric regions, critical angle and frequency, HF scatter
+G3C01|B|What is the average height of maximum ionization of the E region?
+45 miles
+70 miles
+200 miles
+1200 miles
+G3C02|A|When can the F2 region be expected to reach its maximum height at your location?
+At noon during the summer
+At midnight during the summer
+At dusk in the spring and fall
+At noon during the winter
+G3C03|C|Why is the F2 region mainly responsible for the longest-distance radio-wave propagation?
+Because it exists only at night
+Because it is the lowest ionospheric region
+Because it is the highest ionospheric region
+Because it does not absorb radio waves as much as other ionospheric regions
+G3C04|D|What is the "critical angle" as used in radio-wave propagation?
+The lowest takeoff angle that will return a radio wave to the earth under specific ionospheric conditions
+The compass direction of a distant station
+The compass direction opposite that of a distant station
+The highest takeoff angle that will return a radio wave to the earth under specific ionospheric conditions
+G3C05|C|What is the main reason the 160-, 80- and 40-meter amateur bands tend to be useful only for short-distance communications during daylight hours?
+Because of a lack of activity
+Because of auroral propagation
+Because of D-region absorption
+Because of magnetic flux
+G3C06|B|What is a characteristic of HF scatter signals?
+High intelligibility
+A wavering sound
+Reversed modulation
+Reversed sidebands
+G3C07|D|What makes HF scatter signals often sound distorted?
+Auroral activity and changes in the earth's magnetic field
+Propagation through ground waves that absorb much of the signal
+The state of the E-region at the point of refraction
+Energy scattered into the skip zone through several radio-wave paths
+G3C08|A|Why are HF scatter signals usually weak?
+Only a small part of the signal energy is scattered into the skip zone
+Auroral activity absorbs most of the signal energy
+Propagation through ground waves absorbs most of the signal energy
+The F region of the ionosphere absorbs most of the signal energy
+G3C09|B|What type of radio-wave propagation allows a signal to be detected at a distance too far for ground-wave propagation but too near for normal sky-wave propagation?
+Ground wave
+Scatter
+Sporadic-E skip
+Short-path skip
+G3C10|D|When does scatter propagation on the HF bands most often occur?
+When the sunspot cycle is at a minimum and D-region absorption is high
+At night
+When the F1 and F2 regions are combined
+When communicating on frequencies above the maximum usable frequency (MUF)
+G3C11|A|What type of signal fading occurs when two or more parts of a radio wave follow different paths?
+Multipath interference
+Multimode interference
+Selective Interference
+Ionospheric interference
+G4A:[01/11]Two-tone test; electronic TR switch, amplifier neutralization
+G4A01|C|What kind of input signal is used to test the amplitude linearity of a single-sideband phone transmitter while viewing the output on an oscilloscope?
+Normal speech
+An audio-frequency sine wave
+Two audio-frequency sine waves
+An audio-frequency square wave
+G4A02|C|When testing the amplitude linearity of a single-sideband transmitter, what kind of audio tones are fed into the microphone input and on what kind of instrument is the output observed?
+Two harmonically related tones are fed in, and the output is observed on an oscilloscope
+Two harmonically related tones are fed in, and the output is observed on a distortion analyzer
+Two non-harmonically related tones are fed in, and the output is observed on an oscilloscope
+Two non-harmonically related tones are fed in, and the output is observed on a distortion analyzer
+G4A03|D|What audio frequencies are used in a two-tone test of the linearity of a single-sideband phone transmitter?
+20 Hz and 20 kHz tones must be used
+1200 Hz and 2400 Hz tones must be used
+Any two audio tones may be used, but they must be within the transmitter audio passband, and must be harmonically related
+Any two audio tones may be used, but they must be within the transmitter audio passband, and should not be harmonically related
+G4A04|D|What measurement can be made of a single-sideband phone transmitter's amplifier by performing a two-tone test using an oscilloscope?
+Its percent of frequency modulation
+Its percent of carrier phase shift
+Its frequency deviation
+Its linearity
+G4A05|A|At what point in an HF transceiver block diagram would an electronic TR switch normally appear?
+Between the transmitter and low-pass filter
+Between the low-pass filter and antenna
+At the antenna feed point
+At the power-supply feed point
+G4A06|C|Why is an electronic TR switch preferable to a mechanical one?
+It allows greater receiver sensitivity
+Its circuitry is simpler
+It has a higher operating speed
+It allows cleaner output signals
+G4A07|A|As a power amplifier is tuned, what reading on its grid-current meter indicates the best neutralization?
+A minimum change in grid current as the output circuit is changed
+A maximum change in grid current as the output circuit is changed
+Minimum grid current
+Maximum grid current
+G4A08|D|Why is neutralization necessary for some vacuum-tube amplifiers?
+To reduce the limits of loaded Q
+To reduce grid-to-cathode leakage
+To cancel AC hum from the filament transformer
+To cancel oscillation caused by the effects of interelectrode capacitance
+G4A09|C|In a properly neutralized RF amplifier, what type of feedback is used?
+5%
+10%
+Negative
+Positive
+G4A10|B|What does a neutralizing circuit do in an RF amplifier?
+It controls differential gain
+It cancels the effects of positive feedback
+It eliminates AC hum from the power supply
+It reduces incidental grid modulation
+G4A11|B|What is the reason for neutralizing the final amplifier stage of a transmitter?
+To limit the modulation index
+To eliminate self oscillations
+To cut off the final amplifier during standby periods
+To keep the carrier on frequency
+G4B:[01/11]Test equipment: oscilloscope; signal tracer; antenna noise bridge; monitoring oscilloscope; field strength meters
+G4B01|D|What item of test equipment contains horizontal- and vertical-channel amplifiers?
+An ohmmeter
+A signal generator
+An ammeter
+An oscilloscope
+G4B02|D|How would a signal tracer normally be used?
+To identify the source of radio transmissions
+To make exact drawings of signal waveforms
+To show standing wave patterns on open-wire feed lines
+To identify an inoperative stage in a receiver
+G4B03|B|Why would you use an antenna noise bridge?
+To measure the noise figure of an antenna or other electrical circuit
+To measure the impedance of an antenna or other electrical circuit
+To cancel electrical noise picked up by an antenna
+To tune out noise in a receiver
+G4B04|C|How is an antenna noise bridge normally used?
+It is connected at an antenna's feed point and reads the antenna's noise figure
+It is connected between a transmitter and an antenna and is tuned for minimum SWR
+It is connected between a receiver and an unknown impedance and is tuned for minimum noise
+It is connected between an antenna and ground and is tuned for minimum SWR
+G4B05|A|What is the best instrument to use to check the signal quality of a CW or single-sideband phone transmitter?
+A monitoring oscilloscope
+A field-strength meter
+A sidetone monitor
+A signal tracer and an audio amplifier
+G4B06|D|What signal source is connected to the vertical input of a monitoring oscilloscope when checking the quality of a transmitted signal?
+The IF output of a monitoring receiver
+The audio input of the transmitter
+The RF signals of a nearby receiving antenna
+The RF output of the transmitter
+G4B07|A|What instrument can be used to determine the horizontal radiation pattern of an antenna?
+A field-strength meter
+A grid-dip meter
+An oscilloscope
+A signal tracer and an audio amplifier
+G4B08|C|How is a field-strength meter normally used?
+To determine the standing-wave ratio on a transmission line
+To check the output modulation of a transmitter
+To monitor relative RF output
+To increase average transmitter output
+G4B09|A|What simple instrument may be used to monitor relative RF output during antenna and transmitter adjustments?
+A field-strength meter
+An antenna noise bridge
+A multimeter
+A metronome
+G4B10|B|If the power output of a transmitter is increased by four times, how might a nearby receiver's S-meter reading change?
+Decrease by approximately one S unit
+Increase by approximately one S unit
+Increase by approximately four S units
+Decrease by approximately four S units
+G4B11|C|By how many times must the power output of a transmitter be increased to raise the S-meter reading on a nearby receiver from S8 to S9?
+Approximately 2 times
+Approximately 3 times
+Approximately 4 times
+Approximately 5 times
+G4C:[01/11]Audio rectification in consumer electronics, RF ground
+G4C01|B|What devices would you install to reduce or eliminate audio-frequency interference to home-entertainment systems?
+Bypass inductors
+Bypass capacitors
+Metal-oxide varistors
+Bypass resistors
+G4C02|B|What should be done if a properly operating amateur station is the cause of interference to a nearby telephone?
+Make internal adjustments to the telephone equipment
+Ask the telephone company to install RFI filters
+Stop transmitting whenever the telephone is in use
+Ground and shield the local telephone distribution amplifier
+G4C03|C|What sound is heard from a public-address system if audio rectification of a nearby single-sideband phone transmission occurs?
+A steady hum whenever the transmitter's carrier is on the air
+On-and-off humming or clicking
+Distorted speech from the transmitter's signals
+Clearly audible speech from the transmitter's signals
+G4C04|A|What sound is heard from a public-address system if audio rectification of a nearby CW transmission occurs?
+On-and-off humming or clicking
+Audible, possibly distorted speech
+Muffled, severely distorted speech
+A steady whistling
+G4C05|C|How can you minimize the possibility of audio rectification of your transmitter's signals?
+By using a solid-state transmitter
+By using CW emission only
+By ensuring that all station equipment is properly grounded
+By installing bypass capacitors on all power supply rectifiers
+G4C06|D|If your third-floor amateur station has a ground wire running 33 feet down to a ground rod, why might you get an RF burn if you touch the front panel of your HF transceiver?
+Because the ground rod is not making good contact with moist earth
+Because the transceiver's heat-sensing circuit is not working to start the cooling fan
+Because of a bad antenna connection, allowing the RF energy to take an easier path out of the transceiver through you
+Because the ground wire is a resonant length on several HF bands and acts more like an antenna than an RF ground connection
+G4C07|A|What is NOT an important reason to have a good station ground?
+To reduce the cost of operating a station
+To reduce electrical noise
+To reduce interference
+To reduce the possibility of electric shock
+G4C08|A|What is one good way to avoid stray RF energy in your amateur station?
+Keep the station's ground wire as short as possible
+Use a beryllium ground wire for best conductivity
+Drive the ground rod at least 14 feet into the ground
+Make a couple of loops in the ground wire where it connects to your station
+G4C09|B|Which statement about station grounding is NOT true?
+Braid from RG-213 coaxial cable makes a good conductor to tie station equipment together into a station ground
+Only transceivers and power amplifiers need to be tied into a station ground
+According to the National Electrical Code, there should be only one grounding system in a building
+The minimum length for a good ground rod is 8 feet
+G4C10|C|Which statement about station grounding is true?
+The chassis of each piece of station equipment should be tied together with high-impedance conductors
+If the chassis of all station equipment is connected with a good conductor, there is no need to tie them to an earth ground
+RF hot spots can occur in a station located above the ground floor if the equipment is grounded by a long ground wire
+A ground loop is an effective way to ground station equipment
+G4C11|D|Which of the following is NOT covered in the National Electrical Code?
+Minimum conductor sizes for different lengths of amateur antennas
+The size and composition of grounding conductors
+Electrical safety inside the ham shack
+The RF exposure limits of the human body
+G4D:[01/11]Speech processors; PEP calculations; wire sizes and fuses
+G4D01|D|What is the reason for using a properly adjusted speech processor with a single-sideband phone transmitter?
+It reduces average transmitter power requirements
+It reduces unwanted noise pickup from the microphone
+It improves voice frequency fidelity
+It improves signal intelligibility at the receiver
+G4D02|B|If a single-sideband phone transmitter is 100% modulated, what will a speech processor do to the transmitter's power?
+It will increase the output PEP
+It will add nothing to the output PEP
+It will decrease the peak power output
+It will decrease the average power output
+G4D03|B|How is the output PEP of a transmitter calculated if an oscilloscope is used to measure the transmitter's peak load voltage across a resistive load?
+PEP = [(Vp)(Vp)] / (RL)
+PEP = [(0.707 PEV)(0.707 PEV)] / RL
+PEP = (Vp)(Vp)(RL)
+PEP = [(1.414 PEV)(1.414 PEV)] / RL
+G4D04|A|What is the output PEP from a transmitter if an oscilloscope measures 200 volts peak-to-peak across a 50-ohm resistor connected to the transmitter output?
+100 watts
+200 watts
+400 watts
+1000 watts
+G4D05|B|What is the output PEP from a transmitter if an oscilloscope measures 500 volts peak-to-peak across a 50-ohm resistor connected to the transmitter output?
+500 watts
+625 watts
+1250 watts
+2500 watts
+G4D06|B|What is the output PEP of an unmodulated carrier transmitter if an average-reading wattmeter connected to the transmitter output indicates 1060 watts?
+530 watts
+1060 watts
+1500 watts
+2120 watts
+G4D07|A|Which wires in a four-conductor line cord should be attached to fuses in a 240-VAC primary (single phase) power supply?
+Only the "hot" (black and red) wires
+Only the "neutral" (white) wire
+Only the ground (bare) wire
+All wires
+G4D08|A|What size wire is normally used on a 15-ampere, 120-VAC household lighting circuit?
+AWG number 14
+AWG number 16
+AWG number 18
+AWG number 22
+G4D09|D|What size wire is normally used on a 20-ampere, 120-VAC household appliance circuit?
+AWG number 20
+AWG number 16
+AWG number 14
+AWG number 12
+G4D10|D|What maximum size fuse or circuit breaker should be used in a household appliance circuit using AWG number 12 wiring?
+100 amperes
+60 amperes
+30 amperes
+20 amperes
+G4D11|A|What maximum size fuse or circuit breaker should be used in a household appliance circuit using AWG number 14 wiring?
+15 amperes
+20 amperes
+30 amperes
+60 amperes
+G4E:[01/11]RF safety
+G4E01|A|Depending on the wavelength of the signal, the energy density of the RF field, and other factors, in what way can RF energy affect body tissue?
+It heats the tissue
+It causes radiation poisoning
+It causes blood flow to stop
+It produces genetic changes in the tissue
+G4E02|C|If you operate your amateur station with indoor antennas, what precautions should you take when you install them?
+Locate the antennas close to your operating position to minimize feed-line length
+Position the antennas along the edge of a wall where it meets the floor or ceiling to reduce parasitic radiation
+Locate the antennas as far away as possible from living spaces that will be occupied while you are operating
+Position the antennas parallel to electrical power wires to take advantage of parasitic effects
+G4E03|A|What precaution should you take whenever you make adjustments to the feed system of a parabolic dish antenna?
+Be sure no one can activate the transmitter
+Disconnect the antenna-positioning mechanism
+Point the dish away from the sun so it doesn't concentrate solar energy on you
+Be sure you and the antenna structure are properly grounded
+G4E04|B|What is one important thing to consider when using an indoor antenna?
+Use stranded wire to reduce stray RF
+Ensure that the antenna is as far away from people as possible
+Use only a Yagi antenna to direct the signals away from people
+Use as much power as possible to ensure that your signal gets out
+G4E05|A|Why should a protective fence be placed around the base of a ground-mounted parabolic dish transmitting antenna?
+To reduce the possibility of persons being harmed by RF energy during transmissions
+To reduce the possibility that animals will damage the antenna
+To increase the property value through increased security awareness
+To protect the antenna from lightning damage and provide a good ground system for the installation
+G4E06|B|What RF-safety precautions should you take before beginning repairs on an antenna?
+Be sure you and the antenna structure are grounded
+Be sure to turn off the transmitter and disconnect the feed line
+Inform your neighbors so they are aware of your intentions
+Turn off the main power switch in your house
+G4E07|D|What precaution should you take when installing a ground-mounted antenna?
+It should not be installed higher than you can reach
+It should not be installed in a wet area
+It should be painted so people or animals do not accidentally run into it
+It should be installed so no one can come in contact with it
+G4E08|B|What precautions should you take before beginning repairs on a microwave feed horn or waveguide?
+Be sure to wear tight-fitting clothes and gloves to protect your body and hands from sharp edges
+Be sure the transmitter is turned off and the power source is disconnected
+Be sure the weather is dry and sunny
+Be sure propagation conditions are unfavorable for tropospheric ducting
+G4E09|D|Why should directional high-gain antennas be mounted higher than nearby structures?
+So they will be dried by the wind after a heavy rain storm
+So they will not damage nearby structures with RF energy
+So they will receive more sky waves and fewer ground waves
+So they will not direct RF energy toward people in nearby structures
+G4E10|C|For best RF safety, where should the ends and center of a dipole antenna be located?
+Near or over moist ground so RF energy will be radiated away from the ground
+As close to the transmitter as possible so RF energy will be concentrated near the transmitter
+As high as possible to prevent people from coming in contact with the antenna
+Close to the ground so simple adjustments can be easily made without climbing a ladder
+G4E11|B|Which property of RF energy is NOT important in estimating the energy's effect on body tissue?
+The polarization
+The critical angle
+The power density
+The frequency
+G5A:[01/11]Impedance, including matching; resistance, including ohm; reactance, inductance, capacitance and metric divisions of these values
+G5A01|C|What is impedance?
+The electric charge stored by a capacitor
+The opposition to the flow of AC in a circuit containing only capacitance
+The opposition to the flow of AC in a circuit
+The force of repulsion between one electric field and another with the same charge
+G5A02|B|What is reactance?
+Opposition to DC caused by resistors
+Opposition to AC caused by inductors and capacitors
+A property of ideal resistors in AC circuits
+A large spark produced at switch contacts when an inductor is de-energized
+G5A03|D|In an inductor, what causes opposition to the flow of AC?
+Resistance
+Reluctance
+Admittance
+Reactance
+G5A04|C|In a capacitor, what causes opposition to the flow of AC?
+Resistance
+Reluctance
+Reactance
+Admittance
+G5A05|D|How does a coil react to AC?
+As the frequency of the applied AC increases, the reactance decreases
+As the amplitude of the applied AC increases, the reactance increases
+As the amplitude of the applied AC increases, the reactance decreases
+As the frequency of the applied AC increases, the reactance increases
+G5A06|A|How does a capacitor react to AC?
+As the frequency of the applied AC increases, the reactance decreases
+As the frequency of the applied AC increases, the reactance increases
+As the amplitude of the applied AC increases, the reactance increases
+As the amplitude of the applied AC increases, the reactance decreases
+G5A07|A|When will a power source deliver maximum output to the load?
+When the impedance of the load is equal to the impedance of the source
+When the load resistance is infinite
+When the power-supply fuse rating equals the primary winding current
+When air wound transformers are used instead of iron-core transformers
+G5A08|D|What happens when the impedance of an electrical load is equal to the internal impedance of the power source?
+The source delivers minimum power to the load
+The electrical load is shorted
+No current can flow through the circuit
+The source delivers maximum power to the load
+G5A09|A|Why is impedance matching important?
+So the source can deliver maximum power to the load
+So the load will draw minimum power from the source
+To ensure that there is less resistance than reactance in the circuit
+To ensure that the resistance and reactance in the circuit are equal
+G5A10|B|What unit is used to measure reactance?
+Mho
+Ohm
+Ampere
+Siemens
+G5A11|B|What unit is used to measure impedance?
+Volt
+Ohm
+Ampere
+Watt
+G5B:[01/16]Decibel, Ohm's Law, current and voltage dividers, electrical power calculations and series and parallel components, transformers (either voltage or impedance), sine wave root-mean-square (RMS) value
+G5B01|B|A two-times increase in power results in a change of how many dB?
+1 dB higher
+3 dB higher
+6 dB higher
+12 dB higher
+G5B02|B|How can you decrease your transmitter's power by 3 dB?
+Divide the original power by 1.5
+Divide the original power by 2
+Divide the original power by 3
+Divide the original power by 4
+G5B03|D|How can you increase your transmitter's power by 6 dB?
+Multiply the original power by 1.5
+Multiply the original power by 2
+Multiply the original power by 3
+Multiply the original power by 4
+G5B04|C|If a signal-strength report is "10 dB over S9", what should the report be if the transmitter power is reduced from 1500 watts to 150 watts?
+S5
+S7
+S9
+S9 plus 5 dB
+G5B05|C|If a signal-strength report is "20 dB over S9", what should the report be if the transmitter power is reduced from 1500 watts to 15 watts?
+S5
+S7
+S9
+S9 plus 10 dB
+G5B06|D|If a 1.0-ampere current source is connected to two parallel-connected 10-ohm resistors, how much current passes through each resistor?
+10 amperes
+2 amperes
+1 ampere
+0.5 ampere
+G5B07|B|In a parallel circuit with a voltage source and several branch resistors, how is the total current related to the current in the branch resistors?
+It equals the average of the branch current through each resistor
+It equals the sum of the branch current through each resistor
+It decreases as more parallel resistors are added to the circuit
+It is the sum of each resistor's voltage drop multiplied by the total number of resistors
+G5B08|B|How many watts of electrical power are used if 400 VDC is supplied to an 800-ohm load?
+0.5 watts
+200 watts
+400 watts
+320,000 watts
+G5B09|D|How many watts of electrical power are used by a 12-VDC light bulb that draws 0.2 amperes? 
+60 watts
+24 watts
+6 watts
+2.4 watts
+G5B10|A|How many watts are being dissipated when 7.0 milliamperes flow through 1.25 kilohms?
+Approximately 61 milliwatts
+Approximately 39 milliwatts
+Approximately 11 milliwatts
+Approximately 9 milliwatts
+G5B11|C|What is the voltage across a 500-turn secondary winding in a transformer if the 2250-turn primary is connected to 120 VAC?
+2370 volts
+540 volts
+26.7 volts
+5.9 volts
+G5B12|A|What is the turns ratio of a transformer to match an audio amplifier having a 600-ohm output impedance to a speaker having a 4-ohm impedance?
+12.2 to 1
+24.4 to 1
+150 to 1
+300 to 1
+G5B13|D|What is the impedance of a speaker that requires a transformer with a turns ratio of 24 to 1 to match an audio amplifier having an output impedance of 2000 ohms?
+576 ohms
+83.3 ohms
+7.0 ohms
+3.5 ohms
+G5B14|B|A DC voltage equal to what value of an applied sine-wave AC voltage would produce the same amount of heat over time in a resistive element?
+The peak-to-peak value
+The RMS value
+The average value
+The peak value
+G5B15|D|What is the peak-to-peak voltage of a sine wave that has an RMS voltage of 120 volts?
+84.8 volts
+169.7 volts
+204.8 volts
+339.4 volts
+G5B16|B|A sine wave of 17 volts peak is equivalent to how many volts RMS?
+8.5 volts
+12 volts
+24 volts
+34 volts
+G6A:[01/11]Resistors, capacitors, inductors, rectifiers, and transistors, etc.
+G6A01|C|If a carbon resistor's temperature is increased, what will happen to the resistance?
+It will increase by 20% for every 10 degrees centigrade
+It will stay the same
+It will change depending on the resistor's temperature coefficient rating
+It will become time dependent
+G6A02|D|What type of capacitor is often used in power-supply circuits to filter the rectified AC?
+Disc ceramic
+Vacuum variable
+Mica
+Electrolytic
+G6A03|D|What type of capacitor is used in power-supply circuits to filter transient voltage spikes across the transformer's secondary winding?
+High-value
+Trimmer
+Vacuum variable
+Suppressor
+G6A04|B|Where is the source of energy connected in a transformer?
+To the secondary winding
+To the primary winding
+To the core
+To the plates
+G6A05|A|If no load is attached to the secondary winding of a transformer, what is current in the primary winding called?
+Magnetizing current
+Direct current
+Excitation current
+Stabilizing current
+G6A06|C|What is the peak-inverse-voltage rating of a power-supply rectifier?
+The maximum transient voltage the rectifier will handle in the conducting direction
+1.4 times the AC frequency
+The maximum voltage the rectifier will handle in the non-conducting direction
+2.8 times the AC frequency
+G6A07|A|What are the two major ratings that must not be exceeded for silicon-diode rectifiers used in power-supply circuits?
+Peak inverse voltage; average forward current
+Average power; average voltage
+Capacitive reactance; avalanche voltage
+Peak load impedance; peak voltage
+G6A08|A|Why should a resistor and capacitor be wired in parallel with power-supply rectifier diodes?
+To equalize voltage drops and guard against transient voltage spikes
+To ensure that the current through each diode is about the same
+To smooth the output waveform
+To decrease the output voltage
+G6A09|A|What is the output waveform of an unfiltered full-wave rectifier connected to a resistive load?
+A series of pulses at twice the frequency of the AC input
+A series of pulses at the same frequency as the AC input
+A sine wave at half the frequency of the AC input
+A steady DC voltage
+G6A10|B|A half-wave rectifier conducts during how many degrees of each cycle?
+90 degrees
+180 degrees
+270 degrees
+360 degrees
+G6A11|D|A full-wave rectifier conducts during how many degrees of each cycle?
+90 degrees
+180 degrees
+270 degrees
+360 degrees
+G7A:[01/11]Power supplies and filters; single-sideband transmitters and receivers
+G7A01|B|What safety feature does a power-supply bleeder resistor provide?
+It improves voltage regulation
+It discharges the filter capacitors
+It removes shock hazards from the induction coils
+It eliminates ground-loop current
+G7A02|A|Where is a power-supply bleeder resistor connected?
+Across the filter capacitor
+Across the power-supply input
+Between the transformer primary and secondary windings
+Across the inductor in the output filter
+G7A03|D|What components are used in a power-supply filter network?
+Diodes
+Transformers and transistors
+Quartz crystals
+Capacitors and inductors
+G7A04|D|What should be the peak-inverse-voltage rating of the rectifier in a full-wave power supply?
+One-quarter the normal output voltage of the power supply
+Half the normal output voltage of the power supply
+Equal to the normal output voltage of the power supply
+Double the normal peak output voltage of the power supply
+G7A05|D|What should be the peak-inverse-voltage rating of the rectifier in a half-wave power supply?
+One-quarter to one-half the normal peak output voltage of the power supply
+Half the normal output voltage of the power supply
+Equal to the normal output voltage of the power supply
+One to two times the normal peak output voltage of the power supply
+G7A06|B|What should be the impedance of a low-pass filter as compared to the impedance of the transmission line into which it is inserted?
+Substantially higher
+About the same
+Substantially lower
+Twice the transmission line impedance
+G7A07|B|In a typical single-sideband phone transmitter, what circuit processes signals from the balanced modulator and sends signals to the mixer?
+Carrier oscillator
+Filter
+IF amplifier
+RF amplifier
+G7A08|D|In a single-sideband phone transmitter, what circuit processes signals from the carrier oscillator and the speech amplifier and sends signals to the filter?
+Mixer
+Detector
+IF amplifier
+Balanced modulator
+G7A09|C|In a single-sideband phone superheterodyne receiver, what circuit processes signals from the RF amplifier and the local oscillator and sends signals to the IF filter?
+Balanced modulator
+IF amplifier
+Mixer
+Detector
+G7A10|D|In a single-sideband phone superheterodyne receiver, what circuit processes signals from the IF amplifier and the BFO and sends signals to the AF amplifier?
+RF oscillator
+IF filter
+Balanced modulator
+Detector
+G7A11|B|In a single-sideband phone superheterodyne receiver, what circuit processes signals from the IF filter and sends signals to the detector?
+RF oscillator
+IF amplifier
+Mixer
+BFO
+G8A:[01/11]Signal information, AM, FM, single and double sideband and carrier, bandwidth, modulation envelope, deviation, overmodulation
+G8A01|D|What type of modulation system changes the amplitude of an RF wave for the purpose of conveying information?
+Frequency modulation
+Phase modulation
+Amplitude-rectification modulation
+Amplitude modulation
+G8A02|B|What type of modulation system changes the phase of an RF wave for the purpose of conveying information?
+Pulse modulation
+Phase modulation
+Phase-rectification modulation
+Amplitude modulation
+G8A03|D|What type of modulation system changes the frequency of an RF wave for the purpose of conveying information?
+Phase-rectification modulation
+Frequency-rectification modulation
+Amplitude modulation
+Frequency modulation
+G8A04|B|What emission is produced by a reactance modulator connected to an RF power amplifier?
+Multiplex modulation
+Phase modulation
+Amplitude modulation
+Pulse modulation
+G8A05|D|What emission type does the instantaneous amplitude (envelope) of the RF signal vary in accordance with the modulating audio?
+Frequency shift keying
+Pulse modulation
+Frequency modulation
+Amplitude modulation
+G8A06|C|How much is the carrier suppressed below peak output power in a single-sideband phone transmission?
+No more than 20 dB
+No more than 30 dB
+At least 40 dB
+At least 60 dB
+G8A07|C|What is one advantage of carrier suppression in a double-sideband phone transmission?
+Only half the bandwidth is required for the same information content
+Greater modulation percentage is obtainable with lower distortion
+More power can be put into the sidebands
+Simpler equipment can be used to receive a double-sideband suppressed-carrier signal
+G8A08|A|Which popular phone emission uses the narrowest frequency bandwidth?
+Single-sideband
+Double-sideband
+Phase-modulated
+Frequency-modulated
+G8A09|D|What happens to the signal of an overmodulated single-sideband or double-sideband phone transmitter?
+It becomes louder with no other effects
+It occupies less bandwidth with poor high-frequency response
+It has higher fidelity and improved signal-to-noise ratio
+It becomes distorted and occupies more bandwidth
+G8A10|B|How should the microphone gain control be adjusted on a single-sideband phone transmitter?
+For full deflection of the ALC meter on modulation peaks
+For slight movement of the ALC meter on modulation peaks
+For 100% frequency deviation on modulation peaks
+For a dip in plate current
+G8A11|C|What is meant by flattopping in a single-sideband phone transmission?
+Signal distortion caused by insufficient collector current
+The transmitter's automatic level control is properly adjusted
+Signal distortion caused by excessive drive
+The transmitter's carrier is properly suppressed
+G8B:[01/11]Frequency mixing, multiplication, bandwidths, HF data communications
+G8B01|A|What receiver stage combines a 14.25-MHz input signal with a 13.795-MHz oscillator signal to produce a 455-kHz intermediate frequency (IF) signal?
+Mixer
+BFO
+VFO
+Multiplier
+G8B02|B|If a receiver mixes a 13.800-MHz VFO with a 14.255-MHz received signal to produce a 455-kHz intermediate frequency (IF) signal, what type of interference will a 13.345-MHz signal produce in the receiver?
+Local oscillator
+Image response
+Mixer interference
+Intermediate interference
+G8B03|A|What stage in a transmitter would change a 5.3-MHz input signal to 14.3 MHz?
+A mixer
+A beat frequency oscillator
+A frequency multiplier
+A linear translator
+G8B04|D|What is the name of the stage in a VHF FM transmitter that selects a harmonic of an HF signal to reach the desired operating frequency?
+Mixer
+Reactance modulator
+Preemphasis network
+Multiplier
+G8B05|C|Why isn't frequency modulated (FM) phone used below 29.5 MHz?
+The transmitter efficiency for this mode is low
+Harmonics could not be attenuated to practical levels
+The bandwidth would exceed FCC limits
+The frequency stability would not be adequate
+G8B06|D|What is the total bandwidth of an FM-phone transmission having a 5-kHz deviation and a 3-kHz modulating frequency?
+3 kHz
+5 kHz
+8 kHz
+16 kHz
+G8B07|B|What is the frequency deviation for a 12.21-MHz reactance-modulated oscillator in a 5-kHz deviation, 146.52-MHz FM-phone transmitter?
+41.67 Hz
+416.7 Hz
+5 kHz
+12 kHz
+G8B08|C|How is frequency shift related to keying speed in an FSK signal?
+The frequency shift in hertz must be at least four times the keying speed in WPM
+The frequency shift must not exceed 15 Hz per WPM of keying speed
+Greater keying speeds require greater frequency shifts
+Greater keying speeds require smaller frequency shifts
+G8B09|B|What do RTTY, Morse code, AMTOR and packet communications have in common?
+They are multipath communications
+They are digital communications
+They are analog communications
+They are only for emergency communications
+G8B10|C|What is the duty cycle required of a transmitter when sending Mode B (FEC) AMTOR?
+50%
+75%
+100%
+125%
+G8B11|D|In what segment of the 20-meter band are most AMTOR operations found?
+At the bottom of the slow-scan TV segment, near 14.230 MHz
+At the top of the SSB phone segment, near 14.325 MHz
+In the middle of the CW segment, near 14.100 MHz
+At the bottom of the RTTY segment, near 14.075 MHz
+G9A:[01/11]Yagi antennas - physical dimensions, impedance matching, radiation patterns, directivity and major lobes
+G9A01|A|How can the SWR bandwidth of a parasitic beam antenna be increased?
+Use larger diameter elements
+Use closer element spacing
+Use traps on the elements
+Use tapered-diameter elements
+G9A02|B|Approximately how long is the driven element of a Yagi antenna for 14.0 MHz?
+17 feet
+33 feet
+35 feet
+66 feet
+G9A03|B|Approximately how long is the director element of a Yagi antenna for 21.1 MHz?
+42 feet
+21 feet
+17 feet
+10.5 feet
+G9A04|C|Approximately how long is the reflector element of a Yagi antenna for 28.1 MHz?
+8.75 feet
+16.6 feet
+17.5 feet
+35 feet
+G9A05|B|Which statement about a three-element Yagi antenna is true?
+The reflector is normally the shortest parasitic element
+The director is normally the shortest parasitic element
+The driven element is the longest parasitic element
+Low feed-point impedance increases bandwidth
+G9A06|A|What is one effect of increasing the boom length and adding directors to a Yagi antenna?
+Gain increases
+SWR increases
+Weight decreases
+Windload decreases
+G9A07|D|What are some advantages of a Yagi with wide element spacing?
+High gain, lower loss and a low SWR
+High front-to-back ratio and lower input resistance
+Shorter boom length, lower weight and wind resistance
+High gain, less critical tuning and wider bandwidth
+G9A08|C|Why is a Yagi antenna often used for radio communications on the 20-meter band?
+It provides excellent omnidirectional coverage in the horizontal plane
+It is smaller, less expensive and easier to erect than a dipole or vertical antenna
+It helps reduce interference from other stations off to the side or behind
+It provides the highest possible angle of radiation for the HF bands
+G9A09|C|What does "antenna front-to-back ratio" mean in reference to a Yagi antenna?
+The number of directors versus the number of reflectors
+The relative position of the driven element with respect to the reflectors and directors
+The power radiated in the major radiation lobe compared to the power radiated in exactly the opposite direction
+The power radiated in the major radiation lobe compared to the power radiated 90 degrees away from that direction
+G9A10|C|What is the "main lobe" of a Yagi antenna radiation pattern?
+The direction of least radiation from the antenna
+The point of maximum current in a radiating antenna element
+The direction of maximum radiated field strength from the antenna
+The maximum voltage standing wave point on a radiating element
+G9A11|A|What is a good way to get maximum performance from a Yagi antenna?
+Optimize the lengths and spacing of the elements
+Use RG-58 feed line
+Use a reactance bridge to measure the antenna performance from each direction around the antenna
+Avoid using towers higher than 30 feet above the ground
+G9B:[01/11]Loop antennas - physical dimensions, impedance matching, radiation patterns, directivity and major lobes
+G9B01|B|Approximately how long is each side of a cubical-quad antenna driven element for 21.4 MHz?
+1.17 feet
+11.7 feet
+47 feet
+469 feet
+G9B02|A|Approximately how long is each side of a cubical-quad antenna driven element for 14.3 MHz?
+17.6 feet
+23.4 feet
+70.3 feet
+175 feet
+G9B03|B|Approximately how long is each side of a cubical-quad antenna reflector element for 29.6 MHz?
+8.23 feet
+8.7 feet
+9.7 feet
+34.8 feet
+G9B04|B|Approximately how long is each leg of a symmetrical delta-loop antenna driven element for 28.7 MHz?
+8.75 feet
+11.7 feet
+23.4 feet
+35 feet
+G9B05|C|Approximately how long is each leg of a symmetrical delta-loop antenna driven element for 24.9 MHz?
+10.99 feet
+12.95 feet
+13.45 feet
+40.36 feet
+G9B06|C|Approximately how long is each leg of a symmetrical delta-loop antenna reflector element for 14.1 MHz?
+18.26 feet
+23.76 feet
+24.35 feet
+73.05 feet
+G9B07|A|Which statement about two-element delta loops and quad antennas is true?
+They compare favorably with a three-element Yagi
+They perform poorly above HF
+They perform very well only at HF
+They are effective only when constructed using insulated wire
+G9B08|C|Compared to a dipole antenna, what are the directional radiation characteristics of a cubical-quad antenna?
+The quad has more directivity in the horizontal plane but less directivity in the vertical plane
+The quad has less directivity in the horizontal plane but more directivity in the vertical plane
+The quad has more directivity in both horizontal and vertical planes
+The quad has less directivity in both horizontal and vertical planes
+G9B09|D|Moving the feed point of a multielement quad antenna from a side parallel to the ground to a side perpendicular to the ground will have what effect?
+It will significantly increase the antenna feed-point impedance
+It will significantly decrease the antenna feed-point impedance
+It will change the antenna polarization from vertical to horizontal
+It will change the antenna polarization from horizontal to vertical
+G9B10|C|What does the term "antenna front-to-back ratio" mean in reference to a delta-loop antenna?
+The number of directors versus the number of reflectors
+The relative position of the driven element with respect to the reflectors and directors
+The power radiated in the major radiation lobe compared to the power radiated in exactly the opposite direction
+The power radiated in the major radiation lobe compared to the power radiated 90 degrees away from that direction
+G9B11|C|What is the "main lobe" of a delta-loop antenna radiation pattern?
+The direction of least radiation from an antenna
+The point of maximum current in a radiating antenna element
+The direction of maximum radiated field strength from the antenna
+The maximum voltage standing wave point on a radiating element
+G9C:[01/11]Random wire antennas - physical dimensions, impedance matching, radiation patterns, directivity and major lobes; feedpoint impedance of 1/2 wave dipole and 1/4 wavelength vertical antennas
+G9C01|A|What type of multiband transmitting antenna does NOT require a feed line?
+A random-wire antenna
+A triband Yagi antenna
+A delta-loop antenna
+A Beverage antenna
+G9C02|D|What is one advantage of using a random-wire antenna?
+It is more efficient than any other kind of antenna
+It will keep RF energy out of your station
+It doesn't need an impedance matching network
+It is a multiband antenna
+G9C03|B|What is one disadvantage of a random-wire antenna?
+It must be longer than 1 wavelength
+You may experience RF feedback in your station
+It usually produces vertically polarized radiation
+You must use an inverted-T matching network for multiband operation
+G9C04|D|What is an advantage of downward sloping radials on a ground-plane antenna?
+It lowers the radiation angle
+It brings the feed-point impedance closer to 300 ohms
+It increases the radiation angle
+It brings the feed-point impedance closer to 50 ohms
+G9C05|B|What happens to the feed-point impedance of a ground-plane antenna when its radials are changed from horizontal to downward-sloping?
+It decreases
+It increases
+It stays the same
+It approaches zero
+G9C06|A|What is the low-angle radiation pattern of an ideal half-wavelength dipole HF antenna installed parallel to the earth?
+It is a figure-eight at right angles to the antenna
+It is a figure-eight off both ends of the antenna
+It is a circle (equal radiation in all directions)
+It is two smaller lobes on one side of the antenna, and one larger lobe on the other side
+G9C07|B|How does antenna height affect the horizontal (azimuthal) radiation pattern of a horizontal dipole HF antenna?
+If the antenna is too high, the pattern becomes unpredictable
+If the antenna is less than one-half wavelength high, reflected radio waves from the ground significantly distort the pattern
+Antenna height has no effect on the pattern
+If the antenna is less than one-half wavelength high, radiation off the ends of the wire is eliminated
+G9C08|D|If a slightly shorter parasitic element is placed 0.1 wavelength away from an HF dipole antenna, what effect will this have on the antenna's radiation pattern?
+The radiation pattern will not be affected
+A major lobe will develop in the horizontal plane, parallel to the two elements
+A major lobe will develop in the vertical plane, away from the ground
+A major lobe will develop in the horizontal plane, toward the parasitic element
+G9C09|B|If a slightly longer parasitic element is placed 0.1 wavelength away from an HF dipole antenna, what effect will this have on the antenna's radiation pattern?
+The radiation pattern will not be affected
+A major lobe will develop in the horizontal plane, away from the parasitic element, toward the dipole
+A major lobe will develop in the vertical plane, away from the ground
+A major lobe will develop in the horizontal plane, parallel to the two elements
+G9C10|B|Where should the radial wires of a ground-mounted vertical antenna system be placed?
+As high as possible above the ground
+On the surface or buried a few inches below the ground
+Parallel to the antenna element
+At the top of the antenna
+G9C11|D|If you are transmitting from a ground-mounted vertical antenna, which of the following is an important reason for people to stay away from it?
+To avoid skewing the radiation pattern
+To avoid changes to the antenna feed-point impedance
+To avoid excessive grid current
+To avoid exposure to RF radiation
+G9D:[01/11]Popular antenna feed lines - characteristic impedance and impedance matching; SWR calculations
+G9D01|A|What factors determine the characteristic impedance of a parallel-conductor antenna feed line?
+The distance between the centers of the conductors and the radius of the conductors
+The distance between the centers of the conductors and the length of the line
+The radius of the conductors and the frequency of the signal
+The frequency of the signal and the length of the line
+G9D02|B|What is the typical characteristic impedance of coaxial cables used for antenna feed lines at amateur stations?
+25 and 30 ohms
+50 and 75 ohms
+80 and 100 ohms
+500 and 750 ohms
+G9D03|D|What is the characteristic impedance of flat-ribbon TV-type twinlead?
+50 ohms
+75 ohms
+100 ohms
+300 ohms
+G9D04|C|What is the typical cause of power being reflected back down an antenna feed line?
+Operating an antenna at its resonant frequency
+Using more transmitter power than the antenna can handle
+A difference between feed-line impedance and antenna feed-point impedance
+Feeding the antenna with unbalanced feed line
+G9D05|D|What must be done to prevent standing waves of voltage and current on an antenna feed line?
+The antenna feed point must be at DC ground potential
+The feed line must be cut to an odd number of electrical quarter-wavelengths long
+The feed line must be cut to an even number of physical half-wavelengths long
+The antenna feed-point impedance must be matched to the characteristic impedance of the feed line
+G9D06|C|If a center-fed dipole antenna is fed by parallel-conductor feed line, how would an inductively coupled matching network be used between the two?
+It would not normally be used with parallel-conductor feed lines
+It would be used to increase the SWR to an acceptable level
+It would be used to match the unbalanced transmitter output to the balanced parallel-conductor feed line
+It would be used at the antenna feed point to tune out the radiation resistance
+G9D07|A|If a 160-meter signal and a 2-meter signal pass through the same coaxial cable, how will the attenuation of the two signals compare?
+It will be greater at 2 meters
+It will be less at 2 meters
+It will be the same at both frequencies
+It will depend on the emission type in use
+G9D08|D|In what values are RF feed line losses usually expressed?
+Bels/1000 ft
+dB/1000 ft
+Bels/100 ft
+dB/100 ft
+G9D09|A|What standing-wave-ratio will result from the connection of a 50-ohm feed line to a resonant antenna having a 200-ohm feed-point impedance?
+4:1
+1:4
+2:1
+1:2
+G9D10|D|What standing-wave-ratio will result from the connection of a 50-ohm feed line to a resonant antenna having a 10-ohm feed-point impedance?
+2:1
+50:1
+1:5
+5:1
+G9D11|D|What standing-wave-ratio will result from the connection of a 50-ohm feed line to a resonant antenna having a 50-ohm feed-point impedance?
+2:1
+50:50
+0:0
+1:1
+
